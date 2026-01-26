@@ -1,29 +1,31 @@
 h:
-  "41615015180":
-    a: 41.5921
-    o: 23.0518
-    p: ZelenDol
+  "42703033000":
+    a: 42.68
+    o: 23.33
+    p: Elhovo
     e: 0
     g: 0
     x:
       - 70cm: 0
 x:
   70cm:
-    - h: "41615015180"
+    - h: "42703033000"
       u: []
       d: ""
       p: 1
       t: e
       s: "4"
       tx:
-        f: 439.3
+        f: 431.625
       rx:
-        f: 431.7
+        f: 439.225
         t:
           - f: "1"
       e1:
         - 284
-        - 294
+        - 2841
+        - 2842
+      e2:
         - 284359
 o: []
-page: https://mapy73.pl/repeater/LZ0BLG
+page: https://mapy73.pl/repeater/LZ0ELH

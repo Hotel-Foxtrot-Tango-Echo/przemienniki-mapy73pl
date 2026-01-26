@@ -21,8 +21,11 @@ x:
         f: 431.375
         t:
           - f: "1"
+      e1:
+        - 284
       e2:
         - 284
         - 284359
+        - 2840
 o: []
 page: https://mapy73.pl/repeater/LZ0ZLD
