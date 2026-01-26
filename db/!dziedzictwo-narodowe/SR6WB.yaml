@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://fm-poland.pl
+      u: []
       d: Antena Diamond X-30 40 m n.p.g.
 h:
   "50838099775":

@@ -8,7 +8,7 @@ x:
         Duplekser: PROKOM
       p: 10
       t: b
-      s: "6"
+      s: "4"
       tx:
         f: 438.65
       rx:
@@ -21,7 +21,7 @@ x:
         Duplekser: PROKOM
       p: 10
       t: e
-      s: "5"
+      s: "4"
       tx:
         f: 438.65
       rx:

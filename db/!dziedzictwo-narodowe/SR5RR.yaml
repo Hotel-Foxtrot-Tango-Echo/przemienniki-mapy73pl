@@ -57,8 +57,9 @@ x:
         Po aktywności na jednej z monitorowanych grup przez 30 sek. można
         korzystać z możliwości rozmowy na ostatniej aktywnej grupie.
       j0:
-        - 26083
+        - 26050
       j1:
+        - 112
         - 260
         - 26050
         - 260500
