@@ -14,7 +14,7 @@ x:
       d: ""
       p: 10
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.8
       rx:
@@ -24,7 +24,6 @@ x:
       e1:
         - 294
       e2:
-        - 2941
         - 29444
 o: []
 page: https://mapy73.pl/repeater/Z35UOH
