@@ -1,0 +1,25 @@
+h:
+  "48680011385":
+    a: 48.663521
+    o: 16.592846
+    p: Kleinhadersdorf
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "48680011385"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 438.725
+      rx:
+        f: 431.125
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/OE3XAV
