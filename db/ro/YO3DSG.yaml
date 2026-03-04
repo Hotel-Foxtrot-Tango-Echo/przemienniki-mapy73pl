@@ -14,7 +14,7 @@ x:
       d: ""
       p: 30
       t: e
-      s: "5"
+      s: "6"
       tx:
         f: 439.9
       rx:
@@ -25,7 +25,7 @@ x:
         - 226
       e2:
         - 9800
+        - 2263
         - 22610
-        - 226777
 o: []
 page: https://mapy73.pl/repeater/YO3DSG
