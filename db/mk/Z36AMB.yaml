@@ -21,5 +21,10 @@ x:
         f: 144.45
         t:
           - f: "1"
+      e1:
+        - 294
+      e2:
+        - 2948
+        - 220
 o: []
 page: https://mapy73.pl/repeater/Z36AMB
