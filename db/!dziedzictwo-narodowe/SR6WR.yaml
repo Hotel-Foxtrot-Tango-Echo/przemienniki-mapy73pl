@@ -8,23 +8,21 @@ x:
         f: 438.85
         t:
           - c: "103.5"
-      h: "51131042022"
+      h: "51125094289"
       t: a
       s: "4"
       p: 10
       u: []
-      d: antena x-300, 212 mnpt, 330 mnpm, sterownik NHRC-2 by SP6AN, 2 * Motorola
-        Maxtrac po niewielkim modsie, duplexer K&L, zasilacz? :) X-BOX, całość w
-        obudowie RACK 3U
+      d: ""
 h:
-  "51131042022":
+  "51125094289":
     x:
       - 70cm: 0
     p: Wrocław
     e: 120
     g: 60
-    a: 51.114462
-    o: 16.958219
+    a: 51.108958
+    o: 16.984888
 o:
-  - SQ6NCZ
+  - SQ6KAT
 page: https://mapy73.pl/repeater/SR6WR

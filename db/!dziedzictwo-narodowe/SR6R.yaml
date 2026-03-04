@@ -8,23 +8,23 @@ x:
         f: 145.6
         t:
           - c: "103.5"
-      h: "51123020704"
+      h: "51125094289"
       t: a
       s: "4"
       p: 10
       u: []
       d: |-
         Wymieniony przemiennik na Vertex Standard VXR-9000 był Yaesu VXR-5000
-        Diamond X-200n, duplekser Procom 6-komorowy
+        Diamond X-300n, duplekser Procom 6-komorowy
 h:
-  "51123020704":
+  "51125094289":
     x:
       - 2m: 0
     p: Wrocław
     e: 121
     g: 24
-    a: 51.106164
-    o: 17.04304
+    a: 51.108958
+    o: 16.984888
 o:
   - SQ6KOJ
 page: https://mapy73.pl/repeater/SR6R
