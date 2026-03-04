@@ -6,7 +6,7 @@ x:
         f: 438.125
       h: "49706029167"
       t: b
-      s: "4"
+      s: "6"
       p: 15
       u: []
       d: ""
@@ -28,7 +28,7 @@ x:
         Slot 2 : 260998 lokalnie, 260999 Gorlice, 26077 SierraEcho
         Reszta dynamicznie wedle przeznaczenia na nr slotu.
       e1:
-        - 2609
+        - 260
       e2:
         - 260998
 h:

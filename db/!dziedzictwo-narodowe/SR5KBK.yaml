@@ -1,0 +1,23 @@
+h:
+  "52361016154":
+    a: 52.339971
+    o: 21.190544
+    p: Kobyłka
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52361016154"
+      u: []
+      d: https://www.google.com/?q=przemiennik+SR5KBK
+      p: 10
+      t: "0"
+      s: "2"
+      tx:
+        f: "438.65"
+      rx:
+        f: "431.05"
+o: []
+page: https://mapy73.pl/repeater/SR5KBK

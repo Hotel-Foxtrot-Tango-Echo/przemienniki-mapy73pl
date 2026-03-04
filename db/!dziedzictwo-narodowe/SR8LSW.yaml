@@ -20,29 +20,10 @@ x:
         Modem RA-42
         Zasilanie awaryjne akumulatorowe + agregat automatyczny
         Analog Narrow FM
-    - rx:
-        f: 431.425
-      tx:
-        f: 439.025
-        t:
-          - c: "110.9"
-      h: "51244023137"
-      t: f
-      s: "4"
-      p: 15
-      u: []
-      d: |-
-        Urządzenie Motorola Quantar
-        Antena X300
-        Duplexer Wacom WP-672-SP3556
-        Modem RA-42
-        Zasilanie awaryjne akumulatorowe + agregat automatyczny
-        P25 RX/TX NAC 239
 h:
   "51244023137":
     x:
       - 70cm: 0
-      - 70cm: 1
     p: Świdnik
     e: 237
     g: 30

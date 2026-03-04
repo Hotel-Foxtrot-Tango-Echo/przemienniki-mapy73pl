@@ -18,6 +18,8 @@ x:
         CC 5
         TS 1 2605
         TS 2 statyczne 26055TG KAB
+      e1:
+        - 260
       e2:
         - 26055
 h:
