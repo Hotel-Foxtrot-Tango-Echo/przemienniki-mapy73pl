@@ -22,7 +22,8 @@ x:
         t:
           - f: "1"
       e1:
-        - 259
         - 2599
+      e2:
+        - 259
 o: []
 page: https://mapy73.pl/repeater/ER1PWR
