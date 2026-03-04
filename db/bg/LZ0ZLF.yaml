@@ -21,11 +21,9 @@ x:
         f: 432.375
         t:
           - f: "1"
-      e1:
-        - 284
       e2:
         - 284
         - 284359
-        - 2840
+        - 2841
 o: []
 page: https://mapy73.pl/repeater/LZ0ZLF
