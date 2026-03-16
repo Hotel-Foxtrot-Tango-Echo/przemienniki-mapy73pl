@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://sp7pki.iq24.pl/default.asp?action=4&f_szukaj=sr7v
+      u: []
       d: >-
         Urządzenie: Motorola MTR 2000.
 

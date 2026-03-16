@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://la2t.nrrl.no/wp/
+      u: []
       d: ""
 h:
   "63196062500":

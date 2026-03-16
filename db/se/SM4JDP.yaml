@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sm4jdp.se/434675Mhz.htm
+      u: []
       d: ""
     - rx:
         f: 432.85
@@ -21,8 +20,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sm4jdp.se/434850Mhz.htm
+      u: []
       d: ""
 h:
   "61044097835":

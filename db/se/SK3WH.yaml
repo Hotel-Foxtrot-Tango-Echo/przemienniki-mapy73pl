@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://status.ircddb.net/qam.php?call=SK3WH%20&mod=C
+      u: []
       d: ""
   23cm:
     - rx:

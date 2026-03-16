@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk7rbk.sm0olb.se/
+      u: []
       d: ""
   2m:
     - rx:
@@ -24,8 +23,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk7rbk.sm0olb.se/
+      u: []
       d: ""
 h:
   "56305012471":

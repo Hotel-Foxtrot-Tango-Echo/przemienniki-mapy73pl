@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk2az.com
+      u: []
       d: ""
   70cm:
     - rx:
@@ -24,8 +23,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk2az.com
+      u: []
       d: ""
   10m:
     - rx:
@@ -38,8 +36,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk2az.com
+      u: []
       d: ""
 h:
   "65330082720":

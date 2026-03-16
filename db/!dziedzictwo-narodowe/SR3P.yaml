@@ -13,8 +13,7 @@ x:
       t: a
       s: "6"
       p: 7
-      u:
-        - http://sp3inj.republika.pl/sr3p/index.html
+      u: []
       d: |-
         2x Motorola GM950
         2x ant Radmor 3282

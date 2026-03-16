@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 15
-      u:
-        - http://sp9kmq.sp-radio.eu
+      u: []
       d: >-
         Przemiennik cyfrowy Hytera RD625 pracujący w trybie cyfrowym DMR.
         Ustawienie CC 1.

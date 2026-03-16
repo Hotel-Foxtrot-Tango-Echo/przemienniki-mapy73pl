@@ -11,8 +11,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.la9l.com/content/home/default4.asp
+      u: []
       d: ""
 h:
   "59948054170":

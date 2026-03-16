@@ -12,8 +12,7 @@ x:
       t: a
       s: "6"
       p: 15
-      u:
-        - https://sq5dcp.tomul.net/sr5rk/
+      u: []
       d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000
     - rx:
         f: 431.15
@@ -23,8 +22,7 @@ x:
       t: b
       s: "4"
       p: 15
-      u:
-        - https://sq5dcp.tomul.net/sr5rk/
+      u: []
       d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000, D-STAR, DVRPTR +
         oprogramowanie KI4LKF, Sterownik SQ5DCP
 h:

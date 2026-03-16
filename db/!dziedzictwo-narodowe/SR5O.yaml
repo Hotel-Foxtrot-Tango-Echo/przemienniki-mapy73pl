@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 15
-      u:
-        - http://sp5kvw.com/sr5o/
+      u: []
       d: |-
         Antena X510N, Radia Motorola 2x GM340,
         Duplexer DP6-6.5 firmy Elektrit. 
@@ -28,8 +27,7 @@ x:
       t: g
       s: "4"
       p: 15
-      u:
-        - http://sp5kvw.com/sr5o/
+      u: []
       d: |-
         Antena X510N, Radia Motorola 2x GM340,
         Duplexer DP6-6.5 firmy Elektrit. 

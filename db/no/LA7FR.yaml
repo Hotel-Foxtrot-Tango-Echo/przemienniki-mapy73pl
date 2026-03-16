@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://la5f.com/viewpage.php?page_id=10
+      u: []
       d: ""
 h:
   "59242041290":

@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://www.skzd.pl
+      u: []
       d: Przemiennik FM
     - rx:
         f: 145.075
@@ -23,8 +22,7 @@ x:
       t: g
       s: "4"
       p: 10
-      u:
-        - http://www.skzd.pl
+      u: []
       d: Przemiennik C4FM
 h:
   "50326077405":

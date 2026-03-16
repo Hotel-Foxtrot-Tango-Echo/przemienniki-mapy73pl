@@ -36,8 +36,7 @@ x:
       t: "0"
       s: "4"
       p: 0
-      u:
-        - http://status.ircddb.net/qam.php?call=SK6RKI&mod=C
+      u: []
       d: ""
   70cm:
     - rx:

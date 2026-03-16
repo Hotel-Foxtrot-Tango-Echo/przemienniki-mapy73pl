@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://c14.dl3mlp.de/relais-im-ov-c-14/
+      u: []
       d: ""
 h:
   "47866029167":

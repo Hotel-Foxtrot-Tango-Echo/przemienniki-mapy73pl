@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://hamradio.salwator.net/sr9ks/index.html
+      u: []
       d: Motorola, 12dBi
 h:
   "49993013385":

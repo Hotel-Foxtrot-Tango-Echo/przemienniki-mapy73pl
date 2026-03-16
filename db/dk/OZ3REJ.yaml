@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.jystrup-net.dk/oz3rej/
+      u: []
       d: ""
   2m:
     - rx:
@@ -22,8 +21,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.jystrup-net.dk/oz3rej/
+      u: []
       d: ""
 h:
   "55451057622":

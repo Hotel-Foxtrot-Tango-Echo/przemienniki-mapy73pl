@@ -10,8 +10,7 @@ x:
       t: e
       s: "4"
       p: 15
-      u:
-        - http://www.qrz.com/db/SR5DVR
+      u: []
       d: |-
         TS1 statycznie TG2605
         TS2 statycznie TG26057 TG260015

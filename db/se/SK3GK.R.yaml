@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk3gk.se/
+      u: []
       d: ""
   70cm:
     - rx:
@@ -22,8 +21,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk3gk.se/sektioner/repeater//
+      u: []
       d: ""
 h:
   "60766097063":

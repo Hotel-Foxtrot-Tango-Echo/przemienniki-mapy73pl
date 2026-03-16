@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 5
-      u:
-        - http://www.lrmd.lt/retransliatoriai_en.htm
+      u: []
       d: ""
 h:
   "55708062500":

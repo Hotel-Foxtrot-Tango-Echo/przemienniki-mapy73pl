@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://r.net.rats.fi/wp/
+      u: []
       d: ""
 h:
   "61079032240":

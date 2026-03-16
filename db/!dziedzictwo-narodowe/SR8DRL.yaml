@@ -10,8 +10,7 @@ x:
       t: e
       s: "4"
       p: 15
-      u:
-        - http://krotkofalowcy-lublin.pl/dvsr8drl/
+      u: []
       d: >-
         Antena: Radmor 3284/3, o zysku energetycznym względem dipola λ/2 8 dBd
         (10,15 dBi).

@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 5
-      u:
-        - http://www.dx.katowice.pl
+      u: []
       d: ""
 h:
   "50373004167":

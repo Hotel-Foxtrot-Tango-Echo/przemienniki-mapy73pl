@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oz8jyl.dk/cms005/
+      u: []
       d: ""
     - rx:
         f: 432.725

@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://krotkofalowcy.lomza.pl/index.php/nasza-dzialalnosc/techniki-cyfrowe/32-sr4lo
+      u: []
       d: MTR2000, X-300, 70 m npt
 h:
   "53181057575":

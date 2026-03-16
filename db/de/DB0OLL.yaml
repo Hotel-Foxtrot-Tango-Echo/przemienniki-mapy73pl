@@ -8,8 +8,7 @@ x:
       t: g
       s: "4"
       p: 5
-      u:
-        - https://dmr02.bzsax.de:8488/
+      u: []
       d: ""
     - rx:
         f: 430.95
@@ -21,8 +20,7 @@ x:
       t: e
       s: "4"
       p: 5
-      u:
-        - https://dmr02.bzsax.de:8488/
+      u: []
       d: ""
       e2:
         - 262907

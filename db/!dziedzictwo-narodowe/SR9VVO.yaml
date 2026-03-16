@@ -10,8 +10,7 @@ x:
       t: b
       s: "4"
       p: 10
-      u:
-        - http://sr9vvo.org.pl
+      u: []
       d: |-
         Antena Diamond BC-205
         Kabel Andrew LDF-4-50A

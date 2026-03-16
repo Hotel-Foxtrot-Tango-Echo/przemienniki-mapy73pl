@@ -10,8 +10,7 @@ x:
       t: da
       s: "4"
       p: 12
-      u:
-        - http://www.db0bel.de/db0fro.html
+      u: []
       d: ""
 h:
   "52334039173":

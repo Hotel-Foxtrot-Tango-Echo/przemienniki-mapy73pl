@@ -10,8 +10,7 @@ x:
       t: da
       s: "4"
       p: 0
-      u:
-        - http://db0rag.adminpc.de/viewpage.php?page_id=1
+      u: []
       d: ""
 h:
   "52284037500":

@@ -13,7 +13,6 @@ x:
       s: "4"
       p: 10
       u:
-        - http://www.lewczuk.pl/index.php/pl/sr2ga
         - https://fm-poland.pl
       d: >-
         Przemiennik SR2GA FM-Echolink w Władysławowie Rx: 438,975 Tx: 431,375

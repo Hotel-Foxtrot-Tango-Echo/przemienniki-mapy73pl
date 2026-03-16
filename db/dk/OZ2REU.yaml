@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oz7reu.dk/23cm.asp
+      u: []
       d: ""
   2m:
     - rx:
@@ -20,8 +19,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oz7reu.dk/2m.asp
+      u: []
       d: ""
 h:
   "55658026720":

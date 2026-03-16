@@ -10,8 +10,7 @@ x:
       t: h
       s: "4"
       p: 10
-      u:
-        - https://www.qrz.com/db/SR5AWK
+      u: []
       d: |-
         TETRA DMO: MCC 260, MNC 2605, TG 260
         Przemiennik uruchomiony w sieci FM-Poland

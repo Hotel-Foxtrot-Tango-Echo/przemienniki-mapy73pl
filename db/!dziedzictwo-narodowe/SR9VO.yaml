@@ -12,8 +12,7 @@ x:
       t: da
       s: "6"
       p: 10
-      u:
-        - http://hamradio.pl/sq9jti/sr9vo-dla-kazdego-amatora/
+      u: []
       d: |-
         RX - Motorola GM340
         TX - Motorola GM950 N4 

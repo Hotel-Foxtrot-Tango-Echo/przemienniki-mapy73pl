@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.db0zu.org
+      u: []
       d: ""
   70cm:
     - rx:
@@ -24,8 +23,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.db0zu.org
+      u: []
       d: ""
   23cm:
     - rx:
@@ -38,8 +36,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.db0zu.org/
+      u: []
       d: ""
 h:
   "47432005729":

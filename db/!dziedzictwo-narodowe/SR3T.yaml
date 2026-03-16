@@ -12,8 +12,7 @@ x:
       t: a
       s: "6"
       p: 15
-      u:
-        - http://www.sp3kwa.net/przemiennik-sr3t
+      u: []
       d: 3x5/8 Radmor + YAESU DR1X
 h:
   "51979084834":

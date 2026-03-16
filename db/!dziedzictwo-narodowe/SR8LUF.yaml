@@ -10,8 +10,7 @@ x:
       t: g
       s: "4"
       p: 15
-      u:
-        - http://krotkofalowcy-lublin.pl/sr8luf/
+      u: []
       d: >-
         Antena: PROCOM CXL 70-3LW/l, o zysku energetycznym względem dipola λ/2 3
         dBd (5,15 dBi).

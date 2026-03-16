@@ -29,7 +29,6 @@ x:
       s: "4"
       p: 5
       u:
-        - http://91.245.87.196/ipsc/
         - http://fcs260.xreflector.net/ycs/#
         - http://195.26.76.59/status/list.htm
       d: |-
@@ -71,7 +70,6 @@ x:
       p: 5
       u:
         - http://c4fm-pl.manifo.com/
-        - http://91.245.87.196/ipsc/
         - http://fcs260.xreflector.net/ycs/#
         - http://195.26.76.59/status/list.htm
       d: "Przemiennik w systemie Fusion YSF, Fusion II

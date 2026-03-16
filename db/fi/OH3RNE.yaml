@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters
+      u: []
       d: ""
     - rx:
         f: 432.525
@@ -30,8 +29,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters
+      u: []
       d: ""
   2m:
     - rx:
@@ -42,8 +40,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters=
+      u: []
       d: ""
   23cm:
     - rx:
@@ -54,8 +51,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh3ne.ham.fi/wiki/index.php/OH3NE_ENGLISH#OH3RNE_Repeaters
+      u: []
       d: ""
 h:
   "61502090830":

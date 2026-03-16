@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://qrg.globaltuners.com/details.php?id=3159
+      u: []
       d: OPEN:7sek call tone 1750Hz
 h:
   "51024093328":

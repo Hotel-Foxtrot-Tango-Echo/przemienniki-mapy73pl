@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://la1r.net/?page_id=28
+      u: []
       d: ""
 h:
   "60406042500":

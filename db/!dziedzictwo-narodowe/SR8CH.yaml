@@ -12,8 +12,7 @@ x:
       t: a
       s: "6"
       p: 10
-      u:
-        - http://www.sp8prl.pl/forum/viewthread.php?thread_id=57
+      u: []
       d: MC2100, GM350
     - rx:
         f: 431.075
@@ -23,8 +22,7 @@ x:
       t: d
       s: "6"
       p: 10
-      u:
-        - http://www.sp8prl.pl/forum/viewthread.php?thread_id=57
+      u: []
       d: MC2100, GM350
 h:
   "51155033221":

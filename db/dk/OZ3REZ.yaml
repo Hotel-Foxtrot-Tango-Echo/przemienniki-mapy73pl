@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.info-f.dk/lfr/uhf.htm
+      u: []
       d: ""
 h:
   "55653060485":

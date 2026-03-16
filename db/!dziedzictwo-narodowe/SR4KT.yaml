@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 15
-      u:
-        - https://sp4pkm.ketrzyn.pl
+      u: []
       d: >-
         Przemiennik w sieci DMR PLUS ( color code 4 ) planowana rozbudowa o
         moduły YSF (FUSION) i DSTAR oraz możliwość pracy rownież w trybie FM.

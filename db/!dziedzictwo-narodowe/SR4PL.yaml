@@ -13,8 +13,7 @@ x:
       t: da
       s: "5"
       p: 15
-      u:
-        - https://wmp.extreme-link.pl
+      u: []
       d: Antena x300, 171 m npm, rx tx motorola gm 340, 10W
 h:
   "53952007422":

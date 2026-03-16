@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 12
-      u:
-        - http://db0noe.dyndns.org/web/db0dd.htm
+      u: []
       d: ""
 h:
   "51117095833":

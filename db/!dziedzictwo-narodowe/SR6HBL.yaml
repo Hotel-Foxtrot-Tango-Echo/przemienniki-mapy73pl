@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 15
-      u:
-        - http://www.hblinkwroc.pl
+      u: []
       d: |-
         Przemiennik lokalnej sieci HBLink Wrocław
         TS1 Brandmeister, TS2 HBLink Wrocław

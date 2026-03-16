@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://ok0krc.netstranky.cz
+      u: []
       d: ""
 h:
   "50035029167":

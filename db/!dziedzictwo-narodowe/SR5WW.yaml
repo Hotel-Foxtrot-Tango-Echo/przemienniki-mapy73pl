@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 8
-      u:
-        - https://sp5kab.pl/przemienniki/
+      u: []
       d: |-
         Urządzenie Motorola MTR2000 + MMDVM pi-star, antena KAD
         MULTIMODE

@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.dm2kl.de/relais.html
+      u: []
       d: ""
 h:
   "50742012500":

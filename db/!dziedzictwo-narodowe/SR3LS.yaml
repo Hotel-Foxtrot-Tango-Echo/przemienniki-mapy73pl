@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 15
-      u:
-        - http://sp3zir.pl/Przemienniki.php
+      u: []
       d: dwie anteny X-200,2x Motorola gm-600,Sterownik made in SQ3NQH.Przemiennik
         zmodernizowany i uruchomiony ponownie 15.10.2018
 h:

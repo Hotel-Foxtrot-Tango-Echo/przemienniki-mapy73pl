@@ -10,9 +10,7 @@ x:
       t: b
       s: "4"
       p: 10
-      u:
-        - http://sr8uvb.dstar.pl/
-        - https://sr8uvb.wrkom.pl/
+      u: []
       d: Antena RADMOR 3284
 h:
   "52209002165":

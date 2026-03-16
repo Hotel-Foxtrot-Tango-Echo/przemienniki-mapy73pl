@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk3w.se/sk3gw-repeater
+      u: []
       d: ""
     - rx:
         f: 432.825
@@ -23,8 +22,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk3w.se/sk3gw-repeater
+      u: []
       d: ""
 h:
   "60659035026":

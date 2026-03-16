@@ -12,9 +12,7 @@ x:
       t: aj
       s: "4"
       p: 15
-      u:
-        - http://sp2pzh.cqdx.pl/
-        - https://fm-poland.pl
+      u: []
       d: ""
     - rx:
         f: 431.4875
@@ -29,7 +27,6 @@ x:
       s: "4"
       p: 10
       u:
-        - http://http://sp2pzh.cqdx.pl/
         - https://minilink.pl/wp/
       d: >-
         Przemiennik SR2GD FM-Echolink w Gdansku Rx: 439,0875 Tx: 431,4875 CTCSS:
@@ -55,8 +52,7 @@ x:
       t: g
       s: "4"
       p: 4
-      u:
-        - http://sp2pzh.cqdx.pl
+      u: []
       d: ""
 h:
   "54365070579":

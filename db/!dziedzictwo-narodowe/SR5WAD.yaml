@@ -13,7 +13,6 @@ x:
       s: "4"
       p: 15
       u:
-        - https://sp5kab.pl/przemienniki/
         - https://brandmeister.network/?page=repeater&id=260552
       d: |-
         Antena Radmor 8x5/8 urządzenie tymczasowo Hytera RD985S 
@@ -32,7 +31,6 @@ x:
       s: "4"
       p: 15
       u:
-        - https://sp5kab.pl/przemienniki/
         - https://brandmeister.network/?page=repeater&id=260552
       d: >-
         Antena Radmor 8x5/8 urządzenie tymczasowo Hytera RD985S  32m 1/2 andrew 

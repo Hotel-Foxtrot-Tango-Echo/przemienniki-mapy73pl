@@ -19,8 +19,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://status.ircddb.net/qam.php?call=SK3RFG&mod=C
+      u: []
       d: ""
   70cm:
     - rx:
@@ -31,8 +30,7 @@ x:
       t: b
       s: "4"
       p: 0
-      u:
-        - http://status.ircddb.net/qam.php?call=SK3RFG&mod=B
+      u: []
       d: ""
 h:
   "62413025830":

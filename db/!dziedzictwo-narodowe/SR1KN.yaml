@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 9
-      u:
-        - http://ot22.mashgsm.com/articles.php?article_id=8
+      u: []
       d: X-200
 h:
   "54223090071":

@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - https://www.qrz.com/db/ON0AND
+      u: []
       d: ""
 h:
   "51233054167":

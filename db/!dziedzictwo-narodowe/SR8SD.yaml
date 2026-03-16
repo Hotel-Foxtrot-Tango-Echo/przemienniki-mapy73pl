@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://www.krotkofalowcyswidnik.rejmak.pl
+      u: []
       d: ""
 h:
   "51237076918":

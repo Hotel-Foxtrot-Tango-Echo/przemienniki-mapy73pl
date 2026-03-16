@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.ira.is/display/Eng/Repeaters+and+frequencies
+      u: []
       d: ""
 h:
   "64217041528":

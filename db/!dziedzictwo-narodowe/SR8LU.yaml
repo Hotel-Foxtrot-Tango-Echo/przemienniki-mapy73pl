@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 15
-      u:
-        - http://krotkofalowcy-lublin.pl/sr8lu/
+      u: []
       d: "Antena: Radmor 3284/3, 8dBd (10,15dBi)"
 h:
   "51248029419":

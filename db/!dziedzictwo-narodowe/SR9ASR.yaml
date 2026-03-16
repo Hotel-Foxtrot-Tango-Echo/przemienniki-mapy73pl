@@ -12,8 +12,7 @@ x:
       t: a
       s: "5"
       p: 15
-      u:
-        - http://sp9kmq.sp-radio.eu
+      u: []
       d: FM
     - rx:
         f: 430.7
@@ -25,8 +24,7 @@ x:
       t: e
       s: "6"
       p: 15
-      u:
-        - http://sp9kmq.sp-radio.eu
+      u: []
       d: DMR
       e1:
         - 260

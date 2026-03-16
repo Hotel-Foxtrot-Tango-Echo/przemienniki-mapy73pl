@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.oz3reg.dk/
+      u: []
       d: ""
   2m:
     - rx:
@@ -22,8 +21,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.oz3reg.dk/
+      u: []
       d: ""
 h:
   "55826021420":

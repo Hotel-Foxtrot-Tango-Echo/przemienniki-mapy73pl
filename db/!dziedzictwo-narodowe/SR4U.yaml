@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://www.hamradio.biaman.pl/ukf/ukf.htm
+      u: []
       d: Radmor, 3x5/8
 h:
   "53131096894":

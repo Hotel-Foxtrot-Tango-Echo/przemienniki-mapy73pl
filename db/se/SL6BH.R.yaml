@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.qrz.com/db/SL6BH
+      u: []
       d: ""
 h:
   "56700037500":

@@ -8,8 +8,7 @@ x:
       t: a
       s: "6"
       p: 15
-      u:
-        - http://skrzyczne.akl.prz.edu.pl
+      u: []
       d: De facto nie jest to przemiennik sensus stricte, lecz stacja APRS emitująca
         komunikaty meteo typu sr0wx, z zamontowanej na niej aparatury pomiarowej
 h:

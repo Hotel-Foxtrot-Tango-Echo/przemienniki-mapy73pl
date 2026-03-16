@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://ot18.pzk.org.pl/?page_id=9098
+      u: []
       d: ""
     - rx:
         f: 431.75
@@ -21,8 +20,7 @@ x:
       t: e
       s: "4"
       p: 0
-      u:
-        - http://ot18.pzk.org.pl/?page_id=9098
+      u: []
       d: CC1
 h:
   "49836091581":

@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 20
-      u:
-        - http://www.lrmd.lt/retransliatoriai_en.htm
+      u: []
       d: ""
   70cm:
     - h: "55546045833"

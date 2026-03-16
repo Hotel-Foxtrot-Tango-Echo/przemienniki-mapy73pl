@@ -12,9 +12,7 @@ x:
       t: a
       s: "3"
       p: 9
-      u:
-        - https://sp5wwl.pl/
-        - https://skzw.pl/
+      u: []
       d: SR5WWL , 438.462500 MHz. Jeszcze działa w fazie testów.
 h:
   "52383026465":

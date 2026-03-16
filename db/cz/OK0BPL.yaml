@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://ok0bpl.ponik.net
+      u: []
       d: ""
 h:
   "49694057600":

@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 15
-      u:
-        - http://sp9kmq.sp-radio.eu
+      u: []
       d: "Przemiennik pracuje w sieci DMR-PLUS, może być okresowo wyłączany. Dane
         dodatkowe: CC1, TS1 grupa 260, TS2 grupa 2609. Aktywność przemiennika
         można sprawdzić na: http://dmrplus.pl/ipsc2-381"

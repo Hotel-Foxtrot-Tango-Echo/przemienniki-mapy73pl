@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://r.net.rats.fi/wp/
+      u: []
       d: ""
     - rx:
         f: 145.0875
@@ -19,8 +18,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh2ch.org/
+      u: []
       d: ""
     - rx:
         f: 145.025
@@ -30,8 +28,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh2ch.org/
+      u: []
       d: ""
     - rx:
         f: 145
@@ -52,8 +49,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh2ch.org/
+      u: []
       d: ""
     - rx:
         f: 432.825
@@ -63,8 +59,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh2ch.org/
+      u: []
       d: ""
     - rx:
         f: 432.975

@@ -12,8 +12,7 @@ x:
       t: a
       s: "6"
       p: 15
-      u:
-        - https://sr5id.waw.pl
+      u: []
       d: |-
         2m FM - RX: 145,1250 TX: 145,7250 CTCSS: 127.3
 

@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 35
-      u:
-        - http://svxportal.on4akh.be/list_reciver.php
+      u: []
       d: ""
 h:
   "51066020833":

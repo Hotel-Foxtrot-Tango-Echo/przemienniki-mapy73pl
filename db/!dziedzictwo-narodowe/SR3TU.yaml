@@ -10,8 +10,7 @@ x:
       t: a
       s: "6"
       p: 10
-      u:
-        - http://www.sp3kwa.net/przemiennik-sr3tu
+      u: []
       d: Antena X-510, diplekser, 2xMotorola
 h:
   "52039029167":

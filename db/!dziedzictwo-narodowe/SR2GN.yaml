@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://www.lewczuk.pl/index.php/pl/sr2gn
+      u: []
       d: Antena X-300
 h:
   "54736016822":

@@ -21,8 +21,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://sk7mq.org/
+      u: []
       d: ""
   70cm:
     - rx:

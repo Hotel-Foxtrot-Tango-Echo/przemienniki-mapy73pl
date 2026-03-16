@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.27radio.eu/27/news.php
+      u: []
       d: ""
 h:
   "62403017103":

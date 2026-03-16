@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - https://www.qrz.com/db/db0arb
+      u: []
       d: ""
     - rx:
         f: 431.625
@@ -23,8 +22,7 @@ x:
       t: b
       s: "4"
       p: 0
-      u:
-        - https://www.qrz.com/db/db0arb
+      u: []
       d: ""
     - rx:
         f: 431.625
@@ -36,8 +34,7 @@ x:
       t: e
       s: "4"
       p: 0
-      u:
-        - https://www.qrz.com/db/db0arb
+      u: []
       d: ""
   2m:
     - rx:
@@ -50,8 +47,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.qrz.com/db/db0arb
+      u: []
       d: ""
 h:
   "49125032559":

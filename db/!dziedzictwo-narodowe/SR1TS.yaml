@@ -12,8 +12,7 @@ x:
       t: a
       s: "6"
       p: 10
-      u:
-        - http://www.sp1wsr.eu/?p=3415
+      u: []
       d: 2 anteny pionowe 1/2 fali, Rx<-> Tx połączone linią telefoniczną. + 439.675
         ctcss 82,5Hz
 h:

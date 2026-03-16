@@ -10,8 +10,7 @@ x:
       t: a
       s: "6"
       p: 8
-      u:
-        - http://ot51.pl/news.php
+      u: []
       d: GM340, 3x5/8 radmor, echolink rpt70cm tez jest
 h:
   "50925041394":

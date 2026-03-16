@@ -10,8 +10,7 @@ x:
       t: g
       s: "6"
       p: 15
-      u:
-        - https://www.qrz.com/db/SR5WI
+      u: []
       d: Yaesu DR-1X, Wires-X, C4FM, Antena Diamond X-7000
 h:
   "52262051716":

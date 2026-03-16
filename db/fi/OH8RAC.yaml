@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh8aa.sral.fi/
+      u: []
       d: ""
   70cm:
     - rx:
@@ -24,8 +23,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://oh8aa.sral.fi/
+      u: []
       d: ""
 h:
   "65972040220":

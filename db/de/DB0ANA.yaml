@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://www.kurierundservice.de/s48/h-rel.html
+      u: []
       d: ""
 h:
   "50575054167":

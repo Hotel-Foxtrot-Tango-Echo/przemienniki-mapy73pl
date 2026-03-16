@@ -19,8 +19,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk5lw.com/esa/
+      u: []
       d: ""
   2m:
     - rx:
@@ -34,8 +33,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk5lw.com/esa/index.php/repeater
+      u: []
       d: ""
     - rx:
         f: 144.975
@@ -47,8 +45,7 @@ x:
       t: "0"
       s: "4"
       p: 0
-      u:
-        - http://www.sk5lw.com/esa/index.php/repeater
+      u: []
       d: ""
   70cm:
     - rx:
@@ -59,8 +56,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk5lw.com/esa/index.php/repeater
+      u: []
       d: ""
 h:
   "59287059170":

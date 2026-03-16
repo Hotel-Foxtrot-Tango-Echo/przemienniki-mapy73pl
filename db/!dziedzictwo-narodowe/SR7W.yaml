@@ -12,10 +12,7 @@ x:
       t: a
       s: "5"
       p: 10
-      u:
-        - http://mnenz5pjlr7m.az.pl/sp7ked/07/07-1.html
-        - http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html
-        - https://sp7ked.pl/przemienniki/
+      u: []
       d: ""
 h:
   "51227077296":

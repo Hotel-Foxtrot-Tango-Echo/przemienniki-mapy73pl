@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.radioklubbencq.se/
+      u: []
       d: ""
 h:
   "58002065720":

@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 13
-      u:
-        - http://hamradio.salwator.net/sr9lk/index.html
+      u: []
       d: 10m fidder LNA +8dB, X-5000 11,7dBi, AFC +- 7kHz
 h:
   "49993013385":

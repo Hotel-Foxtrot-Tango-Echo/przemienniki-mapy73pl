@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://www.sp1wsr.eu/?p=400
+      u: []
       d: |-
         CTCSS 82.5Hz - podtrzymanie 5sek
         przemiennik ma wyższe położenie ok. 20m

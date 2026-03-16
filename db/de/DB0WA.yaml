@@ -12,8 +12,7 @@ x:
       t: da
       s: "4"
       p: 0
-      u:
-        - https://www.afu.rwth-aachen.de/relaisfunkstelle-db0wa
+      u: []
       d: ""
 h:
   "50735020833":

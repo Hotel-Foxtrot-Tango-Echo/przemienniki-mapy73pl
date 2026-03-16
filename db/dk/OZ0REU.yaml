@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.gilleleje-uhf.webbyen.dk
+      u: []
       d: ""
   10m:
     - rx:

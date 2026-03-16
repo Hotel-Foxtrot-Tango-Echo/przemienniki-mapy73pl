@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 10
-      u:
-        - http://sr5ra.tomul.net
+      u: []
       d: |-
         TX: COMET GP9N 8x5/8λ [11,9 dBi]
         RX: DIAMOND F-718 18x1/2λ [11,5 dBi]

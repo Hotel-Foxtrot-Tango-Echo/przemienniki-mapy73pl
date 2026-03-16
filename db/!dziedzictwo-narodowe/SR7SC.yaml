@@ -12,9 +12,7 @@ x:
       t: da
       s: "6"
       p: 10
-      u:
-        - http://www.sp5qwk.sp5kvw.com/krotkofal/Repeater/sr7sc.html
-        - http://www.sp7pbc.pl/index.php/przemiennik-70cm-sr7sc
+      u: []
       d: |-
         Antena KATHREIN 7dBi.
         Duplekser Airtech 2x5 pasmowo-przepustowych filtrów ćwierćfalowych.

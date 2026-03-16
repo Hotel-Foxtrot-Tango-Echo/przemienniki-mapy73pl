@@ -11,8 +11,7 @@ h:
 x:
   70cm:
     - h: "49750011365"
-      u:
-        - https://www.qrz.com/db/SR0LINK
+      u: []
       d: ""
       p: 15
       t: "0"
@@ -23,8 +22,7 @@ x:
         f: 430.5
   6m:
     - h: "49750011365"
-      u:
-        - https://www.qrz.com/db/SR0LINK
+      u: []
       d: ""
       p: 15
       t: "0"

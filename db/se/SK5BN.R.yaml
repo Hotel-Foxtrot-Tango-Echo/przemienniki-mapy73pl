@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk5bn.se/index.php?option=com_content&view=article&id=99&Itemid=81
+      u: []
       d: ""
     - rx:
         f: 432.925
@@ -35,8 +34,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk5bn.se/index.php?option=com_content&view=article&id=99&Itemid=81
+      u: []
       d: ""
 h:
   "58620032500":

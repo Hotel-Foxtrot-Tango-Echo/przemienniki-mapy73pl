@@ -13,7 +13,6 @@ x:
       s: "6"
       p: 15
       u:
-        - https://www.qrz.com/db/SR4EL
         - https://fm-poland.pl
       d: >-
         Radio: Motorola CM140(TX)/CM340(RX)

@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 14
-      u:
-        - http://db0tfl.y34.de/
+      u: []
       d: |-
         odbiornik - GM1200 nadajnik - CM340 antena - Kathrein duplexer - Procom
         DPF70/6

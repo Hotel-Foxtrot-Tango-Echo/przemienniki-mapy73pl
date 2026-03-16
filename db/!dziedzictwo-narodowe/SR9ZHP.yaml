@@ -12,8 +12,7 @@ x:
       t: a
       s: "4"
       p: 15
-      u:
-        - http://fm-poland.pl:888/
+      u: []
       d: |-
         UWAGA: Nie jest to przemiennik
         Bramka do sieci FM Poland.

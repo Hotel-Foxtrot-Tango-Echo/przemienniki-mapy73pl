@@ -11,7 +11,6 @@ x:
       s: "4"
       p: 0
       u:
-        - http://hhertz.org/technische-gegevens/pi2ehv_en/
         - https://aprs.fi/#!mt=roadmap&z=18&call=a%2FPI2EHV&timerange=3600&tail=3600
       d: "Antenna: Kathrein K7516221, polaryzacja pionowa, dookólna"
     - rx:
@@ -23,7 +22,6 @@ x:
       s: "4"
       p: 0
       u:
-        - http://hhertz.org/technische-gegevens/pi2ehv_en/
         - https://aprs.fi/#!mt=roadmap&z=18&call=a%2FPI2EHV&timerange=3600&tail=3600
       d: "Antenna: Kathrein K7516221, polaryzacja pionowa, dookólna"
 h:

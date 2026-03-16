@@ -9,7 +9,6 @@ x:
       s: "4"
       p: 15
       u:
-        - http://sp5kvw.com/przemienniki-w-ostrolece/
         - https://brandmeister.network/?page=repeater&id=260515
         - http://kurpie.hblink.network:8088/
         - http://dmrplus.pl/serwery
@@ -25,7 +24,6 @@ x:
       s: "4"
       p: 15
       u:
-        - http://sp5kvw.com/przemienniki-w-ostrolece/
         - https://brandmeister.network/?page=repeater&id=260515
         - http://kurpie.hblink.network:8088/
         - http://dmrplus.pl/serwery

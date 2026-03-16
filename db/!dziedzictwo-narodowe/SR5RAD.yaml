@@ -15,7 +15,6 @@ x:
       u:
         - http://hf.radom.pl
         - http://fm-poland.pl/sr5rad
-        - https://www.qrz.com/db/SR5RAD
       d: |-
         Antena Comet GP6N, 80m nad gruntem, maszt Emitel RON Radom
         Przemiennik pracuje w sieci FM Poland (http://fm-poland.pl/dashboard)

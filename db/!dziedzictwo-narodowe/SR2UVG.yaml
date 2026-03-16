@@ -8,8 +8,7 @@ x:
       t: b
       s: "4"
       p: 10
-      u:
-        - http://www.lewczuk.pl/index.php/pl/sr2uvg
+      u: []
       d: |-
         Antena Radmor 3284/3
         Emitel RTCN Chwaszczyno
@@ -24,7 +23,6 @@ x:
       s: "4"
       p: 10
       u:
-        - http://lewczuk.pl/index.php/pl/sr2uvg
         - http://lewczuk.pl/index.php/pl/sr2uvg-pozwolenie-radiowe/category/188
       d: >-
         1. Przemiennik DMR, uruchamiany CC2.

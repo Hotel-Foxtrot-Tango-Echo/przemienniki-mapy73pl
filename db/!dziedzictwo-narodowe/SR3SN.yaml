@@ -13,7 +13,6 @@ x:
       s: "4"
       p: 15
       u:
-        - http://sr3sn.pl
         - http://fm-poland.pl
       d: >-
         2x Motorola GM1200, Diamond x520, przewód RF-10, RasberryPI 3 - Svxlink,

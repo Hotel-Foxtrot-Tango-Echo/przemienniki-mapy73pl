@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://koti.aina.net/~ham/toistimet.html
+      u: []
       d: ""
   2m:
     - rx:
@@ -20,8 +19,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://koti.aina.net/~ham/toistimet.html
+      u: []
       d: ""
   23cm:
     - rx:
@@ -32,8 +30,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://koti.aina.net/~ham/toistimet.html
+      u: []
       d: ""
 h:
   "60974068450":

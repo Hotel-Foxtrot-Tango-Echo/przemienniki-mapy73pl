@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk7rn.se/index.html?repeat.html
+      u: []
       d: ""
   6m:
     - rx:
@@ -20,8 +19,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk7rn.se/index.html?repeat.html
+      u: []
       d: ""
 h:
   "57282014640":

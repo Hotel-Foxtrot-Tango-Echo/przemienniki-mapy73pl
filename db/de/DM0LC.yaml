@@ -10,8 +10,7 @@ x:
       t: e
       s: "4"
       p: 15
-      u:
-        - http://www.dg5lc.de
+      u: []
       d: ""
     - rx:
         f: 431.7875
@@ -21,8 +20,7 @@ x:
       t: g
       s: "4"
       p: 15
-      u:
-        - http://www.dg5lc.de
+      u: []
       d: ""
 h:
   "51349073246":

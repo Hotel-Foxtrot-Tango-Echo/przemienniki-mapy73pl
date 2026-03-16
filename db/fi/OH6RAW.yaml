@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.anvianet.fi/oh6ai/
+      u: []
       d: ""
 h:
   "63867012800":

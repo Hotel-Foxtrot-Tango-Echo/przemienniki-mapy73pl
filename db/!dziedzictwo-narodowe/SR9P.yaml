@@ -10,8 +10,7 @@ x:
       t: da
       s: "4"
       p: 15
-      u:
-        - http://www.sp9kdr.org/?page_id=501
+      u: []
       d: Anteny:Rx-UVS-200, TX-Radmor 3x5/8, Echolink, RX/TX Radmor 3033,
 h:
   "49773008220":

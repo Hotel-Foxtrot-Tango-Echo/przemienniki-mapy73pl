@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.adl507.at/index.php/relais-geiersberg-oe5xul
+      u: []
       d: ""
 h:
   "48201004167":

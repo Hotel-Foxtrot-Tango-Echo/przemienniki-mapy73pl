@@ -10,8 +10,7 @@ x:
       t: e
       s: "4"
       p: 15
-      u:
-        - http://sr7san-79.ddns.net
+      u: []
       d: |-
         CC7
         Antena Diamond x300

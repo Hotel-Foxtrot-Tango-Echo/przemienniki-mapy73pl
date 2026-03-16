@@ -10,8 +10,7 @@ x:
       t: b
       s: "5"
       p: 10
-      u:
-        - https://www.sr7uvk.qrz.pl/
+      u: []
       d: ""
 h:
   "50881037057":

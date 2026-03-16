@@ -11,8 +11,7 @@ x:
       t: da
       s: "4"
       p: 10
-      u:
-        - http://www.qrv.at/oe2xbb/cms/doku.php
+      u: []
       d: |-
         umiejscowienie 1782m npm.
         Echolink dziala poniedzialek piatek 14do21

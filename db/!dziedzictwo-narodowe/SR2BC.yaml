@@ -10,8 +10,7 @@ x:
       t: e
       s: "6"
       p: 15
-      u:
-        - http://sp2fkb.ddns.net:3800/
+      u: []
       d: |-
         Warstwa radiowa 2x Motorola GM 340
         DMR Hblink Bydgoszcz-Poland HBlink Network
@@ -25,8 +24,7 @@ x:
       t: g
       s: "6"
       p: 15
-      u:
-        - http://sp2fkb.ddns.net:3800/
+      u: []
       d: |-
         Warstwa radiowa 2x Motorola GM 340
         YSF Room Poland ID29114

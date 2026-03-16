@@ -10,8 +10,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.hamphone.dk/
+      u: []
       d: ""
 h:
   "55949055986":

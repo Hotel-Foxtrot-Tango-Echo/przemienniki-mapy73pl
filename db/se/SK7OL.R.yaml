@@ -8,8 +8,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk7ol.org
+      u: []
       d: ""
 h:
   "56408075830":

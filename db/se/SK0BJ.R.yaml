@@ -19,8 +19,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk0bj.se/nra/
+      u: []
       d: ""
   70cm:
     - rx:
@@ -31,8 +30,7 @@ x:
       t: a
       s: "4"
       p: 0
-      u:
-        - http://www.sk0bj.se/nra/
+      u: []
       d: ""
 h:
   "59231060203":
