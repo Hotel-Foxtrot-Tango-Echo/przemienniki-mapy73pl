@@ -16,21 +16,10 @@ x:
       d: |-
         Przemiennik zbudowany na bazie radiotelefonów Motorola GM950.
         Zastosowano duplekser K&L,antena Diamond X50N.
-    - rx:
-        f: 431.7875
-      tx:
-        f: 439.3875
-      h: "50769004666"
-      t: b
-      s: "4"
-      p: 10
-      u: []
-      d: ""
 h:
   "50769004666":
     x:
       - 70cm: 0
-      - 70cm: 1
     p: Elektrownia Opole, Brzezie k/Opola
     e: 400
     g: 250
