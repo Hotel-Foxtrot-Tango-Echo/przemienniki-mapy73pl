@@ -1,0 +1,27 @@
+h:
+  "54358088146":
+    a: 54.340324
+    o: 18.557463
+    p: Gdańsk
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "54358088146"
+      u:
+        - https://www.qrz.com/db/SR2CDE
+      d: "2 x radiostacja Motorola, duplekser, sterownik raspberry pi. Oprogramowanie
+        Pi-Star. Antena: Diamond x300. Aktualnie przemiennik pracuje w trybie
+        D-star. Połączony jest domyślnie do reflektora REF032 A."
+      p: 10
+      t: b
+      s: "4"
+      tx:
+        f: "439.1875"
+      rx:
+        f: "431.5875"
+o:
+  - SQ2CDE
+page: https://mapy73.pl/repeater/SR2CDE
