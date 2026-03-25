@@ -6,7 +6,7 @@ x:
         f: 438.45
       h: "51800032696"
       t: b
-      s: "6"
+      s: "4"
       p: 15
       u: []
       d: ""
@@ -18,7 +18,7 @@ x:
         f: 438.45
       h: "51800032696"
       t: e
-      s: "6"
+      s: "4"
       p: 15
       u:
         - https://brandmeister.network/?page=repeater&id=260001
