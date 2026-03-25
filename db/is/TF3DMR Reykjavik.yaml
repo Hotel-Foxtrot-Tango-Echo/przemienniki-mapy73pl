@@ -1,0 +1,27 @@
+h:
+  "64103055017":
+    a: 64.1255
+    o: -21.94983
+    p: Reykjavik
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "64103055017"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      tx:
+        f: 439.85
+      rx:
+        f: 434.85
+        t:
+          - f: "1"
+      e2:
+        - 274
+o: []
+page: https://mapy73.pl/repeater/TF3DMR Reykjavik
