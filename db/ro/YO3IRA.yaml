@@ -1,0 +1,25 @@
+h:
+  "44526006327":
+    a: 44.5
+    o: 26.063274
+    p: Sectorul 1
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "44526006327"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 438.7
+      rx:
+        f: 438.7
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/YO3IRA
