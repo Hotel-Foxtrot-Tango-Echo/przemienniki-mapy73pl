@@ -14,11 +14,13 @@ x:
         - https://www.facebook.com/SP6PCB/?locale=pl_PL
       d: ""
       p: 15
-      t: "0"
-      s: "2"
+      t: a
+      s: "4"
       tx:
         f: 145.575
       rx:
         f: 144.975
+        t:
+          - c: "103.5"
 o: []
 page: https://mapy73.pl/repeater/SR6PCB

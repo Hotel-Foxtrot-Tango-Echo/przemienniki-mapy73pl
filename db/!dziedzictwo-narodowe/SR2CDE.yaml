@@ -19,9 +19,9 @@ x:
       t: b
       s: "4"
       tx:
-        f: "439.1875"
+        f: 439.1875
       rx:
-        f: "431.5875"
+        f: 431.5875
 o:
   - SQ2CDE
 page: https://mapy73.pl/repeater/SR2CDE

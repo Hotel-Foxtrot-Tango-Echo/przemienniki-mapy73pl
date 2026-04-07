@@ -6,29 +6,22 @@ x:
           - c: "71.9"
       tx:
         f: 145.75
-        t:
-          - c: "71.9"
-      h: "50483043244"
+      h: "50274043389"
       t: a
-      s: "6"
+      s: "4"
       p: 10
-      u: []
-      d: |-
-        Motorola GM300,
-        Yaesu FTL2011, 
-        2x X-50N, 
-        1/2 LDF
-
-        zmiana pozwolenia
+      u:
+        - https://www.youtube.com/watch?v=uiEypJ18MJY
+      d: Antena Diamond X-30 N
 h:
-  "50483043244":
+  "50274043389":
     x:
       - 2m: 0
-    p: Wysoka k. Góry św. Anny EMITEL
-    e: 417
-    g: 35
-    a: 50.465278
-    o: 18.154444
+    p: Kopa Biskupia
+    e: 889
+    g: 20
+    a: 50.257005
+    o: 17.428894
 o:
   - SP6LUV
 page: https://mapy73.pl/repeater/SR6F
