@@ -74,7 +74,7 @@ h:
     x:
       - 70cm: 0
     p: Färingsö
-    e: 70
+    e: 3
     g: 0
     a: 59.3549
     o: 17.79579
@@ -82,7 +82,7 @@ h:
     x:
       - 70cm: 1
     p: Stockholm / Arlanda
-    e: 70
+    e: 42
     g: 0
     a: 59.62819
     o: 17.99286
@@ -90,7 +90,7 @@ h:
     x:
       - 2m: 0
     p: Åkersberga
-    e: 0
+    e: 9
     g: 0
     a: 59.4792
     o: 18.2917
@@ -98,7 +98,7 @@ h:
     x:
       - 70cm: 2
     p: Upplandsväsby
-    e: 0
+    e: 54
     g: 0
     a: 59.523
     o: 17.92316
@@ -106,7 +106,7 @@ h:
     x:
       - 70cm: 3
     p: Stockholm / Upplands Väsby
-    e: 70
+    e: 30
     g: 0
     a: 59.523
     o: 17.92516
@@ -114,7 +114,7 @@ h:
     x:
       - 6m: 0
     p: Upplandsväsby
-    e: 0
+    e: 59
     g: 0
     a: 59.5208
     o: 17.875

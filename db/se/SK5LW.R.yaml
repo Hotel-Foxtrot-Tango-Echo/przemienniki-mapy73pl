@@ -63,7 +63,7 @@ h:
     x:
       - 6m: 0
     p: Eskilstuna / Ärla
-    e: 0
+    e: 47
     g: 0
     a: 59.2708
     o: 16.7917
@@ -71,7 +71,7 @@ h:
     x:
       - 10m: 0
     p: Eskilstuna / Ärla
-    e: 28
+    e: 88
     g: 79
     a: 59.28364
     o: 16.68098
@@ -79,7 +79,7 @@ h:
     x:
       - 2m: 0
     p: Eskilstuna / Slytan
-    e: 100
+    e: 82
     g: 30
     a: 59.229
     o: 16.625
@@ -87,7 +87,7 @@ h:
     x:
       - 2m: 1
     p: Eskilstuna / Hällby
-    e: 50
+    e: 46
     g: 38
     a: 59.39348
     o: 16.42465
@@ -95,7 +95,7 @@ h:
     x:
       - 70cm: 0
     p: Eskilstuna / Hällby
-    e: 50
+    e: 49
     g: 33
     a: 59.39348
     o: 16.42165

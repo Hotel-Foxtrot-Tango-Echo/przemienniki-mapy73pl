@@ -26,7 +26,7 @@ h:
     x:
       - 23cm: 0
     p: Copenhagen / Hvidovre H.C.
-    e: 3
+    e: 10
     g: 120
     a: 55.6458
     o: 12.4672
@@ -34,7 +34,7 @@ h:
     x:
       - 2m: 0
     p: Copenhagen / Hvidovre H.C.
-    e: 3
+    e: 8
     g: 124
     a: 55.6458
     o: 12.4595

@@ -56,7 +56,7 @@ h:
     x:
       - 23cm: 0
     p: Göteborg / Guldheden
-    e: 120
+    e: 97
     g: 0
     a: 57.67851
     o: 11.97509
@@ -64,7 +64,7 @@ h:
     x:
       - 2m: 0
     p: Göteborg / Öckerö
-    e: 0
+    e: 24
     g: 0
     a: 57.70918
     o: 11.64518
@@ -72,7 +72,7 @@ h:
     x:
       - 2m: 1
     p: Göteborg / Kortedala
-    e: 0
+    e: 106
     g: 0
     a: 57.76177
     o: 12.03741
@@ -80,7 +80,7 @@ h:
     x:
       - 70cm: 0
     p: Göteborg / Öckerö
-    e: 0
+    e: 14
     g: 0
     a: 57.70918
     o: 11.64318

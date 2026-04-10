@@ -41,7 +41,7 @@ h:
     x:
       - 70cm: 0
     p: Norrköping / Östra Eneby
-    e: 0
+    e: 27
     g: 0
     a: 58.6042
     o: 16.125
@@ -49,7 +49,7 @@ h:
     x:
       - 70cm: 1
     p: Finspång
-    e: 0
+    e: 81
     g: 0
     a: 58.7292
     o: 15.7917
@@ -57,7 +57,7 @@ h:
     x:
       - 2m: 0
     p: Norrköping / Kolmården
-    e: 117
+    e: 112
     g: 65
     a: 58.6875
     o: 16.4583

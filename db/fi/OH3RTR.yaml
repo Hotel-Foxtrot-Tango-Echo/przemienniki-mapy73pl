@@ -28,7 +28,7 @@ h:
     x:
       - 70cm: 0
     p: Tampere (Tammerfors)
-    e: 225
+    e: 0
     g: 70
     a: 61.4375
     o: 23.875
@@ -36,7 +36,7 @@ h:
     x:
       - 6m: 0
     p: Tampere (Tammerfors)
-    e: 220
+    e: 0
     g: 65
     a: 61.4508
     o: 23.8568

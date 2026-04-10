@@ -37,7 +37,7 @@ h:
     x:
       - 70cm: 0
     p: Johanneshov
-    e: 0
+    e: 61
     g: 0
     a: 59.293572
     o: 18.083552
@@ -45,7 +45,7 @@ h:
     x:
       - 70cm: 1
     p: Stockholm
-    e: 80
+    e: 21
     g: 20
     a: 59.33048
     o: 18.06461
@@ -53,7 +53,7 @@ h:
     x:
       - 70cm: 2
     p: Stockholm / Skärholmen
-    e: 0
+    e: 49
     g: 0
     a: 59.28932
     o: 17.9077

@@ -64,7 +64,7 @@ h:
     x:
       - 2m: 0
     p: Göteborg / Guldheden
-    e: 160
+    e: 50
     g: 50
     a: 57.67851
     o: 11.98709
@@ -72,7 +72,7 @@ h:
     x:
       - 70cm: 0
     p: Göteborg / Guldheden
-    e: 160
+    e: 93
     g: 50
     a: 57.67851
     o: 11.98109
@@ -80,7 +80,7 @@ h:
     x:
       - 6m: 0
     p: Göteborg / Guldheden
-    e: 0
+    e: 76
     g: 0
     a: 57.678519
     o: 11.98309
@@ -88,7 +88,7 @@ h:
     x:
       - 10m: 0
     p: Göteborg / Guldheden
-    e: 160
+    e: 49
     g: 50
     a: 57.67851
     o: 11.98509

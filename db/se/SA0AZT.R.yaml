@@ -27,7 +27,7 @@ h:
     x:
       - 70cm: 0
     p: Stockholm / Brottby
-    e: 70
+    e: 61
     g: 30
     a: 59.5041
     o: 18.1378
@@ -35,7 +35,7 @@ h:
     x:
       - 70cm: 1
     p: Stockholm / Kista
-    e: 0
+    e: 44
     g: 0
     a: 59.39812
     o: 17.96289

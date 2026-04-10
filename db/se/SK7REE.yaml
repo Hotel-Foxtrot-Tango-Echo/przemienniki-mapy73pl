@@ -26,7 +26,7 @@ h:
     x:
       - 2m: 0
     p: Helsingborg / Söderåsen
-    e: 220
+    e: 185
     g: 20
     a: 56.05171
     o: 13.10472
@@ -34,7 +34,7 @@ h:
     x:
       - 70cm: 0
     p: Helsingborg / Söderåsen
-    e: 220
+    e: 186
     g: 20
     a: 56.05171
     o: 13.10272
