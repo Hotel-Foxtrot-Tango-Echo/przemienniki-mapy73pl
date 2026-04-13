@@ -11,6 +11,8 @@ x:
       u:
         - http://sr2uvf.ampr.org
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.3375
         t:
@@ -29,6 +31,8 @@ x:
       e2:
         - 260260
         - 26077
+      a: nieznana
+      i: 9
     - rx:
         f: 431.3375
       tx:
@@ -40,6 +44,8 @@ x:
       u:
         - http://sr2uvf.ampr.org
       d: ""
+      a: nieznana
+      i: 9
 h:
   "53160046774":
     x:

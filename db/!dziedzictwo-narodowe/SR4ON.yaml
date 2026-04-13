@@ -18,6 +18,8 @@ x:
         TRX: MOTOROLA MTR2000, 
         ANT. COMET CP6
         Sterownik: Raspberry Pi + SVXLink
+      a: Comet CP6
+      i: 9
 h:
   "53791008213":
     x:

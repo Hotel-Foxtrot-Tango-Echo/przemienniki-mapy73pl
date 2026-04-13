@@ -4,7 +4,7 @@ h:
     o: 17.518442
     p: Kościerzyce
     e: 136
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -22,5 +22,7 @@ x:
         f: 144.975
         t:
           - c: "103.5"
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR6PCB

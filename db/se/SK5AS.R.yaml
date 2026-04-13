@@ -11,6 +11,8 @@ x:
       u:
         - http://www.lra.se/
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.1375
       tx:
@@ -22,13 +24,15 @@ x:
       u:
         - http://www.lra.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58415051694":
     x:
       - 2m: 0
     p: Linköping
     e: 77
-    g: 0
+    g: 20
     a: 58.39991
     o: 15.60694
   "58576043690":
@@ -36,7 +40,7 @@ h:
       - 2m: 1
     p: Ljungsbro
     e: 88
-    g: 0
+    g: 20
     a: 58.5609
     o: 15.5369
 o:

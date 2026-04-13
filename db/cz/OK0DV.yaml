@@ -4,7 +4,7 @@ h:
     o: 15.5753
     p: Zelezne Hory
     e: 569
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -34,6 +34,8 @@ x:
         - 230811
         - 23001
         - 230505
+      a: nieznana
+      i: 9
 o:
   - OK1MX
   - OK1ALX

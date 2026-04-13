@@ -14,13 +14,15 @@ x:
       d: |-
         RX - antena J-ka
         TX - antena J-ka
+      a: dipol 1/2 wave
+      i: 2.15
 h:
   "51781089096":
     x:
       - 2m: 0
     p: Kalisz
     e: 103
-    g: 0
+    g: 20
     a: 51.763809
     o: 18.081964
 o:

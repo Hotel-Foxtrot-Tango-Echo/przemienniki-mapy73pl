@@ -15,6 +15,8 @@ x:
       p: 10
       u: []
       d: NFM, X-300, max dev +-2.5kHz, z CTCSS podtrzymanie 1sek. a z 1750Hz 20sek.
+      a: Diamond X-300
+      i: 6.5
 h:
   "53348078037":
     x:

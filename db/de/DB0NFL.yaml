@@ -13,13 +13,15 @@ x:
       u:
         - http://www.darc.de/der-club/distrikte/y/ortsverbaende/33/relais-db0nfl/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51743079167":
     x:
       - 70cm: 0
     p: Forst (Lausitz)
     e: 77
-    g: 0
+    g: 20
     a: 51.72917
     o: 14.625
 o:

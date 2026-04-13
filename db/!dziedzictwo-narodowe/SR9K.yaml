@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: Przemiennik wrócił do żywych.
+      a: nieznana
+      i: 6.5
 h:
   "49993013385":
     x:
       - 2m: 0
     p: Siercza k/Wieliczki
     e: 340
-    g: 0
+    g: 20
     a: 49.9731
     o: 20.033849
 o: []

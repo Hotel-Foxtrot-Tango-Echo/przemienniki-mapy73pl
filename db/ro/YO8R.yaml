@@ -14,13 +14,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "47473091752":
     x:
       - 2m: 0
     p: Rarau Mountains
     e: 1537
-    g: 0
+    g: 20
     a: 47.448355
     o: 25.562524
 o:

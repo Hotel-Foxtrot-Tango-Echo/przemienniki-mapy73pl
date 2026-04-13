@@ -18,6 +18,8 @@ x:
         Przemiennik Powiślański 
         RX - Motorola GM1200, TX - Motorola GM600, 
         Ant. Diamond X-300
+      a: Diamond X-300
+      i: 9
 h:
   "53729008510":
     x:

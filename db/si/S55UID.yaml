@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46048045105":
     x:
       - 70cm: 0
     p: Vojsko
     e: 1004
-    g: 0
+    g: 20
     a: 46.03454
     o: 13.911049
 o:

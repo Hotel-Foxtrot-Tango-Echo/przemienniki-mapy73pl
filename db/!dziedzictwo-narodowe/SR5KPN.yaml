@@ -25,6 +25,8 @@ x:
       d: |-
         Zainstalowany na wieży obserwacyjnej w Kampinoskim Parku Narodowym 
         Antena 70cm 3 x 5/8 fali
+      a: 3x5/8 collinear
+      i: 8
   4m:
     - rx:
         f: 70.29
@@ -36,6 +38,8 @@ x:
       p: 0
       u: []
       d: "Antena 4m 5/8 fali         "
+      a: 5/8 wave
+      i: 3
   6m:
     - rx:
         f: 51.85
@@ -47,6 +51,8 @@ x:
       p: 0
       u: []
       d: "Antena 6m 5/8 fali "
+      a: 5/8 wave
+      i: 3
   10m:
     - rx:
         f: 29.65
@@ -60,6 +66,8 @@ x:
       p: 0
       u: []
       d: "Antena 10m 5/8 fali    "
+      a: 5/8 wave
+      i: 3
 h:
   "52319016059":
     x:

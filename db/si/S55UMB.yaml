@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46527028865":
     x:
       - 70cm: 0
     p: Pohorje (Razgledni stolp)
     e: 1147
-    g: 0
+    g: 20
     a: 46.511723
     o: 15.565648
 o:

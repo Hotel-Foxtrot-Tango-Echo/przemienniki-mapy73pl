@@ -13,13 +13,15 @@ x:
       u: []
       d: Przemiennik posiada link pomiędzy nadajnikiem a odbiornikiem 439,8250MHz
         aktywowany nośną.
+      a: nieznana
+      i: 2.15
 h:
   "50243042888":
     x:
       - 10m: 0
     p: Giedlarowa
     e: 230
-    g: 0
+    g: 20
     a: 50.221007
     o: 22.421881
 o:

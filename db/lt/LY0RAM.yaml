@@ -4,7 +4,7 @@ h:
     o: 24.00609
     p: Alytus
     e: 156
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,6 +23,8 @@ x:
           - f: "1"
       e2:
         - 24601
+      a: nieznana
+      i: 9
 o:
   - LY4MR
   - LY3PH

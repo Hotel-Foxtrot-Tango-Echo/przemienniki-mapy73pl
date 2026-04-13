@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51233054167":
     x:
       - 70cm: 0
     p: Antwerp City Police Building
     e: 6
-    g: 0
+    g: 20
     a: 51.22917
     o: 4.375
 o:

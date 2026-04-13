@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: 3x5/8 l Diamond F23
+      a: Diamond F-23
+      i: 7.8
 h:
   "50630080511":
     x:
       - 2m: 0
     p: Feliksówka k/Zamościa
     e: 328
-    g: 0
+    g: 20
     a: 50.607544
     o: 23.261111
 o:

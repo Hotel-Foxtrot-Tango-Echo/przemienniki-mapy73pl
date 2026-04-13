@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63910034475":
     x:
       - 2m: 0
     p: Umeå / Ersmarksberget
     e: 0
-    g: 0
+    g: 20
     a: 63.89001
     o: 20.33475
 o: []

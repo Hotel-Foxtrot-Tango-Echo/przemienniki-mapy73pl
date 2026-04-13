@@ -13,13 +13,15 @@ x:
       u:
         - http://www.darc.de/der-club/distrikte/c/ortsverbaende/15/dboebkn-70cm-relais/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48190005004":
     x:
       - 70cm: 0
     p: ""
     e: 483
-    g: 0
+    g: 20
     a: 48.177277
     o: 12.773044
 o: []

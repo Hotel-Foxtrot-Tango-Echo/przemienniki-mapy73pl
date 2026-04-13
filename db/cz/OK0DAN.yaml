@@ -4,7 +4,7 @@ h:
     o: 13.495367
     p: Zatec - Ceradice
     e: 326
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,6 +28,8 @@ x:
       e2:
         - 23030
         - 230002
+      a: nieznana
+      i: 9
 o:
   - OK1ZJV
   - OK1MGJ

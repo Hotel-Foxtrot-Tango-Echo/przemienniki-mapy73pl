@@ -13,6 +13,8 @@ x:
         
         Antena: bila hul
         Sprzęt: DVMEGA GMSK Modem, 2x Motorola
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 431.8875
@@ -24,6 +26,8 @@ x:
       p: 20
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49953000856":
     x:
@@ -31,7 +35,7 @@ h:
       - 70cm: 0
     p: Vidovice
     e: 441
-    g: 0
+    g: 20
     a: 49.938333
     o: 14.675556
 o:

@@ -4,7 +4,7 @@ h:
     o: 16.45546
     p: Kalnik
     e: 593
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,5 +28,7 @@ x:
         - 2194
         - 21998
         - 21966
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DKL

@@ -14,6 +14,8 @@ x:
       p: 25
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.3
       tx:
@@ -39,6 +41,8 @@ x:
 
         The Repeater is working in AMS mode, WiRES-X mode - Digital. All time is
         connected to the Room ID 89332          
+      a: dipol 1/2 wave
+      i: 2.15
 h:
   "48657003564":
     x:

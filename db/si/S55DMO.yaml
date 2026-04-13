@@ -4,7 +4,7 @@ h:
     o: 14.888593
     p: Golte
     e: 1563
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 293
       e2:
         - 2933
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DMO

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "62526092500":
     x:
       - 2m: 0
     p: Ålesund / Valderøyfjellet
     e: 0
-    g: 0
+    g: 20
     a: 62.5208
     o: 6.125
 o: []

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59791078479":
     x:
       - 70cm: 0
     p: Oslo / Heggedal
     e: 278
-    g: 0
+    g: 20
     a: 59.78138
     o: 10.40479
 o: []

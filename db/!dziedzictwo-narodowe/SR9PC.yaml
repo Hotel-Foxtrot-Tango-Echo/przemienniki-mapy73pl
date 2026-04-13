@@ -14,6 +14,8 @@ x:
       u: []
       d: TRX- Yaesu FTR-5410, ton 1750+ subton CTCSS 103,5 Hz. Antena Kathrein
         Omnidirectional.K-75.17.2.21 (8dB)
+      a: nieznana
+      i: 9
 h:
   "49773008220":
     x:

@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: 173,8 CTCSS for WIRES-X Activation dual mode analog + Fusion
+      a: nieznana
+      i: 6.5
 h:
   "48638063109":
     x:
       - 2m: 0
     p: Uzhhorod
     e: 246
-    g: 0
+    g: 20
     a: 48.616287
     o: 22.344089
 o: []

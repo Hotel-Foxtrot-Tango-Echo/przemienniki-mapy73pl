@@ -27,6 +27,8 @@ x:
         - 230802
         - 230812
         - 230814
+      a: nieznana
+      i: 9
     - rx:
         f: 431.85
         t:
@@ -44,13 +46,15 @@ x:
         
         Antena: 4 dipól
         Sprzęt: Hytera RD985
+      a: nieznana
+      i: 9
 h:
   "49218060105":
     x:
       - 70cm: 0
     p: Brno - Kohoutovice
     e: 410
-    g: 0
+    g: 20
     a: 49.202067
     o: 16.534052
   "49207066315":
@@ -58,7 +62,7 @@ h:
       - 70cm: 1
     p: Brno - Kohoutovice
     e: 408
-    g: 0
+    g: 20
     a: 49.191136
     o: 16.527147
 o:

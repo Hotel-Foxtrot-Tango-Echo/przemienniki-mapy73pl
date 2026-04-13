@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: CCS 99412
+      a: nieznana
+      i: 9
 h:
   "59999036830":
     x:
       - 70cm: 0
     p: Tryvann, Oslo
     e: 538
-    g: 0
+    g: 20
     a: 59.9887
     o: 10.6683
 o: []

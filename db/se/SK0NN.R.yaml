@@ -13,13 +13,15 @@ x:
       u:
         - http://www.sk0nn.se/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59195010263":
     x:
       - 70cm: 0
     p: Haninge
     e: 63
-    g: 0
+    g: 20
     a: 59.17698
     o: 18.12263
 o:

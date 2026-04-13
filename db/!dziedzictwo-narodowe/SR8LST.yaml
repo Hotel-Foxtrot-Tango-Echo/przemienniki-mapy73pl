@@ -4,7 +4,7 @@ h:
     o: 22.699864
     p: Świdnik
     e: 209
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -22,5 +22,7 @@ x:
         f: 438.375
       rx:
         f: 430.375
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR8LST

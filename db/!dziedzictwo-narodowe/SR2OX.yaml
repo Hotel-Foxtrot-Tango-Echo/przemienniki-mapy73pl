@@ -12,13 +12,15 @@ x:
       p: 15
       u: []
       d: Przemiennik połączony z siecią TetraPack
+      a: nieznana
+      i: 9
 h:
   "54569008068":
     x:
       - 70cm: 0
     p: Gdynia
     e: 48
-    g: 0
+    g: 20
     a: 54.550543
     o: 18.537683
 o:

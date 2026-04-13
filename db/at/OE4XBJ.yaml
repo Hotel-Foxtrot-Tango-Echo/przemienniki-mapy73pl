@@ -4,7 +4,7 @@ h:
     o: 16.094009
     p: Markt Allhau
     e: 350
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 2324
         - 2326
         - 2323
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE4XBJ

@@ -12,13 +12,15 @@ x:
       p: 5
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "51366054167":
     x:
       - 2m: 0
     p: Völkerschlachtdenkmal Leipzig
     e: 114
-    g: 0
+    g: 20
     a: 51.35417
     o: 12.375
 o:

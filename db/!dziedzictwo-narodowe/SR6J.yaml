@@ -17,6 +17,8 @@ x:
         Duplexer: IK-TELECOM DPRH4-6-2M
         Fider: 7m, 1/2 FSJ4-50B ANDREW
         Antena: RADMOR 32812/1 , 2.15dBi
+      a: Radmor 32812/1
+      i: 2.15
 h:
   "50810038483":
     x:

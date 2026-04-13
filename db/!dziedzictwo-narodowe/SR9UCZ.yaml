@@ -11,6 +11,8 @@ x:
       u:
         - http://www.36fm.pl
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.4875
         t:
@@ -28,6 +30,8 @@ x:
         - 260
       e2:
         - 260936
+      a: nieznana
+      i: 9
 h:
   "50862071644":
     x:

@@ -13,6 +13,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.725
       tx:
@@ -24,6 +26,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46304069844":
     x:
@@ -31,7 +35,7 @@ h:
       - 70cm: 1
     p: Boč
     e: 786
-    g: 0
+    g: 20
     a: 46.289104
     o: 15.594444
 o:

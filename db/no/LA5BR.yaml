@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "60401017500":
     x:
       - 2m: 0
     p: Bergen / Rundemannen
     e: 0
-    g: 0
+    g: 20
     a: 60.3958
     o: 5.375
 o: []

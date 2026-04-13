@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "46245084003":
     x:
       - 2m: 0
     p: Kobla
     e: 1623
-    g: 0
+    g: 20
     a: 46.231898
     o: 13.942026
 o:

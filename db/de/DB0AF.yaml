@@ -13,13 +13,15 @@ x:
       u:
         - https://www.lausitzlink.de
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "51659087500":
     x:
       - 2m: 0
     p: Altbödern
     e: 89
-    g: 0
+    g: 20
     a: 51.64583
     o: 14.04167
 o:

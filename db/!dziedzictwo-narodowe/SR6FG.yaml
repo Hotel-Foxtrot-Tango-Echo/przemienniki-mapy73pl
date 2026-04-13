@@ -14,13 +14,15 @@ x:
       p: 5
       u: []
       d: Przemiennik okresowy - zasilany energią słoneczną.
+      a: nieznana
+      i: 9
 h:
   "51323014300":
     x:
       - 70cm: 0
     p: ""
     e: 250
-    g: 0
+    g: 20
     a: 51.30611
     o: 17.033005
 o: []

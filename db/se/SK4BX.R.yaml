@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk4bx.se/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 433.65
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk4bx.se/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59346056397":
     x:
       - 2m: 0
     p: Garphyttan / Storstenshöjden
     e: 242
-    g: 0
+    g: 20
     a: 59.331633
     o: 14.93097
   "59371041389":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Garphyttan / Ånnaboda
     e: 175
-    g: 0
+    g: 20
     a: 59.356451
     o: 14.962889
 o:

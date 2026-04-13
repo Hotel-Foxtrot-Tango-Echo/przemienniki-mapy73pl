@@ -13,13 +13,15 @@ x:
       u:
         - http://www.db0ug.de
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51821045833":
     x:
       - 70cm: 0
     p: Paderborn-Eggegebirge
     e: 313
-    g: 0
+    g: 20
     a: 51.8125
     o: 8.95833
 o:

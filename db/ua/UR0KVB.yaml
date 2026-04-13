@@ -13,13 +13,15 @@ x:
       u:
         - http://cqrivne.com.ua/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "50625052778":
     x:
       - 2m: 0
     p: Rivne
     e: 264
-    g: 0
+    g: 20
     a: 50.599107
     o: 26.420778
 o:

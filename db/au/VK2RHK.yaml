@@ -4,7 +4,7 @@ h:
     o: 151.494095
     p: Wyee
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 505205
         - 5052110
         - 5052
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK2RHK

@@ -4,7 +4,7 @@ h:
     o: 20.629664
     p: Biczyce Górne
     e: 402
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 2m: 0
@@ -21,6 +21,8 @@ x:
         f: 433.45
       rx:
         f: 433.45
+      a: nieznana
+      i: 9
   2m:
     - h: "49660026866"
       u: []
@@ -32,6 +34,8 @@ x:
         f: 145.45
       rx:
         f: 145.45
+      a: nieznana
+      i: 6.5
   4m:
     - h: "49660026866"
       u: []
@@ -43,5 +47,7 @@ x:
         f: 70.26
       rx:
         f: 70.26
+      a: nieznana
+      i: 3
 o: []
 page: https://mapy73.pl/repeater/SR9OKT

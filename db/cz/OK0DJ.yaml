@@ -4,7 +4,7 @@ h:
     o: 14.984444
     p: Jested
     e: 1002
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,6 +26,8 @@ x:
       e2:
         - 230402
         - 230808
+      a: nieznana
+      i: 9
 o:
   - OK1ALX
 page: https://mapy73.pl/repeater/OK0DJ

@@ -16,13 +16,15 @@ x:
 
         Antena: Diamond X-300
         Sprzęt: Yaesu DR-1X FM/C4FM Repeater
+      a: Diamond X-300
+      i: 9
 h:
   "48762012356":
     x:
       - 70cm: 0
     p: Kosice
     e: 353
-    g: 0
+    g: 20
     a: 48.740833
     o: 21.290556
 o:

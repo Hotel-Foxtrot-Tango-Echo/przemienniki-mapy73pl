@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46202053532":
     x:
       - 70cm: 0
     p: Mrzlica
     e: 1107
-    g: 0
+    g: 20
     a: 46.187428
     o: 15.107322
 o:

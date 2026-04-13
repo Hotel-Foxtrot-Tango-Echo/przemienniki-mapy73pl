@@ -13,6 +13,8 @@ x:
       u:
         - http://www.sk5um.se/
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.0375
@@ -25,6 +27,8 @@ x:
       u:
         - http://www.sk5um.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59062004968":
     x:
@@ -39,7 +43,7 @@ h:
       - 2m: 0
     p: Flen / Vattentornet
     e: 60
-    g: 0
+    g: 20
     a: 59.06118
     o: 16.57876
 o:

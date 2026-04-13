@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59989090830":
     x:
       - 2m: 0
     p: Oslo / Tryvasshøgda
     e: 348
-    g: 0
+    g: 20
     a: 59.9792
     o: 10.7083
 o: []

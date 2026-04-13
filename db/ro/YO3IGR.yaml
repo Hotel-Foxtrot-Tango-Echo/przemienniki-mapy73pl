@@ -4,7 +4,7 @@ h:
     o: 26.102684
     p: Bucharest
     e: 81
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 226
       e2:
         - 2261414
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO3IGR

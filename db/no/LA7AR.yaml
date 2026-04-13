@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "69245024170":
     x:
       - 2m: 0
     p: Andenes / Endletenfjell
     e: 0
-    g: 0
+    g: 20
     a: 69.2292
     o: 16.0417
 o: []

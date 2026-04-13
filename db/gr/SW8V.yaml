@@ -4,7 +4,7 @@ h:
     o: 19.821172
     p: CORFU
     e: 263
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 20281
         - 2021
         - 2023
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SW8V

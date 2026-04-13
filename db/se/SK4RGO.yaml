@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk4ko.com/v2/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 433.75
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk4ko.com/v2/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "61231033981":
     x:
@@ -30,7 +34,7 @@ h:
       - 70cm: 0
     p: Orsa / Grönklitt
     e: 0
-    g: 0
+    g: 20
     a: 61.216801
     o: 14.538811
 o: []

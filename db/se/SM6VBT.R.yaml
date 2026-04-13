@@ -11,6 +11,8 @@ x:
       u:
         - http://status.irlp.net/?PSTART=5&country=225
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.7
@@ -23,6 +25,8 @@ x:
       u:
         - http://status.irlp.net/?PSTART=5&country=225
       d: ""
+      a: nieznana
+      i: 9
   10m:
     - rx:
         f: 29.59
@@ -34,6 +38,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 2.15
 h:
   "57662001667":
     x:
@@ -42,7 +48,7 @@ h:
       - 10m: 0
     p: Mölndal
     e: 4
-    g: 0
+    g: 20
     a: 57.65
     o: 12.016667
 o: []

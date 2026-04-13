@@ -16,6 +16,8 @@ x:
         Antena BSL UHF/H 400-470 MHz 4,5 dB
         Przemiennik Yaesu DR-1X.
         Duplexer procom DPF 70/6
+      a: BSL UHF/H
+      i: 4.5
 h:
   "54608098503":
     x:

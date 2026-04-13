@@ -14,13 +14,15 @@ x:
         - http://ur5nbc.qrz.ru/?K
         - https://www.youtube.com/watch?v=rthBZkDJLPU
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50663009982":
     x:
       - 70cm: 0
     p: Rivne
     e: 223
-    g: 0
+    g: 20
     a: 50.636818
     o: 26.281818
 o:

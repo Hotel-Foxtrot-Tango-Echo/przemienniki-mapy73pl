@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.4875
         t:
@@ -42,6 +44,8 @@ x:
 
         Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS -
         SR4MO - SR2GD-C - SR2GA - SR4WA
+      a: Diamond X-300
+      i: 9
     - rx:
         f: 431.4625
         t:
@@ -54,6 +58,8 @@ x:
       p: 4
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "54365070579":
     x:
@@ -62,7 +68,7 @@ h:
       - 70cm: 2
     p: Gdańsk
     e: 3
-    g: 0
+    g: 20
     a: 54.34704
     o: 18.665793
 o:

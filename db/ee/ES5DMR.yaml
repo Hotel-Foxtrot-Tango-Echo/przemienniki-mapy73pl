@@ -4,7 +4,7 @@ h:
     o: 26.690521
     p: Tartu
     e: 70
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,6 +25,8 @@ x:
         - 2485
       e2:
         - 248
+      a: nieznana
+      i: 9
 o:
   - ES5TO
   - ES5PC

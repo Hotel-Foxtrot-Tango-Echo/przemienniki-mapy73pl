@@ -4,7 +4,7 @@ h:
     o: 19.005885
     p: Katowice
     e: 296
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 438.2375
       rx:
         f: 430.6375
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR9TZN

@@ -14,13 +14,15 @@ x:
       p: 20
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49114036624":
     x:
       - 2m: 0
     p: Veľká lúka, Martinské hole
     e: 1451
-    g: 0
+    g: 20
     a: 49.095548
     o: 18.818243
 o:

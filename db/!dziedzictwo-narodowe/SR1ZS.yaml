@@ -4,7 +4,7 @@ h:
     o: 14.550962
     p: Szczecin
     e: 25
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 439
       rx:
         f: 431.4
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR1ZS

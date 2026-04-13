@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6ky.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.725
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk6ky.se
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57499056819":
     x:

@@ -14,6 +14,8 @@ x:
         RX - Motorola GM340
 
         antena wspólna z TX-SR3X Cushcraft ARX-270 12dBi @ 90m npt
+      a: Cushcraft ARX-270
+      i: 7.5
 h:
   "52476006193":
     x:

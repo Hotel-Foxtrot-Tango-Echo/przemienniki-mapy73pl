@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: "Antena: Comet GP-3 RX/TX: Yaesu DR-1X"
+      a: Comet GP-3
+      i: 3.5
     - rx:
         f: 145.0125
       tx:
@@ -24,6 +26,8 @@ x:
       p: 15
       u: []
       d: "Antena: Comet GP-3 RX/TX: Yaesu DR-1X"
+      a: Comet GP-3
+      i: 3.5
 h:
   "53923076561":
     x:

@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 3
 h:
   "63281017500":
     x:
       - 6m: 0
     p: Trondheim / Vassfjellet
     e: 0
-    g: 0
+    g: 20
     a: 63.2708
     o: 10.375
 o: []

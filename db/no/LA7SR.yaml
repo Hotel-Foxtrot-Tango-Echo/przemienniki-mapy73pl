@@ -13,13 +13,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59156000830":
     x:
       - 70cm: 0
     p: Tønsberg / Mokollen
     e: 59
-    g: 0
+    g: 20
     a: 59.1458
     o: 10.2083
 o: []

@@ -4,7 +4,7 @@ h:
     o: 22.982205
     p: Filipy
     e: 133
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 2m: 0
@@ -20,6 +20,8 @@ x:
         f: 438.935
       rx:
         f: 431.335
+      a: nieznana
+      i: 9
   2m:
     - h: "52910023521"
       u: []
@@ -31,5 +33,7 @@ x:
         f: 145.335
       rx:
         f: 144.735
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR7TX

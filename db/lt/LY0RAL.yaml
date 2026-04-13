@@ -16,6 +16,8 @@ x:
       d: |-
         Works after update. 160 m ASL, 8 m mast, Diamond X-510 antenna
         88.5 subtone
+      a: Diamond X-510
+      i: 8.3
 h:
   "54419087500":
     x:

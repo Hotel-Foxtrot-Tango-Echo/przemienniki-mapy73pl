@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57448004170":
     x:
       - 70cm: 0
     p: Frederikshavn
     e: 2
-    g: 0
+    g: 20
     a: 57.4375
     o: 10.5417
 o: []

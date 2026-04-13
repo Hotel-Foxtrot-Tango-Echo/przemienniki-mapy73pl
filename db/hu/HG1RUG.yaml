@@ -4,7 +4,7 @@ h:
     o: 17.62876
     p: Gyor
     e: 113
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -24,5 +24,7 @@ x:
       e2:
         - 216102
         - 91
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG1RUG

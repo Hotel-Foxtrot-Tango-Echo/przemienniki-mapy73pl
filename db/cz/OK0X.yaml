@@ -15,13 +15,15 @@ x:
       u:
         - http://www.prevadece.cz/dmr/sit
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50100000883":
     x:
       - 70cm: 0
     p: Praděd
     e: 1503
-    g: 0
+    g: 20
     a: 50.082778
     o: 17.230833
 o:

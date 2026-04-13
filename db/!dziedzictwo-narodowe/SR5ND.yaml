@@ -19,6 +19,8 @@ x:
         - MMDVM Repeater Board V3F4 BI7JTA
         - Raspberry Pi 3B+
         - 2x Motorola GM350
+      a: Diamond X-300
+      i: 9
 h:
   "52468094110":
     x:

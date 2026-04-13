@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58611057500":
     x:
       - 2m: 0
     p: Mandal / Sjåvassknuten
     e: 689
-    g: 0
+    g: 20
     a: 58.6042
     o: 7.375
 o: []

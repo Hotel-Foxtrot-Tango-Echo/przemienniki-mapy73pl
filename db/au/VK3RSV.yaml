@@ -4,7 +4,7 @@ h:
     o: 145.186951
     p: Noble Park
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -24,5 +24,7 @@ x:
       e2:
         - 202
         - 2029
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK3RSV

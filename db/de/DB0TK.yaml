@@ -14,13 +14,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49052038267":
     x:
       - 2m: 0
     p: Regensburg - Keilberg
     e: 472
-    g: 0
+    g: 20
     a: 49.04022
     o: 12.16267
 o: []

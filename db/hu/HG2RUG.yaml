@@ -4,7 +4,7 @@ h:
     o: 18.493959
     p: Gerecse
     e: 624
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
       e2:
         - 216110
         - 216109
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG2RUG

@@ -14,13 +14,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "50787065499":
     x:
       - 2m: 0
     p: Strzelin, Wieża Ciśnień
     e: 204
-    g: 0
+    g: 20
     a: 50.77057
     o: 17.084985
 o:

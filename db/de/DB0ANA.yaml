@@ -10,13 +10,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "50575054167":
     x:
       - 2m: 0
     p: Pöhlberg, Annaberg
     e: 559
-    g: 0
+    g: 20
     a: 50.5625
     o: 13.04167
 o:

@@ -4,7 +4,7 @@ h:
     o: 22.300185
     p: Stróża-Kolonia
     e: 237
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 2m: 0
@@ -20,6 +20,8 @@ x:
         f: 438.25
       rx:
         f: 430.65
+      a: nieznana
+      i: 9
   2m:
     - h: "50921083119"
       u: []
@@ -31,5 +33,7 @@ x:
         f: 145.6
       rx:
         f: 145
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR8HT

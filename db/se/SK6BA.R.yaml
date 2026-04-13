@@ -14,6 +14,8 @@ x:
       u:
         - http://sk6ba.se/repeater/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.95
@@ -29,6 +31,8 @@ x:
       u:
         - http://sk6ba.se/repeater/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57522009770":
     x:

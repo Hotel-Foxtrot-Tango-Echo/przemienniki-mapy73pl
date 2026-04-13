@@ -15,13 +15,15 @@ x:
       u:
         - http://www.df0hhh.de
       d: ""
+      a: nieznana
+      i: 9
 h:
   "53406051556":
     x:
       - 70cm: 0
     p: Hamburg Rosengarten
     e: 159
-    g: 0
+    g: 20
     a: 53.39665
     o: 9.865561
 o: []

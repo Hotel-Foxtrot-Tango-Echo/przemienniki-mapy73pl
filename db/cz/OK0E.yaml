@@ -15,13 +15,15 @@ x:
       u:
         - http://www.ok1kvk.cz/web/index.php/ok0e-a-ok0be
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "50409072870":
     x:
       - 2m: 0
     p: Klínovec
     e: 1247
-    g: 0
+    g: 20
     a: 50.396761
     o: 12.9677
 o:

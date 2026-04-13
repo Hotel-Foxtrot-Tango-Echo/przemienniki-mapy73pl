@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "45644076320":
     x:
       - 70cm: 0
     p: Mirna Gora
     e: 1002
-    g: 0
+    g: 20
     a: 45.62966
     o: 15.103199
 o:

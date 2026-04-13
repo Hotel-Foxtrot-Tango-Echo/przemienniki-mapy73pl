@@ -13,6 +13,8 @@ x:
       p: 0
       u: []
       d: crossband sprzęga przemienniki SR5NRD z Przemienikiem SR7ZG
+      a: nieznana
+      i: 9
     - rx:
         f: 431.375
         t:
@@ -25,6 +27,8 @@ x:
       p: 15
       u: []
       d: Motorola GM 1280
+      a: nieznana
+      i: 9
   2m:
     - tx:
         f: 144.5625
@@ -34,6 +38,8 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "52500007484":
     x:

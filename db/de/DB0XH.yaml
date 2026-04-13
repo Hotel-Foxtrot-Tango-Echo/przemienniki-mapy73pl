@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "53577001423":
     x:
       - 2m: 0
     p: Hamburg-Blankenese
     e: 84
-    g: 0
+    g: 20
     a: 53.56723
     o: 9.78423
 o: []

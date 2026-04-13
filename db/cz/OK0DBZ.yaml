@@ -11,13 +11,15 @@ x:
       u:
         - http://www.prevadece.cz/dmr/sit
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50553088672":
     x:
       - 70cm: 0
     p: Bezděz
     e: 585
-    g: 0
+    g: 20
     a: 50.539167
     o: 14.719722
 o:

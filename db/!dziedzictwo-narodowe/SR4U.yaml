@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: Radmor, 3x5/8
+      a: 3x5/8 collinear
+      i: 6
 h:
   "53131096894":
     x:
       - 2m: 0
     p: Białystok
     e: 154
-    g: 0
+    g: 20
     a: 53.108847
     o: 23.121939
 o:

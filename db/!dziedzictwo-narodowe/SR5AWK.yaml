@@ -15,6 +15,8 @@ x:
         TETRA DMO: MCC 260, MNC 2605, TG 260
         Przemiennik uruchomiony w sieci FM-Poland
         Antena X-300, Motorola Cleartone CM-5000
+      a: Diamond X-300
+      i: 9
 h:
   "52152022590":
     x:

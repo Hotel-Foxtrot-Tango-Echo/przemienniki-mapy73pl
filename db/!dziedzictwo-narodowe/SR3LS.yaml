@@ -15,13 +15,15 @@ x:
       u: []
       d: dwie anteny X-200,2x Motorola gm-600,Sterownik made in SQ3NQH.Przemiennik
         zmodernizowany i uruchomiony ponownie 15.10.2018
+      a: Diamond X-200
+      i: 8
 h:
   "51863077082":
     x:
       - 70cm: 0
     p: Leszno
     e: 94
-    g: 0
+    g: 20
     a: 51.847173
     o: 16.597824
 o:

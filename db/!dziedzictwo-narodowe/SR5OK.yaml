@@ -16,6 +16,8 @@ x:
         Antena 3x5/8 Big Star, urządzenie Motorola MTR2000 + Modem MMDVM
 
         EchoLink 55578
+      a: 3x5/8 collinear
+      i: 8
     - rx:
         f: 431.6625
       tx:
@@ -26,6 +28,8 @@ x:
       p: 15
       u: []
       d: Antena 3x5/8 Big Star, urządzenie Motorola MTR2000 + Modem MMDVM
+      a: 3x5/8 collinear
+      i: 8
     - rx:
         f: 431.6625
         t:
@@ -62,6 +66,8 @@ x:
         - 260525
       e2:
         - 26059
+      a: 3x5/8 collinear
+      i: 8
 h:
   "53256014663":
     x:

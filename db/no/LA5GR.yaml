@@ -11,13 +11,15 @@ x:
       u:
         - http://la1g.no/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59150041940":
     x:
       - 2m: 0
     p: Skien
     e: 87
-    g: 0
+    g: 20
     a: 59.141
     o: 9.4194
 o:

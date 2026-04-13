@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "52215026011":
     x:
       - 70cm: 0
     p: Warszawa Ursus
     e: 108
-    g: 0
+    g: 20
     a: 52.194374
     o: 20.886109
 o:

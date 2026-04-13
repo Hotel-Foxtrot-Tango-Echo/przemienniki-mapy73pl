@@ -12,6 +12,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.8375
       tx:
@@ -22,6 +24,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.925
       tx:
@@ -32,13 +36,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59311065555":
     x:
       - 70cm: 0
     p: Johanneshov
     e: 61
-    g: 0
+    g: 20
     a: 59.293572
     o: 18.083552
   "59348054461":
@@ -54,7 +60,7 @@ h:
       - 70cm: 2
     p: Stockholm / Skärholmen
     e: 49
-    g: 0
+    g: 20
     a: 59.28932
     o: 17.9077
 o:

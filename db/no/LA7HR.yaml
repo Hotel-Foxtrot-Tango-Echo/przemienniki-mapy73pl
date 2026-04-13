@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "68829004170":
     x:
       - 2m: 0
     p: Harstad / Samaåsen
     e: 0
-    g: 0
+    g: 20
     a: 68.8125
     o: 16.5417
 o: []

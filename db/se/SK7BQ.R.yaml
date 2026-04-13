@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk7bq.com/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.6
@@ -25,13 +27,15 @@ x:
       u:
         - http://www.sk7bq.com/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56019041566":
     x:
       - 2m: 0
     p: Kristianstad
     e: 64
-    g: 0
+    g: 20
     a: 56.00535
     o: 14.06566
   "56036004882":
@@ -39,7 +43,7 @@ h:
       - 70cm: 0
     p: Kristianstad
     e: 10
-    g: 0
+    g: 20
     a: 56.02188
     o: 14.16882
 o:

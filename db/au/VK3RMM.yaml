@@ -4,7 +4,7 @@ h:
     o: 144.57678
     p: Mt Macedon
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 5053
       e2:
         - 505
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK3RMM

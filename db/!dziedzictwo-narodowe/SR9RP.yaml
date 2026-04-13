@@ -4,7 +4,7 @@ h:
     o: 22.57654
     p: Wysokie
     e: 133
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 439.25
       rx:
         f: 431.65
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR9RP

@@ -4,7 +4,7 @@ h:
     o: 23.147051
     p: Białystok
     e: 150
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 2m: 0
@@ -20,6 +20,8 @@ x:
         f: 439.35
       rx:
         f: 431.75
+      a: nieznana
+      i: 9
   2m:
     - h: "53150065205"
       u: []
@@ -31,5 +33,7 @@ x:
         f: 145.1375
       rx:
         f: 144.925
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR4V

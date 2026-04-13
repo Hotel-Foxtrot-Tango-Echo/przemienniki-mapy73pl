@@ -20,6 +20,8 @@ x:
 
         Analog:
         CTCSS: odbiór i nadawanie - 127.3 Hz
+      a: Radmor 8x5/8
+      i: 11
     - rx:
         f: 430.7375
         t:
@@ -70,6 +72,8 @@ x:
       e2:
         - 26057
         - 26055
+      a: Radmor 8x5/8
+      i: 11
 h:
   "52289038269":
     x:

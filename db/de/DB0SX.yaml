@@ -13,13 +13,15 @@ x:
       u:
         - http://www.darc.de/distrikte/d/05/db0sx/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "52534012500":
     x:
       - 70cm: 0
     p: Berlin-Charlottenburg
     e: 36
-    g: 0
+    g: 20
     a: 52.52083
     o: 13.29167
 o:

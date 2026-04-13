@@ -4,7 +4,7 @@ h:
     o: 21.554304
     p: Prilep Severna Makedonia
     e: 650
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 2948
         - 2949
         - 2941
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/Z35VPP

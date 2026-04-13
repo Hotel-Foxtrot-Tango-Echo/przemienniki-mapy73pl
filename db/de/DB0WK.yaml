@@ -12,6 +12,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.425
         t:
@@ -24,13 +26,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50507062786":
     x:
       - 70cm: 0
     p: Wasserkuppe / Hessen
     e: 947
-    g: 0
+    g: 20
     a: 50.497692
     o: 9.935862
   "50507066205":
@@ -38,7 +42,7 @@ h:
       - 70cm: 1
     p: Wasserkuppe / Hessen
     e: 950
-    g: 0
+    g: 20
     a: 50.497726
     o: 9.93605
 o: []

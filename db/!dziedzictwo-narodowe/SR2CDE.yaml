@@ -4,7 +4,7 @@ h:
     o: 18.557463
     p: Gdańsk
     e: 115
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -22,6 +22,8 @@ x:
         f: 439.1875
       rx:
         f: 431.5875
+      a: Diamond X-300
+      i: 9
 o:
   - SQ2CDE
 page: https://mapy73.pl/repeater/SR2CDE

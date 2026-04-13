@@ -4,7 +4,7 @@ h:
     o: 21.7853
     p: Kumanovo
     e: 429
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 294
       e2:
         - 2947
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/Z35UKU

@@ -4,7 +4,7 @@ h:
     o: 22.88247
     p: Satu Mare
     e: 127
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -41,5 +41,7 @@ x:
         - 2267
         - 2268
         - 2269
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO2OCP

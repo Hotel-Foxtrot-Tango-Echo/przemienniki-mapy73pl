@@ -4,7 +4,7 @@ h:
     o: 20.378
     p: Makowica
     e: 856
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -21,5 +21,7 @@ x:
         f: 145
         t:
           - c: "103.5"
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR9W

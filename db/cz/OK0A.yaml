@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49558047106":
     x:
       - 2m: 0
     p: Havlíčkův Brod - Květnov
     e: 570
-    g: 0
+    g: 20
     a: 49.542878
     o: 15.593058
 o:

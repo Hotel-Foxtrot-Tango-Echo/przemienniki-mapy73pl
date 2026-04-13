@@ -4,7 +4,7 @@ h:
     o: 28.766785
     p: Ialoveni
     e: 67
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,5 +28,7 @@ x:
         - 9800
         - 2599
         - 2597
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/ER1IL

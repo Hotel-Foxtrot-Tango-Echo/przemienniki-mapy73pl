@@ -4,7 +4,7 @@ h:
     o: 19.588574
     p: Chopok
     e: 1478
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 23112
         - 231303
         - 2319112
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OM0ODC

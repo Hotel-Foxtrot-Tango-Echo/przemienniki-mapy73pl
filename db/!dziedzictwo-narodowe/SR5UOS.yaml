@@ -13,6 +13,8 @@ x:
         - http://kurpie.hblink.network:8088/
         - http://dmrplus.pl/serwery
       d: Antena Diamond X-300, urządzenie Motorola MTR2000 + Modem MMDVM
+      a: Diamond X-300
+      i: 9
     - rx:
         f: 431.3125
         t:
@@ -52,6 +54,8 @@ x:
         - 260
       e2:
         - 26059
+      a: Diamond X-300
+      i: 9
 h:
   "53101085846":
     x:

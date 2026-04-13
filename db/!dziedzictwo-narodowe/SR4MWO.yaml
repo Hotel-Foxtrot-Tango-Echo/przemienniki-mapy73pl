@@ -20,6 +20,8 @@ x:
         - 2604
       e2:
         - 26042
+      a: nieznana
+      i: 9
     - rx:
         f: 430.55
       tx:
@@ -34,6 +36,8 @@ x:
       d: |-
         Przemiennik w systemie D-STAR
         D-Star- nie linkowany 
+      a: nieznana
+      i: 9
     - rx:
         f: 430.55
         t:
@@ -60,6 +64,8 @@ x:
         TG9 TS2 do łączności lokalnych 
       e1:
         - 2604
+      a: nieznana
+      i: 9
     - rx:
         f: 430.55
       tx:
@@ -82,6 +88,8 @@ x:
 
 
         \                  "
+      a: nieznana
+      i: 9
 h:
   "53887061891":
     x:
@@ -91,7 +99,7 @@ h:
       - 70cm: 3
     p: Mrągowo
     e: 165
-    g: 0
+    g: 20
     a: 53.866333
     o: 21.285911
 o:

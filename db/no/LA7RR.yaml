@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63364065830":
     x:
       - 2m: 0
     p: Trondheim / Liaåsen
     e: 0
-    g: 0
+    g: 20
     a: 63.3542
     o: 10.4583
 o: []

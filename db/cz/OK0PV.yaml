@@ -15,13 +15,15 @@ x:
       u:
         - http://www.ok4ps.cz/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49448029392":
     x:
       - 70cm: 0
     p: Prostějov
     e: 652
-    g: 0
+    g: 20
     a: 49.431384
     o: 16.909925
 o:

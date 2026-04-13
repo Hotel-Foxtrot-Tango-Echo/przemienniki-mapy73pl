@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6ei.se/
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.0875
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk6ei.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58431055548":
     x:

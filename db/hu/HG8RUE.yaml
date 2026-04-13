@@ -4,7 +4,7 @@ h:
     o: 21.2586
     p: Gyula
     e: 92
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "9"
       e1:
         - 216
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG8RUE

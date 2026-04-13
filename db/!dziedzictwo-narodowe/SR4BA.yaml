@@ -4,7 +4,7 @@ h:
     o: 20.752187
     p: KIERTYNY
     e: 111
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,6 +27,8 @@ x:
         - 26041
       e2:
         - 260066
+      a: nieznana
+      i: 9
 o:
   - HF4OS
 page: https://mapy73.pl/repeater/SR4BA

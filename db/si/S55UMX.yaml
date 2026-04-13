@@ -14,13 +14,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46531096570":
     x:
       - 70cm: 0
     p: Pohorje (Maribor)
     e: 914
-    g: 0
+    g: 20
     a: 46.516374
     o: 15.591698
 o:

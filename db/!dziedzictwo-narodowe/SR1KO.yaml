@@ -7,7 +7,7 @@ h:
     o: 16.17707
     p: Koszalin
     e: 28
-    g: 0
+    g: 20
     x: []
 x:
   2m:
@@ -19,6 +19,8 @@ x:
       s: "2"
       rx:
         f: 145.075
+      a: nieznana
+      i: 6.5
   70cm:
     - h: "54207009707"
       u: []
@@ -28,5 +30,7 @@ x:
       s: "2"
       tx:
         f: 434.575
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR1KO

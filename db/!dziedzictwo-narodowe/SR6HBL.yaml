@@ -14,13 +14,15 @@ x:
       d: |-
         Przemiennik lokalnej sieci HBLink Wrocław
         TS1 Brandmeister, TS2 HBLink Wrocław
+      a: nieznana
+      i: 9
 h:
   "51121012500":
     x:
       - 70cm: 0
     p: Wrocław
     e: 118
-    g: 0
+    g: 20
     a: 51.10417
     o: 16.95833
 o:

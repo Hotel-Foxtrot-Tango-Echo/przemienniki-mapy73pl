@@ -27,6 +27,8 @@ x:
         Przemiennik został wyłączony i zdemontowany na czas remontu/przebudowy
         wieży EmiTel-a RTCN Krosno/Sucha Góra do wiosny 2021. Po tym okresie
         będzie ponownie włączony.
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.125
         t:
@@ -40,6 +42,8 @@ x:
       u:
         - http://otpzk05.pl/index.php?option=com_content&task=view&id=111&Itemid=80
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49777093494":
     x:

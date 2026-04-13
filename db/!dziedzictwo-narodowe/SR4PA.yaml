@@ -16,6 +16,8 @@ x:
       d: |-
         Motorola MTR2000
         Antena-Diamond SE-300
+      a: Diamond SE-300
+      i: 9
     - rx:
         f: 431.4
       tx:
@@ -28,6 +30,8 @@ x:
       d: |-
         Motorola MTR2000
         Antena-Diamond SE-300          
+      a: Diamond SE-300
+      i: 9
   2m:
     - rx:
         f: 145.175
@@ -43,6 +47,8 @@ x:
       p: 15
       u: []
       d: Yaesu VXR 7000,COMET GP9
+      a: Comet GP-9
+      i: 8.5
 h:
   "54076051698":
     x:
@@ -58,7 +64,7 @@ h:
       - 2m: 0
     p: Pasłęk
     e: 101
-    g: 0
+    g: 20
     a: 54.020164
     o: 19.692291
 o:

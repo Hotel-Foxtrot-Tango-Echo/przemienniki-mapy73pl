@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "69717045830":
     x:
       - 2m: 0
     p: Kirkenes / Verigasfjellet
     e: 0
-    g: 0
+    g: 20
     a: 69.6875
     o: 29.9583
 o: []

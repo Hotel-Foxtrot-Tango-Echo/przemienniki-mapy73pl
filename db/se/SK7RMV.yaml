@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "57510068165":
     x:
       - 2m: 0
     p: Hultsfred / Gåskullen
     e: 105
-    g: 0
+    g: 20
     a: 57.49484
     o: 15.841651
 o:

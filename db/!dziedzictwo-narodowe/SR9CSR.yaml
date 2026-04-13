@@ -14,13 +14,15 @@ x:
       d: "Przemiennik pracuje w sieci DMR-PLUS, może być okresowo wyłączany. Dane
         dodatkowe: CC1, TS1 grupa 260, TS2 grupa 2609. Aktywność przemiennika
         można sprawdzić na: http://dmrplus.pl/ipsc2-381"
+      a: nieznana
+      i: 9
 h:
   "49953010066":
     x:
       - 70cm: 0
     p: Osiek
     e: 290
-    g: 0
+    g: 20
     a: 49.933851
     o: 19.249664
 o:

@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "65917039200":
     x:
       - 70cm: 0
     p: Kalix / Raggdynan
     e: 0
-    g: 0
+    g: 20
     a: 65.89464
     o: 22.752
 o: []

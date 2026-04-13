@@ -24,6 +24,8 @@ x:
         Tx 438.925
         Rx 431.325
         CTCSS 103.5 Hz
+      a: Sirio SO-437N
+      i: 2.15
     - rx:
         f: 29.69
         t:
@@ -42,6 +44,8 @@ x:
         Przemiennik zlinkowany z przemiennikiem SR8KN
         RADIOTELEFONY YAESU FTL1011
         Anteny GP 1/4
+      a: GP 1/4 wave
+      i: 2.15
 h:
   "49719022467":
     x:

@@ -17,13 +17,15 @@ x:
         - 2606
       e2:
         - 26063
+      a: nieznana
+      i: 9
 h:
   "50530089304":
     x:
       - 70cm: 0
     p: STRZELCE OPOLSKIE
     e: 232
-    g: 0
+    g: 20
     a: 50.5126
     o: 18.293043
 o:

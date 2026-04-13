@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: Motorola MTR2000 + DPF70/6-150 + BPF Airtech(RX)
+      a: nieznana
+      i: 9
 h:
   "50483043244":
     x:
       - 70cm: 0
     p: Wysoka k. Góry Św Anny
     e: 388
-    g: 0
+    g: 20
     a: 50.465278
     o: 18.154444
 o:

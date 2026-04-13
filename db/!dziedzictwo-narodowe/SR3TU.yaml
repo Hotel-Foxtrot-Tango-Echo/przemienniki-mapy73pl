@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: Antena X-510, diplekser, 2xMotorola
+      a: Diamond X-510
+      i: 11.7
 h:
   "52039029167":
     x:
       - 70cm: 0
     p: Turek
     e: 139
-    g: 0
+    g: 20
     a: 52.02083
     o: 18.45833
 o:

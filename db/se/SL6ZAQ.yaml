@@ -12,6 +12,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.0375
@@ -24,6 +26,8 @@ x:
       u:
         - https://brandmeister.network/?page=repeater&id=240601
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58340062258":
     x:

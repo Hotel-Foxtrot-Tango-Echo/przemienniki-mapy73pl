@@ -4,7 +4,7 @@ h:
     o: 24.81918
     p: Kose
     e: 52
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,6 +28,8 @@ x:
       e2:
         - 248
         - 248446
+      a: nieznana
+      i: 9
 o:
   - ES2AST
   - ES4HTI

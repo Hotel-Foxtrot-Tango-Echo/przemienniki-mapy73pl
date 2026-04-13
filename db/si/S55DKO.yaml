@@ -4,7 +4,7 @@ h:
     o: 15.188105
     p: Mala Kopa
     e: 1518
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
       e2:
         - 29312
         - 29320
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DKO

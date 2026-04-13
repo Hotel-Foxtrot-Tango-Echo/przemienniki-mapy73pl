@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk3jr.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63440008550":
     x:
       - 2m: 0
     p: Åre / Åreskutan
     e: 0
-    g: 0
+    g: 20
     a: 63.427
     o: 13.0855
 o: []

@@ -4,7 +4,7 @@ h:
     o: 16.312029
     p: Broczyno
     e: 144
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -27,6 +27,8 @@ x:
       e2:
         - 260108
         - 26011
+      a: nieznana
+      i: 6.5
 o:
   - SQ1PRA
   - SQ7SCC

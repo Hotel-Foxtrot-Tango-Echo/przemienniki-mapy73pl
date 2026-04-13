@@ -15,13 +15,15 @@ x:
       u:
         - http://www.sr8za.fora.pl
       d: Antena PROCOM CXL-70
+      a: nieznana
+      i: 9
 h:
   "50630080511":
     x:
       - 70cm: 0
     p: Feliksówka k/Zamościa
     e: 328
-    g: 0
+    g: 20
     a: 50.607544
     o: 23.261111
 o:

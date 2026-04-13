@@ -12,13 +12,15 @@ x:
       p: 5
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "46984072757":
     x:
       - 2m: 0
     p: Ceahlău Massif, Toaca
     e: 1810
-    g: 0
+    g: 20
     a: 46.958784
     o: 25.94357
 o:

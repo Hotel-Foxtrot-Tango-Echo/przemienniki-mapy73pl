@@ -17,6 +17,8 @@ x:
         - 260
       e2:
         - 26011
+      a: Diamond X-510
+      i: 11.7
     - rx:
         f: 431.625
       tx:
@@ -28,6 +30,8 @@ x:
       u:
         - https://www.bsk.kolobrzeg.pl/przemiennki-bsk/
       d: YAESU DR-1XE , Antena X-510 50m
+      a: Diamond X-510
+      i: 11.7
 h:
   "54193083721":
     x:
@@ -35,7 +39,7 @@ h:
       - 70cm: 1
     p: Kołobrzeg
     e: 3
-    g: 0
+    g: 20
     a: 54.178284
     o: 15.553207
 o:

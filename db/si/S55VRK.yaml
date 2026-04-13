@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "46500027391":
     x:
       - 2m: 0
     p: Uršlja gora
     e: 1681
-    g: 0
+    g: 20
     a: 46.485313
     o: 14.960908
 o:

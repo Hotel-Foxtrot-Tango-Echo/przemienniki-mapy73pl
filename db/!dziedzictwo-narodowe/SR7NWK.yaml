@@ -4,7 +4,7 @@ h:
     o: 20.304612
     p: Jędrzejów
     e: 244
-    g: 0
+    g: 20
     x:
       - 6m: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 50.7
       rx:
         f: 50.7
+      a: nieznana
+      i: 3
 o: []
 page: https://mapy73.pl/repeater/SR7NWK

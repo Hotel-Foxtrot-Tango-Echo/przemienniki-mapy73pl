@@ -15,6 +15,8 @@ x:
       u: []
       d: TX/RX Motorola GM340, sterownik Microsat, duplekser SGQ-450D-N, antena
         Diamond X-200
+      a: Diamond X-200
+      i: 8
 h:
   "53294049546":
     x:

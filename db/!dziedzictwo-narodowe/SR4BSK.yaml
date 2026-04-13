@@ -15,13 +15,15 @@ x:
         Przemiennik MMDVM.
         Color Code 4.
         Przemiennik pracuje w sieci DMR+
+      a: nieznana
+      i: 9
 h:
   "53419037500":
     x:
       - 70cm: 0
     p: Sokólka
     e: 159
-    g: 0
+    g: 20
     a: 53.39583
     o: 23.54167
 o:

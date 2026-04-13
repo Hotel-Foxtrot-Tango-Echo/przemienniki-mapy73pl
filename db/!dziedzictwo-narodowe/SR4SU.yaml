@@ -17,13 +17,15 @@ x:
       d: |-
         Połączony na stałe z przemiennikami sieci FM-LINK.
         Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.
+      a: nieznana
+      i: 9
 h:
   "54218093180":
     x:
       - 70cm: 0
     p: Jeleniewo
     e: 251
-    g: 0
+    g: 20
     a: 54.196059
     o: 22.872801
 o:

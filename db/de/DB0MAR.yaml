@@ -10,6 +10,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.1
@@ -23,6 +25,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "54016067958":
     x:
@@ -30,7 +34,7 @@ h:
       - 2m: 0
     p: Timmendorfer Strand
     e: 24
-    g: 0
+    g: 20
     a: 54.005909
     o: 10.770582
 o: []

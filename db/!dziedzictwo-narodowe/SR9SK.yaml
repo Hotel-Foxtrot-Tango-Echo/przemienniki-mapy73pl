@@ -15,6 +15,8 @@ x:
       u:
         - http://radioamatorzy.pl
       d: FM
+      a: nieznana
+      i: 9
     - rx:
         f: 431.775
       tx:
@@ -25,6 +27,8 @@ x:
       p: 15
       u: []
       d: C4FM
+      a: nieznana
+      i: 9
 h:
   "49704025284":
     x:

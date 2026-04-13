@@ -18,13 +18,15 @@ x:
         - 293
       e2:
         - 2934
+      a: nieznana
+      i: 9
 h:
   "46118046769":
     x:
       - 70cm: 0
     p: Ermanovec (Gorenja vas)
     e: 960
-    g: 0
+    g: 20
     a: 46.104405
     o: 14.062695
 o:

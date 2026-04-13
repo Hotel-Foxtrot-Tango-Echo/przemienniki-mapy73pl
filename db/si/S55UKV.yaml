@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46314070324":
     x:
       - 70cm: 0
     p: Krvavec
     e: 1835
-    g: 0
+    g: 20
     a: 46.300167
     o: 14.536238
 o:

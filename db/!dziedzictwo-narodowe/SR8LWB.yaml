@@ -15,13 +15,15 @@ x:
       u: []
       d: Przemiennik ma być umiejscowiony na terenie Zakładu Górniczego Lubelski
         Węgiel Bogdanka S. A. w ramach programu Aktywni Bogdanka.
+      a: nieznana
+      i: 9
 h:
   "51335054167":
     x:
       - 70cm: 0
     p: Bogdanka
     e: 175
-    g: 0
+    g: 20
     a: 51.3125
     o: 23.04167
 o:

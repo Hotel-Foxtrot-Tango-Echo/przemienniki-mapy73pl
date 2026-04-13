@@ -4,7 +4,7 @@ h:
     o: 17.688972
     p: Slatina
     e: 228
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 2190
         - 219022
         - 219112
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DSL

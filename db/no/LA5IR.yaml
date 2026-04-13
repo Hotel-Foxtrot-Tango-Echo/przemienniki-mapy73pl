@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "61443037500":
     x:
       - 2m: 0
     p: Hafstadfjell / Førde
     e: 0
-    g: 0
+    g: 20
     a: 61.4375
     o: 5.875
 o: []

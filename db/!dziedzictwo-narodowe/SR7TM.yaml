@@ -18,6 +18,8 @@ x:
         Moc nadawcza: 5W
         Antena: SIRIO SA 705 N
         Wysokość instalacji 100m n.p.t
+      a: nieznana
+      i: 9
     - rx:
         f: 431.075
       tx:
@@ -28,6 +30,8 @@ x:
       p: 5
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51568021896":
     x:

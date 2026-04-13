@@ -15,13 +15,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50136047506":
     x:
       - 70cm: 0
     p: Kněževes Praha - západ
     e: 348
-    g: 0
+    g: 20
     a: 50.122222
     o: 14.253056
 o:

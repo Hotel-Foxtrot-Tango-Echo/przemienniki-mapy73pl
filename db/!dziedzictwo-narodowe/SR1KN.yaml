@@ -12,13 +12,15 @@ x:
       p: 9
       u: []
       d: X-200
+      a: Diamond X-200
+      i: 8
 h:
   "54223090071":
     x:
       - 70cm: 0
     p: Koszalin Góra Chełmska - wieża widokowa
     e: 136
-    g: 0
+    g: 20
     a: 54.207675
     o: 16.225714
 o:

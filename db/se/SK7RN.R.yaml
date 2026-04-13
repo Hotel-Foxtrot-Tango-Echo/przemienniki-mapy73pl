@@ -13,6 +13,8 @@ x:
       u:
         - http://www.sk7rn.se
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.15
         t:
@@ -26,6 +28,8 @@ x:
       u:
         - http://www.sk7rn.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.9
@@ -40,13 +44,15 @@ x:
       u:
         - http://www.sk7rn.se
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56896088623":
     x:
       - 2m: 0
     p: Borgholm
     e: 5
-    g: 0
+    g: 20
     a: 56.88023
     o: 16.656235
   "57287084170":
@@ -55,7 +61,7 @@ h:
       - 70cm: 0
     p: Böda (Norra Öland)
     e: 14
-    g: 0
+    g: 20
     a: 57.2708
     o: 17.0417
 o:

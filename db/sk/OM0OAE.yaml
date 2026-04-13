@@ -16,6 +16,8 @@ x:
       u:
         - http://sites.google.com/site/om0oae
       d: ""
+      a: nieznana
+      i: 9
     - h: "49244079294"
       u: []
       d: ""
@@ -35,6 +37,8 @@ x:
         - 23112
         - 23173
         - 231311
+      a: nieznana
+      i: 9
 h:
   "49244079294":
     x:
@@ -42,7 +46,7 @@ h:
       - 70cm: 1
     p: " kóta Snoh - Hradisko"
     e: 622
-    g: 0
+    g: 20
     a: 49.226111
     o: 18.681944
 o:

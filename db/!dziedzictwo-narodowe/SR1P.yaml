@@ -12,13 +12,15 @@ x:
       p: 15
       u: []
       d: Antenna X7000, IC970
+      a: Diamond X-7000
+      i: 8.3
 h:
   "54495087500":
     x:
       - 2m: 0
     p: Postomino
     e: 28
-    g: 0
+    g: 20
     a: 54.47917
     o: 16.70833
 o:

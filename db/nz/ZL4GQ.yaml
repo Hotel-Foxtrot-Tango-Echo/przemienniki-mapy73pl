@@ -4,7 +4,7 @@ h:
     o: 168.338614
     p: Invercargill
     e: 0
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -30,5 +30,7 @@ x:
         - 5304
         - 5303
         - 5309
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/ZL4GQ

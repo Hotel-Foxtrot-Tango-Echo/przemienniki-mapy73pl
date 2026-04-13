@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "70002074170":
     x:
       - 2m: 0
     p: Alta / Kvanfjellet
     e: 0
-    g: 0
+    g: 20
     a: 69.9792
     o: 23.5417
 o: []

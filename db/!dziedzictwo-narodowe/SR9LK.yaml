@@ -10,13 +10,15 @@ x:
       p: 13
       u: []
       d: 10m fidder LNA +8dB, X-5000 11,7dBi, AFC +- 7kHz
+      a: Diamond X-5000
+      i: 11.7
 h:
   "49993013385":
     x:
       - 23cm: 0
     p: Siercza k/Wieliczki
     e: 340
-    g: 0
+    g: 20
     a: 49.9731
     o: 20.033849
 o: []

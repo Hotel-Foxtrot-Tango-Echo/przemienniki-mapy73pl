@@ -4,7 +4,7 @@ h:
     o: 15.671454
     p: Sobota
     e: 232
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -31,6 +31,8 @@ x:
         - 260611
         - 260615
         - 260691
+      a: nieznana
+      i: 9
 o:
   - SP6ML
 page: https://mapy73.pl/repeater/SR6ML

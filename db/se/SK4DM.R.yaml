@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk4dm.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 433.725
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk4dm.se
       d: ""
+      a: nieznana
+      i: 9
 h:
   "60117064092":
     x:
@@ -30,7 +34,7 @@ h:
       - 70cm: 0
     p: Ludvika
     e: 0
-    g: 0
+    g: 20
     a: 60.10251
     o: 15.13092
 o:

@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51734045833":
     x:
       - 70cm: 0
     p: s-Hertogenbosch
     e: 4
-    g: 0
+    g: 20
     a: 51.72917
     o: 5.29167
 o: []

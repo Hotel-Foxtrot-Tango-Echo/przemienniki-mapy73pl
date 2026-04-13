@@ -13,13 +13,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "63321062500":
     x:
       - 70cm: 0
     p: Fosen / Kyrksæterøra
     e: 0
-    g: 0
+    g: 20
     a: 63.3125
     o: 9.125
 o: []

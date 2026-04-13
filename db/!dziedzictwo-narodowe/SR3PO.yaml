@@ -26,6 +26,8 @@ x:
 
         znamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr
         inż. Tomasz Knapik
+      a: nieznana
+      i: 10
   23cm:
     - rx:
         f: 1270.4
@@ -46,6 +48,8 @@ x:
         sterownik, triplexer, Comet GP93n 10dBi 6x5/8l
 
         zbudował i zestroił Andrzej SP8XXN
+      a: Comet GP-93N
+      i: 9.5
 h:
   "52476006193":
     x:

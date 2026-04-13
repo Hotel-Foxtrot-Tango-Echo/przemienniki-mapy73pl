@@ -4,7 +4,7 @@ h:
     o: 25.261934
     p: Vilnius
     e: 186
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,6 +23,8 @@ x:
           - f: "1"
       e2:
         - 24601
+      a: nieznana
+      i: 9
 o:
   - LY1LB
   - LY3FF

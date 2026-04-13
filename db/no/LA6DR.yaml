@@ -13,13 +13,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59610040833":
     x:
       - 70cm: 0
     p: Ravnafjell / Sauda
     e: 948
-    g: 0
+    g: 20
     a: 59.6042
     o: 6.20833
 o: []

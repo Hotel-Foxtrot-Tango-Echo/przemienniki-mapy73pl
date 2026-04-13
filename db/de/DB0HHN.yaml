@@ -14,6 +14,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.775
       tx:
@@ -26,6 +28,8 @@ x:
         - http://www.amateurfunk-norderstedt.de/?file=relais-db0hhn-relaiskarte
         - https://repeatermap.de
       d: ""
+      a: nieznana
+      i: 9
 h:
   "53780087500":
     x:
@@ -33,7 +37,7 @@ h:
       - 70cm: 1
     p: Goetzberg
     e: 23
-    g: 0
+    g: 20
     a: 53.77083
     o: 10.04167
 o:

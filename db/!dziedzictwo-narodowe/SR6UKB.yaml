@@ -18,6 +18,8 @@ x:
 
         Zbudowany na bazie urządzeń Motorola GM600/950,duplekser PROCOM DPF
         70/6-150,jako kontroler zastosowany DVRPTR.
+      a: nieznana
+      i: 9
     - rx:
         f: 431.6625
       tx:
@@ -28,6 +30,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50274043389":
     x:

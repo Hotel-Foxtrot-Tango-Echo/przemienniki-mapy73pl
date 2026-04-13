@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59109090833":
     x:
       - 2m: 0
     p: Stavanger / Byhaugen
     e: 125
-    g: 0
+    g: 20
     a: 59.1042
     o: 5.70833
 o: []

@@ -28,6 +28,8 @@ x:
         878384 SR5KP
 
         ECHOLINK 10m/70cm rx z 70.290,51.850 ctcss 127,3 Hz
+      a: dipol 1/2 wave
+      i: 2.15
 h:
   "52196005593":
     x:

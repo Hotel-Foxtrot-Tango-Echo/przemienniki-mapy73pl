@@ -13,13 +13,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59948054170":
     x:
       - 70cm: 0
     p: Bjørnåsen / Romerike
     e: 300
-    g: 0
+    g: 20
     a: 59.9375
     o: 11.0417
 o: []

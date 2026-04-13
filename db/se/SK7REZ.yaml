@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "55554077759":
     x:
       - 2m: 0
     p: Blentarp / Romeleåsen
     e: 179
-    g: 0
+    g: 20
     a: 55.54119
     o: 13.58759
 o:

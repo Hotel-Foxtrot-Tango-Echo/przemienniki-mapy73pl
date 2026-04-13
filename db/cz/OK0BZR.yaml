@@ -13,13 +13,15 @@ x:
       u:
         - http://www.ok0bzr.cz
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49597027211":
     x:
       - 70cm: 0
     p: Vysoké u Žďáru nad Sázavou
     e: 646
-    g: 0
+    g: 20
     a: 49.58131
     o: 15.962114
 o:

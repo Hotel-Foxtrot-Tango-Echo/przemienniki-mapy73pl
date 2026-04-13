@@ -14,6 +14,8 @@ x:
         - https://sp5.jestok.com/sr5wd/
       d: "Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja
         pionowa; urządzenie : 2x Motorola i MMDVM"
+      a: Sigma Wireless SA-410
+      i: 5.5
     - rx:
         f: 430.8
       tx:
@@ -26,6 +28,8 @@ x:
         - https://sp5.jestok.com/sr5wd/
       d: "Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja
         pionowa; urządzenie : 2x Motorola i MMDVM         "
+      a: Sigma Wireless SA-410
+      i: 5.5
 h:
   "52196005593":
     x:

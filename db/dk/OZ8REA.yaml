@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "55949019623":
     x:
       - 70cm: 0
     p: Nykøbing / Sjaelland
     e: 5
-    g: 0
+    g: 20
     a: 55.937488
     o: 11.708233
 o: []

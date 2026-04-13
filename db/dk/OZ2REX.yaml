@@ -13,13 +13,15 @@ x:
       u:
         - http://www.oz6frs.dk/index.php?option=com_content&view=article&id=120&Itemid=73
       d: ""
+      a: nieznana
+      i: 9
 h:
   "55831089516":
     x:
       - 70cm: 0
     p: Frederikssund
     e: 19
-    g: 0
+    g: 20
     a: 55.819802
     o: 12.093164
 o: []

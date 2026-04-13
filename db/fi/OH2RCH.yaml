@@ -10,6 +10,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.0875
       tx:
@@ -20,6 +22,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.025
       tx:
@@ -30,6 +34,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145
       tx:
@@ -40,6 +46,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 433.375
@@ -51,6 +59,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.825
       tx:
@@ -61,6 +71,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.975
       tx:
@@ -71,6 +83,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "60208005140":
     x:

@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: Motorola, 12dBi
+      a: nieznana
+      i: 12
 h:
   "49993013385":
     x:
       - 70cm: 0
     p: Siercza k/Wieliczki
     e: 340
-    g: 0
+    g: 20
     a: 49.9731
     o: 20.033849
 o:

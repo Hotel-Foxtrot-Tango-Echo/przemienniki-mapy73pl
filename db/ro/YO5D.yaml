@@ -12,13 +12,15 @@ x:
       p: 4
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "47302009102":
     x:
       - 2m: 0
     p: Bârgău Mountains, Heniu Mare
     e: 1594
-    g: 0
+    g: 20
     a: 47.277356
     o: 24.735018
 o:

@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46247098622":
     x:
       - 70cm: 0
     p: Celje
     e: 244
-    g: 0
+    g: 20
     a: 46.23272
     o: 15.266223
 o:

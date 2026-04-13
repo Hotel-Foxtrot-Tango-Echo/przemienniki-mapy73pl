@@ -4,7 +4,7 @@ h:
     o: 21.071149
     p: Warszawa
     e: 81
-    g: 0
+    g: 20
     x:
       - 23cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 1298.575
       rx:
         f: 1270.575
+      a: nieznana
+      i: 11.7
 o: []
 page: https://mapy73.pl/repeater/SR5WRX

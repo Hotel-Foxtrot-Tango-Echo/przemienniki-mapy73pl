@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "68577037500":
     x:
       - 2m: 0
     p: Vesterålen / Hadseløya
     e: 0
-    g: 0
+    g: 20
     a: 68.5625
     o: 14.875
 o: []

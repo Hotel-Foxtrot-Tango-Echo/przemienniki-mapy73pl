@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59378022295":
     x:
       - 2m: 0
     p: Moss / Grimstadtoppen
     e: 58
-    g: 0
+    g: 20
     a: 59.36741
     o: 10.81295
 o:

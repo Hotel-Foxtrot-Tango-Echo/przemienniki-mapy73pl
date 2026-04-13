@@ -4,7 +4,7 @@ h:
     o: -6.33281
     p: Dublin
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
       e2:
         - 2722
         - 2348479
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/EI7FGD

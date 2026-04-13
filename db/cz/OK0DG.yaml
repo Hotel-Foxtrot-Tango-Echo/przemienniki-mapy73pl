@@ -4,7 +4,7 @@ h:
     o: 14.550694
     p: Adamov
     e: 551
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -24,6 +24,8 @@ x:
       e1:
         - 230
         - 231
+      a: nieznana
+      i: 9
 o:
   - OK1ZJV
   - OK1MDD

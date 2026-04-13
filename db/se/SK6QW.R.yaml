@@ -13,13 +13,15 @@ x:
       u:
         - http://echolink.org/logins.jsp
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58714002530":
     x:
       - 70cm: 0
     p: Mariestad / Katrinefors
     e: 57
-    g: 0
+    g: 20
     a: 58.7002
     o: 13.8253
 o: []

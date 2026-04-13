@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63697070830":
     x:
       - 2m: 0
     p: Fosen / Olsøyheia
     e: 0
-    g: 0
+    g: 20
     a: 63.6875
     o: 10.2083
 o: []

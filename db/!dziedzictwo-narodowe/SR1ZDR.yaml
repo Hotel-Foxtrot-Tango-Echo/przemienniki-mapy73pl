@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: Przemiennik w trakcie budowy i zgłoszenia w UKE,
+      a: nieznana
+      i: 9
 h:
   "53317079096":
     x:
       - 70cm: 0
     p: Kalisz Pomorski
     e: 95
-    g: 0
+    g: 20
     a: 53.301882
     o: 15.908961
 o:

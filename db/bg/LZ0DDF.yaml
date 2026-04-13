@@ -4,7 +4,7 @@ h:
     o: 23.278488
     p: Sofia Bulgaria
     e: 2281
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 2842
         - 28430
         - 28499
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0DDF

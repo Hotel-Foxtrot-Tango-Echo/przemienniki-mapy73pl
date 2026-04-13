@@ -14,6 +14,8 @@ x:
         Przemiennik w systemie D-STAR
 
         D-Star- REF032-A 
+      a: nieznana
+      i: 9
     - rx:
         f: 430.5
         t:
@@ -44,6 +46,8 @@ x:
       e2:
         - 26041
         - 26042
+      a: nieznana
+      i: 9
     - rx:
         f: 430.5
       tx:
@@ -57,6 +61,8 @@ x:
       d: |-
         Przemiennik w systemie  Fusion YSF
         YSF Fusion- ROOM-POLAND #29114 lub ROOM-POLSKA #15495                 
+      a: nieznana
+      i: 9
 h:
   "53205005719":
     x:
@@ -65,7 +71,7 @@ h:
       - 70cm: 2
     p: Łomża
     e: 104
-    g: 0
+    g: 20
     a: 53.183005
     o: 22.052192
 o:

@@ -11,6 +11,8 @@ x:
       u:
         - http://sm6uxw.n.nu
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.675
@@ -23,13 +25,15 @@ x:
       u:
         - http://sm6uxw.n.nu
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57818091721":
     x:
       - 2m: 0
     p: Ulricehamn
     e: 342
-    g: 0
+    g: 20
     a: 57.80541
     o: 13.50721
   "57805074366":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Ulricehamn
     e: 240
-    g: 0
+    g: 20
     a: 57.79232
     o: 13.42366
 o:

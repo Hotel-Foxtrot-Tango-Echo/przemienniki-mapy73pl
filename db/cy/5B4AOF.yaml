@@ -4,7 +4,7 @@ h:
     o: 33.029713
     p: Limassol
     e: 25
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 280
         - 2805
         - 2806
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/5B4AOF

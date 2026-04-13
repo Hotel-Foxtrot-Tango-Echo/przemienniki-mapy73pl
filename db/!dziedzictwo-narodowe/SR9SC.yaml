@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: Kathrein 720-880
+      a: Kathrein 720-880
+      i: 7
     - rx:
         f: 431.3625
       tx:
@@ -24,6 +26,8 @@ x:
       p: 15
       u: []
       d: Kathrein 720-880
+      a: Kathrein 720-880
+      i: 7
 h:
   "49755013598":
     x:

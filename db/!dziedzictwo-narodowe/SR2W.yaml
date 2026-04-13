@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: Antena Diamond X-510
+      a: Diamond X-510
+      i: 11.7
 h:
   "52691065057":
     x:
       - 70cm: 0
     p: Włocławek
     e: 126
-    g: 0
+    g: 20
     a: 52.6725661
     o: 19.0844664
 o:

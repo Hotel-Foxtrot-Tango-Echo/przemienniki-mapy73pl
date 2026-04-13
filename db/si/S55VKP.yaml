@@ -4,7 +4,7 @@ h:
     o: 14.05273
     p: Nanos
     e: 1247
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "1"
       e1:
         - 293112
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/S55VKP

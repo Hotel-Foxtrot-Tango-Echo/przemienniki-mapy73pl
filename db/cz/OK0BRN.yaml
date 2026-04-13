@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49216025506":
     x:
       - 70cm: 0
     p: Brno - Kohoutovice
     e: 383
-    g: 0
+    g: 20
     a: 49.199722
     o: 16.533056
 o:

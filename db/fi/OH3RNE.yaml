@@ -10,6 +10,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.525
       tx:
@@ -21,6 +23,8 @@ x:
       u:
         - http://www.dmr-marc.net/
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.85
       tx:
@@ -31,6 +35,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.15
@@ -42,6 +48,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   23cm:
     - rx:
         f: 1291
@@ -53,6 +61,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 11.7
 h:
   "61502090830":
     x:

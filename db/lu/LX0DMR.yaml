@@ -4,7 +4,7 @@ h:
     o: 6.144058
     p: Luxembourg
     e: 327
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -32,5 +32,7 @@ x:
         - 27079
         - 9112
         - 2709112
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LX0DMR

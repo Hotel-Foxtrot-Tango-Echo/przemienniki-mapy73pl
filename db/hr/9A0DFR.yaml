@@ -4,7 +4,7 @@ h:
     o: 15.971007
     p: Zagreb
     e: 118
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,5 +28,7 @@ x:
         - 219112
         - 219219
         - 2191121
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DFR

@@ -4,7 +4,7 @@ h:
     o: 18.7724
     p: JN97IS
     e: 377
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -30,5 +30,7 @@ x:
         - 216104
         - 216702
         - 216109
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG2RUI

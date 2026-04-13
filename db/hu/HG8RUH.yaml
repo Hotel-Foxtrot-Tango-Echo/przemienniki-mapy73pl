@@ -4,7 +4,7 @@ h:
     o: 20.140699
     p: KN06BR
     e: 80
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 216760
         - 216810
         - 216888
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG8RUH

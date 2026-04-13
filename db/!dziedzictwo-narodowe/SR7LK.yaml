@@ -4,7 +4,7 @@ h:
     o: 19.434309
     p: Góra Kamieńsk
     e: 382
-    g: 0
+    g: 20
     x:
       - 23cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 1298.75
       rx:
         f: 1270.75
+      a: nieznana
+      i: 11.7
 o: []
 page: https://mapy73.pl/repeater/SR7LK

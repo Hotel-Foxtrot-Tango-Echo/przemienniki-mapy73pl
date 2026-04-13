@@ -15,13 +15,15 @@ x:
       u: []
       d: 2 anteny pionowe 1/2 fali, Rx<-> Tx połączone linią telefoniczną. + 439.675
         ctcss 82,5Hz
+      a: dipol 1/2 wave
+      i: 2.15
 h:
   "53473036203":
     x:
       - 10m: 0
     p: Szczecin
     e: 56
-    g: 0
+    g: 20
     a: 53.458827
     o: 14.535034
 o:

@@ -10,6 +10,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.05
@@ -24,6 +26,8 @@ x:
       u:
         - http://oz8jyl.dk/wp/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "56905059167":
     x:

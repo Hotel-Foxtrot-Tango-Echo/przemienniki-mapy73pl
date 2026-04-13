@@ -11,6 +11,8 @@ x:
       u:
         - http://oh3tr.ele.tut.fi/suomi/oh3rtr.shtml
       d: ""
+      a: nieznana
+      i: 9
   6m:
     - rx:
         f: 51.35
@@ -23,6 +25,8 @@ x:
       u:
         - http://oh3tr.ele.tut.fi/suomi/oh3rtr.shtml
       d: ""
+      a: nieznana
+      i: 3
 h:
   "61461037500":
     x:

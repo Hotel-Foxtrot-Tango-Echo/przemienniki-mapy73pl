@@ -4,7 +4,7 @@ h:
     o: 5.028074
     p: Hoorn
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -32,5 +32,7 @@ x:
         - 214112
         - 21429
         - 2147
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/PI1HRN

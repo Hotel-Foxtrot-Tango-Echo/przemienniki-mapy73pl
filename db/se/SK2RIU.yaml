@@ -11,6 +11,8 @@ x:
       u:
         - http://www.fura.se/index.php?option=com_content&view=article&id=2161&Itemid=229/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.725
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.fura.se/index.php?option=com_content&view=article&id=2181&Itemid=251
       d: ""
+      a: nieznana
+      i: 9
 h:
   "63919055800":
     x:

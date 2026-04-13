@@ -10,6 +10,8 @@ x:
       p: 10
       u: []
       d: Antena Diamond X-510
+      a: Diamond X-510
+      i: 11.7
     - rx:
         f: 431.3625
         t:
@@ -30,6 +32,8 @@ x:
       e2:
         - 260206
         - 26077
+      a: Diamond X-510
+      i: 11.7
     - rx:
         f: 431.3625
       tx:
@@ -40,6 +44,8 @@ x:
       p: 10
       u: []
       d: Antena Diamond X-510
+      a: Diamond X-510
+      i: 11.7
 h:
   "52661016158":
     x:

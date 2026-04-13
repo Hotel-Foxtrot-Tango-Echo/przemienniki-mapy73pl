@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59444004167":
     x:
       - 2m: 0
     p: Reinsnuten / Sauda
     e: 851
-    g: 0
+    g: 20
     a: 59.4375
     o: 6.54167
 o: []

@@ -14,6 +14,8 @@ x:
       d: Antena dookólna 8x1/2, zasilona fiderem z grupy Andrew LDF-4/50 , duplexer 6
         komór Procoma, 2 x motorola GM-340 sterowane DV RPTR OPEN SOURCE MODEM
         serwer oparty na CIRCDDB:1.2.4
+      a: nieznana
+      i: 9
 h:
   "51131051050":
     x:

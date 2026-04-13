@@ -11,6 +11,8 @@ x:
       u:
         - http://sk7jc.se/repeater2m.php
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.7125
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk7jc.se/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56243065830":
     x:
       - 2m: 0
     p: Olofström / Boafallsbacke
     e: 161
-    g: 0
+    g: 20
     a: 56.2292
     o: 14.4583
   "56229079365":

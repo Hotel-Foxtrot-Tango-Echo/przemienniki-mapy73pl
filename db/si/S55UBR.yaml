@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "45929094828":
     x:
       - 70cm: 0
     p: Brežice
     e: 155
-    g: 0
+    g: 20
     a: 45.914348
     o: 15.600281
 o:

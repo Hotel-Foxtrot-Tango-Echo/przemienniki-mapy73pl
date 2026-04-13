@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "61067062500":
     x:
       - 2m: 0
     p: Bergen / Bråtsviksåta
     e: 0
-    g: 0
+    g: 20
     a: 61.0625
     o: 5.125
 o: []

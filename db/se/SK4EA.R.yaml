@@ -11,6 +11,8 @@ x:
       u:
         - http://sk4ea.se/
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.0875
       tx:
@@ -22,6 +24,8 @@ x:
       u:
         - http://sk4ea.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59952054170":
     x:

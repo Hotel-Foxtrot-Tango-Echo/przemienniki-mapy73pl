@@ -4,7 +4,7 @@ h:
     o: 18.416868
     p: Dedinka
     e: 261
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -21,6 +21,8 @@ x:
         f: 438.1
         t:
           - f: "1"
+      a: nieznana
+      i: 9
 o:
   - OM5AVM
 page: https://mapy73.pl/repeater/OM0ODX

@@ -4,7 +4,7 @@ h:
     o: 17.044306
     p: Bratislava
     e: 211
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,6 +26,8 @@ x:
       e2:
         - 230
         - 2319112
+      a: nieznana
+      i: 9
 o:
   - OM1AEG
   - OM4DW

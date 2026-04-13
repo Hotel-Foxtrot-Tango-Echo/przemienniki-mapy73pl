@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49327089523":
     x:
       - 2m: 0
     p: Góra Gubałówka EMITEL
     e: 1120
-    g: 0
+    g: 20
     a: 49.307959
     o: 19.936232
 o: []

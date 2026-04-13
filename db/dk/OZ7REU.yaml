@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "55658028120":
     x:
       - 70cm: 0
     p: Copenhagen / Hvidovre H.C.
     e: 8
-    g: 0
+    g: 20
     a: 55.6458
     o: 12.4812
 o: []

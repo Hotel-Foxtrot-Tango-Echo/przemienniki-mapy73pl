@@ -17,6 +17,8 @@ x:
         2m FM - RX: 145,1250 TX: 145,7250 CTCSS: 127.3
 
         144,800 - VPDigi APRS FM
+      a: nieznana
+      i: 9
     - rx:
         f: 431.4375
         t:
@@ -29,6 +31,8 @@ x:
       p: 15
       u: []
       d: "70cm DMR - RX: 431,4375, TX: 439,0375 CC5"
+      a: nieznana
+      i: 9
 h:
   "52123061709":
     x:

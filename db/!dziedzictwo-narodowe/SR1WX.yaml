@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: NFM
+      a: nieznana
+      i: 9
 h:
   "53356016554":
     x:
       - 70cm: 0
     p: Stargard
     e: 37
-    g: 0
+    g: 20
     a: 53.341126
     o: 15.039536
 o:

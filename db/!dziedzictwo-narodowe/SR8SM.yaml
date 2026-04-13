@@ -16,13 +16,15 @@ x:
       d: |-
         4 x 5/8
         pozwolenie ważne od 22-3-2012 do 21-3-2017r
+      a: 4x5/8 collinear
+      i: 9.5
 h:
   "50093098922":
     x:
       - 70cm: 0
     p: Dębica
     e: 212
-    g: 0
+    g: 20
     a: 50.072277
     o: 21.712224
 o:

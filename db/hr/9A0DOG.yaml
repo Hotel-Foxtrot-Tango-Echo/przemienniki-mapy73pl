@@ -4,7 +4,7 @@ h:
     o: 15.29975
     p: Josipdol
     e: 414
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 219008
         - 219193
         - 21966
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DOG

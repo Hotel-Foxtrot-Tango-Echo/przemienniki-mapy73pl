@@ -12,13 +12,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "52206012500":
     x:
       - 70cm: 0
     p: 62-600 Koło, ul. Dąbrowskiego 7
     e: 93
-    g: 0
+    g: 20
     a: 52.1875
     o: 18.625
 o:

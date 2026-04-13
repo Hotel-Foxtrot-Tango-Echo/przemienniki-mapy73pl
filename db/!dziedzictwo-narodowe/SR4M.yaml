@@ -20,6 +20,8 @@ x:
 
         Anteny: X-300 @180m RX, RADMOR 3282 @50m TX, 230m LDF-5 7/8, przemiennik
         MOTOROLA MTR2000
+      a: Diamond X-300
+      i: 6.5
 h:
   "53959057176":
     x:

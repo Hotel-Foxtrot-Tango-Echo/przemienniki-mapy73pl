@@ -14,13 +14,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "53885076486":
     x:
       - 70cm: 0
     p: Mrągowo - wieża ciśnień wodociągów
     e: 170
-    g: 0
+    g: 20
     a: 53.864468
     o: 21.296859
 o: []

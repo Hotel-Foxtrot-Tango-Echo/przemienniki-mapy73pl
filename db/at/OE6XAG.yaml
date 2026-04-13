@@ -4,7 +4,7 @@ h:
     o: 15.466816
     p: Schoeckl
     e: 1438
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -33,5 +33,7 @@ x:
         - 2325
         - 2326
         - 2329
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE6XAG

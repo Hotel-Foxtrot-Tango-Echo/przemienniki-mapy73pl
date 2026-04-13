@@ -4,7 +4,7 @@ h:
     o: 5.219171
     p: Bladel
     e: 30
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,5 +28,7 @@ x:
       e2:
         - 204002
         - 204911
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/PI1BLA

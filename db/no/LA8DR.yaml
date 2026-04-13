@@ -11,13 +11,15 @@ x:
       u:
         - http://echolink.org/logins.jsp
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58776050833":
     x:
       - 2m: 0
     p: Jæren / Sandnes
     e: 32
-    g: 0
+    g: 20
     a: 58.7708
     o: 5.70833
 o: []

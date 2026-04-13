@@ -16,13 +16,15 @@ x:
       u:
         - http://www.ok2kyj.cz/p/ok0o-145600-mhz-fmn.html
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49691095254":
     x:
       - 2m: 0
     p: Pohořany
     e: 587
-    g: 0
+    g: 20
     a: 49.674566
     o: 17.386539
 o:

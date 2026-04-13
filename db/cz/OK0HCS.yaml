@@ -11,13 +11,15 @@ x:
       u:
         - http://www.qrz.com/db/ok0hcs
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50094054267":
     x:
       - 70cm: 0
     p: Praha 6 - Strahov
     e: 347
-    g: 0
+    g: 20
     a: 50.080158
     o: 14.384669
 o:

@@ -7,7 +7,7 @@ h:
     o: 20.578425
     p: Koszyce
     e: 252
-    g: 0
+    g: 20
     x: []
 x:
   70cm:
@@ -21,6 +21,8 @@ x:
         f: 434.75
         t:
           - c: "77.0"
+      a: nieznana
+      i: 9
   2m:
     - h: "50201040443"
       u: []
@@ -30,5 +32,7 @@ x:
       s: "5"
       tx:
         f: 145.65
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR9GOL

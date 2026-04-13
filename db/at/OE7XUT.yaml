@@ -4,7 +4,7 @@ h:
     o: 12.588965
     p: St Ulrich am Pillers
     e: 1415
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,5 +28,7 @@ x:
         - 2327
         - 23277
         - 2322
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE7XUT

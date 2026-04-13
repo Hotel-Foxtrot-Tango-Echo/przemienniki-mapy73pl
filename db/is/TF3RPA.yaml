@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "64217041528":
     x:
       - 2m: 0
     p: Reykjavik / Skalafell
     e: 0
-    g: 0
+    g: 20
     a: 64.23888
     o: -21.46472
 o: []

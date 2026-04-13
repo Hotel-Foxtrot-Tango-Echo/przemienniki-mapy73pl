@@ -4,7 +4,7 @@ h:
     o: 20.485714
     p: Kis-Kohat
     e: 938
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 2169112
       e2:
         - 216790
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG9RUE

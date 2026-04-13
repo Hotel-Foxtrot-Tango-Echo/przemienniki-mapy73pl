@@ -15,13 +15,15 @@ x:
       u:
         - http://www.dj1bb.de
       d: ""
+      a: nieznana
+      i: 9
 h:
   "52156029167":
     x:
       - 70cm: 0
     p: Salzgitter Watenstedt
     e: 97
-    g: 0
+    g: 20
     a: 52.14583
     o: 10.45833
 o: []

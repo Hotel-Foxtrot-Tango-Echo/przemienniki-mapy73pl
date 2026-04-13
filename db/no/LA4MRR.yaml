@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58111065833":
     x:
       - 70cm: 0
     p: Varmestø / Mandal
     e: 203
-    g: 0
+    g: 20
     a: 58.1042
     o: 7.45833
 o: []

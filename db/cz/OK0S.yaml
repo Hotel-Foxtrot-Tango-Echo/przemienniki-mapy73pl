@@ -12,13 +12,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "50062063810":
     x:
       - 2m: 0
     p: Pardubice - Polabiny
     e: 220
-    g: 0
+    g: 20
     a: 50.046878
     o: 15.760102
 o:

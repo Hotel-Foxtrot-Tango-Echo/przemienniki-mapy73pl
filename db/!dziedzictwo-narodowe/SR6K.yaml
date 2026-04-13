@@ -15,13 +15,15 @@ x:
       d: |-
         2x 2el Yagi
         sp6ynr.ubf.pl
+      a: nieznana
+      i: 6.5
 h:
   "50653009282":
     x:
       - 2m: 0
     p: Jugów
     e: 623
-    g: 0
+    g: 20
     a: 50.63656
     o: 16.532815
 o:

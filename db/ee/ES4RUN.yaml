@@ -4,7 +4,7 @@ h:
     o: 28.190329
     p: Narva
     e: 29
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,6 +25,8 @@ x:
         - 248112
       e2:
         - 24814
+      a: nieznana
+      i: 9
 o:
   - ES4RM
   - ES4TIX

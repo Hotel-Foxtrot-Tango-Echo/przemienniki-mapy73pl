@@ -4,7 +4,7 @@ h:
     o: 153.215576
     p: REDLANDS
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -24,5 +24,7 @@ x:
       e1:
         - 505
         - 505424
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK4RDB

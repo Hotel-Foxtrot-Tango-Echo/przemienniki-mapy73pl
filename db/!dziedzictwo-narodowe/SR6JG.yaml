@@ -19,6 +19,8 @@ x:
         Duplexer: PROCOM DPF70/6-150
         Fider:  12m, 1/2 LDF-4 ANDREW
         Antena:  PROCOM CXL 70-1 LW/h, 2dBi
+      a: PROCOM CXL 70-1
+      i: 2.15
 h:
   "50763036035":
     x:

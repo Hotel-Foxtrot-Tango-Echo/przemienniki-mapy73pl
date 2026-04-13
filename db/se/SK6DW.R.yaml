@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6dw.se/?page_id=29
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.875
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk6dw.se/?page_id=29
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58283009170":
     x:
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Trollhättan
     e: 78
-    g: 0
+    g: 20
     a: 58.3125
     o: 12.125
 o:

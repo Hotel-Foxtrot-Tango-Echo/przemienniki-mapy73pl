@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "48199042581":
     x:
       - 2m: 0
     p: Kamzík - Bratislava
     e: 442
-    g: 0
+    g: 20
     a: 48.182331
     o: 17.094806
 o:

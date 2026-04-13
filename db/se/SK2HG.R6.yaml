@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk2hg.se
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "66335037500":
     x:
       - 2m: 0
     p: Överkalix
     e: 0
-    g: 0
+    g: 20
     a: 66.3125
     o: 22.875
 o: []

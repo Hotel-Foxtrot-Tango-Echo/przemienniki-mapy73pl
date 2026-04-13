@@ -4,7 +4,7 @@ h:
     o: 21.581885
     p: Caporal Alexa
     e: 105
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 22623
         - 9800
         - 2260
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO2MPL

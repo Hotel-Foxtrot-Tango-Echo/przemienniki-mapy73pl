@@ -4,7 +4,7 @@ h:
     o: 16.978196
     p: Wrocław
     e: 116
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 438.175
       rx:
         f: 430.575
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR6TMO

@@ -29,13 +29,15 @@ x:
 
         Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS -
         SR4MO - SR4DM
+      a: Diamond X-300
+      i: 9
 h:
   "53582079167":
     x:
       - 70cm: 0
     p: Olsztynek
     e: 184
-    g: 0
+    g: 20
     a: 53.5625
     o: 20.29167
 o:

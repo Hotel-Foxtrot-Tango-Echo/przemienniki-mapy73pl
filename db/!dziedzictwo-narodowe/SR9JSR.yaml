@@ -18,13 +18,15 @@ x:
         CC9, TS1 i 2, Statyczne TG260 i TG8
         RPT zlinkowane z HBlink
         TG 6,7,8,94
+      a: nieznana
+      i: 9
 h:
   "49997079167":
     x:
       - 70cm: 0
     p: Jastrzębie Zdrój
     e: 277
-    g: 0
+    g: 20
     a: 49.97917
     o: 18.625
 o:

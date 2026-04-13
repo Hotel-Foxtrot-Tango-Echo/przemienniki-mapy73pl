@@ -4,7 +4,7 @@ h:
     o: 20.987949
     p: Kojsovska hola
     e: 1237
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,6 +29,8 @@ x:
         - 23112
         - 2319112
         - 2300
+      a: nieznana
+      i: 9
 o:
   - OM8KT
   - OM8AKX

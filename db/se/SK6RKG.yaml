@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6sp.se/
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.075
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk6sp.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "56774048056":
     x:

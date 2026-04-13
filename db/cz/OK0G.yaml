@@ -4,7 +4,7 @@ h:
     o: 14.011129
     p: Libin
     e: 1098
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -21,6 +21,8 @@ x:
         f: 144.9875
         t:
           - f: "1"
+      a: nieznana
+      i: 6.5
 o:
   - OK1ZJV
 page: https://mapy73.pl/repeater/OK0G

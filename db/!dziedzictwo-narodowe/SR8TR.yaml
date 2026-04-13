@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 2.15
 h:
   "50251054167":
     x:
       - 10m: 0
     p: Leżajsk Cmentarna CNR
     e: 218
-    g: 0
+    g: 20
     a: 50.22917
     o: 22.375
 o: []

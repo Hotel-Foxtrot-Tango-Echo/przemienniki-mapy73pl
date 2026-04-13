@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk4il.se/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59362038952":
     x:
       - 70cm: 0
     p: Grums
     e: 103
-    g: 0
+    g: 20
     a: 59.3493
     o: 13.08952
 o: []

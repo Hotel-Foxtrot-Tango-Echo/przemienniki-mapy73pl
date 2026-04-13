@@ -14,13 +14,15 @@ x:
       p: 15
       u: []
       d: Bramka FM-Poland VHF
+      a: nieznana
+      i: 6.5
 h:
   "53859015972":
     x:
       - 2m: 0
     p: KO13MV
     e: 121
-    g: 0
+    g: 20
     a: 53.836155
     o: 23.004719
 o:

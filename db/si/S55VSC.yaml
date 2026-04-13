@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "46318037801":
     x:
       - 2m: 0
     p: Stare Slemene
     e: 365
-    g: 0
+    g: 20
     a: 46.303014
     o: 15.364014
 o:

@@ -4,7 +4,7 @@ h:
     o: 20.054876
     p: Strbske Pleso
     e: 1442
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,6 +28,8 @@ x:
         - 231404
         - 23112
         - 2319112
+      a: nieznana
+      i: 9
 o:
   - OM3WIM
 page: https://mapy73.pl/repeater/OM0ODP

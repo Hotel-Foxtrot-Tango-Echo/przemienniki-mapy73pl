@@ -10,13 +10,15 @@ x:
       p: 20
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50102080620":
     x:
       - 70cm: 0
     p: Holice - Kamenec
     e: 324
-    g: 0
+    g: 20
     a: 50.0868
     o: 16.0062
 o:

@@ -11,13 +11,15 @@ x:
       u:
         - http://www.prevadece.cz/dmr/sit
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49790043211":
     x:
       - 70cm: 0
     p: Studená loučka
     e: 568
-    g: 0
+    g: 20
     a: 49.773611
     o: 16.821111
 o:

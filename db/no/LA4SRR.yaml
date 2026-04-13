@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58652009167":
     x:
       - 2m: 0
     p: Store Skykula
     e: 63
-    g: 0
+    g: 20
     a: 58.6458
     o: 6.29167
 o: []

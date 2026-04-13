@@ -15,6 +15,8 @@ x:
         DC.WML.5101.1747.2019.2
         2xGM360 + DVmega + PiStar 
         RX ant.X300 / TX ant. X50
+      a: Diamond X-300
+      i: 6.5
 h:
   "50871024243":
     x:

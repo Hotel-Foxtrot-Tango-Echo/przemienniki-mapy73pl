@@ -18,13 +18,15 @@ x:
         TX Motorola GM900 - 15m H1000 - antena Cushcraft ARX-270 9dBi @ 90m npt
 
         pracuje bez filtrów, separacja między antenami 40m w pionie
+      a: Comet GP-93N
+      i: 3.5
 h:
   "52476006193":
     x:
       - 2m: 0
     p: Poznań
     e: 106
-    g: 0
+    g: 20
     a: 52.459156
     o: 16.905933
 o:

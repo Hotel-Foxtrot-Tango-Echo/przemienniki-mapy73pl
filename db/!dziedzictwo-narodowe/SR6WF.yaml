@@ -13,13 +13,15 @@ x:
         DR1XE , HRI-200 ,
         Diamond x-300 , 
         Duplexer SGQ-450D
+      a: Diamond X-300
+      i: 9
 h:
   "51204029167":
     x:
       - 70cm: 0
     p: Mrozów
     e: 121
-    g: 0
+    g: 20
     a: 51.1875
     o: 16.79167
 o:

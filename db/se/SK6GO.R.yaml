@@ -13,6 +13,8 @@ x:
       u:
         - http://www.sk6go.se
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.0875
         t:
@@ -26,6 +28,8 @@ x:
       u:
         - http://www.sk6go.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.65
@@ -39,13 +43,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57720091542":
     x:
       - 2m: 0
     p: Göteborg / Lunden
     e: 55
-    g: 0
+    g: 20
     a: 57.70891
     o: 12.00542
   "57720091342":
@@ -53,7 +59,7 @@ h:
       - 70cm: 0
     p: Göteborg / Lunden
     e: 42
-    g: 0
+    g: 20
     a: 57.70891
     o: 12.00342
   "57720084456":
@@ -61,7 +67,7 @@ h:
       - 2m: 1
     p: Göteborg
     e: 4
-    g: 0
+    g: 20
     a: 57.70887
     o: 11.97456
 o:

@@ -4,7 +4,7 @@ h:
     o: 150.535772
     p: Rockhampton
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "1"
       e1:
         - 505
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK4RJW

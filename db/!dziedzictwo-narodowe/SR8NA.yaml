@@ -4,7 +4,7 @@ h:
     o: 22.43339
     p: Nienadowa
     e: 268
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,6 +25,8 @@ x:
         - 260
       e2:
         - 2608
+      a: nieznana
+      i: 9
 o:
   - SP8BAR
 page: https://mapy73.pl/repeater/SR8NA

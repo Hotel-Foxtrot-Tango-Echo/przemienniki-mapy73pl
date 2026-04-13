@@ -4,7 +4,7 @@ h:
     o: 10.6297
     p: Zams
     e: 2168
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "1"
       e2:
         - 2327
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE7XKH

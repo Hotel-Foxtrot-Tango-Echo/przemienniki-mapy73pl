@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ANT GP
+      a: nieznana
+      i: 6.5
 h:
   "50619079167":
     x:
       - 2m: 0
     p: Vrchlabi
     e: 444
-    g: 0
+    g: 20
     a: 50.60417
     o: 15.625
 o: []

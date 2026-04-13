@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6jx.org/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 433.625
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk6jx.org/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56915022180":
     x:
       - 2m: 0
     p: Falkenberg / Arvidstorp
     e: 13
-    g: 0
+    g: 20
     a: 56.902733
     o: 12.488801
   "56923057176":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Falkenberg
     e: 17
-    g: 0
+    g: 20
     a: 56.91111
     o: 12.46176
 o: []

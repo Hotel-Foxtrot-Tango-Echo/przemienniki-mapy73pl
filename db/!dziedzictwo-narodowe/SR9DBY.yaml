@@ -14,13 +14,15 @@ x:
         - https://brandmeister.network/?page=repeater&id=260006
       d: Ant. GP 4 x 5/8, przemiennik pracuje w sieci HBLink Silesia, ważne CC9, inne
         dane dostępne w necie.
+      a: 4x5/8 collinear
+      i: 9.5
 h:
   "50373004167":
     x:
       - 70cm: 0
     p: Bytom
     e: 270
-    g: 0
+    g: 20
     a: 50.35417
     o: 18.875
 o:

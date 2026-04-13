@@ -12,6 +12,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.9
@@ -25,13 +27,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59316013105":
     x:
       - 2m: 0
     p: Stockholm / Västberga
     e: 47
-    g: 0
+    g: 20
     a: 59.29814
     o: 17.99105
   "59316012905":
@@ -39,7 +43,7 @@ h:
       - 70cm: 0
     p: Stockholm / Västberga
     e: 42
-    g: 0
+    g: 20
     a: 59.29814
     o: 17.98905
 o: []

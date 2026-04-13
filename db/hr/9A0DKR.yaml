@@ -4,7 +4,7 @@ h:
     o: 15.5265
     p: Sv. Kriz Zacretje
     e: 359
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 219014
         - 21998
         - 2190
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DKR

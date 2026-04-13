@@ -12,6 +12,8 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.05
       tx:
@@ -22,6 +24,8 @@ x:
       p: 15
       u: []
       d: Yaesu Fusion C4FM
+      a: nieznana
+      i: 9
 h:
   "51034007707":
     x:

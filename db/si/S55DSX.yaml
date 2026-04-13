@@ -4,7 +4,7 @@ h:
     o: 15.308157
     p: Sv.Rok
     e: 357
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -44,5 +44,7 @@ x:
         - 218112
         - 219112
         - 2180325
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DSX

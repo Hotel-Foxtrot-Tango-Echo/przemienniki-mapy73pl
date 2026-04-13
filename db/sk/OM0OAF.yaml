@@ -4,7 +4,7 @@ h:
     o: 19.115509
     p: Banska Bystrica
     e: 410
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -30,6 +30,8 @@ x:
         - 231320
         - 2311
         - 23110
+      a: nieznana
+      i: 9
 o:
   - OM7FX
   - OM7AFX

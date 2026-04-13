@@ -13,6 +13,8 @@ x:
       u:
         - http://www.sk3ga.se/
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.175
@@ -27,6 +29,8 @@ x:
       u:
         - http://www.sk3ga.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "61740080050":
     x:

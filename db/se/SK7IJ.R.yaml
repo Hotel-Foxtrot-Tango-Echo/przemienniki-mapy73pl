@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk7ij.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.625
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk7ij.se
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57514037514":
     x:
       - 2m: 0
     p: Vetlanda
     e: 311
-    g: 0
+    g: 20
     a: 57.49913
     o: 15.24514
   "57514037314":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Vetlanda
     e: 301
-    g: 0
+    g: 20
     a: 57.49913
     o: 15.24314
 o:

@@ -11,6 +11,8 @@ x:
       u:
         - http://sk2au.org/repeatrar
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 145.15
       tx:
@@ -22,6 +24,8 @@ x:
       u:
         - http://sk2au.org/repeatrar
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "66127093120":
     x:

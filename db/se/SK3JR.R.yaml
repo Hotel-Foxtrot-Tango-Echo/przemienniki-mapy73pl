@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk3jr.se/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63204056680":
     x:
       - 2m: 0
     p: Östersund
     e: 0
-    g: 0
+    g: 20
     a: 63.1898
     o: 14.7668
 o:

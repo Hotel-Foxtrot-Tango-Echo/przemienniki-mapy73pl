@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "58446029167":
     x:
       - 2m: 0
     p: Arendal / Tromøya
     e: 3
-    g: 0
+    g: 20
     a: 58.4375
     o: 8.79167
 o: []

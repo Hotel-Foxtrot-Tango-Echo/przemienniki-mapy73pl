@@ -13,13 +13,15 @@ x:
       u:
         - https://www.speckmarschall.de/?page_id=259
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49327018042":
     x:
       - 2m: 0
     p: Kalmit
     e: 677
-    g: 0
+    g: 20
     a: 49.319098
     o: 8.08242
 o:

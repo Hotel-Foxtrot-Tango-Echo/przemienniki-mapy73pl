@@ -4,7 +4,7 @@ h:
     o: 15.284804
     p: Lisca
     e: 937
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "2"
       e2:
         - 29311
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/S55VLI

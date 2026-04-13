@@ -14,6 +14,8 @@ x:
       u:
         - http://www.sk6ag.org
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.6
@@ -29,6 +31,8 @@ x:
       u:
         - http://www.sk6ag.org
       d: ""
+      a: nieznana
+      i: 9
   6m:
     - rx:
         f: 51.27
@@ -44,6 +48,8 @@ x:
       u:
         - http://www.sk6ag.org
       d: ""
+      a: nieznana
+      i: 3
   10m:
     - rx:
         f: 29.58
@@ -59,6 +65,8 @@ x:
       u:
         - http://www.sk6ag.org
       d: ""
+      a: nieznana
+      i: 2.15
 h:
   "57690049709":
     x:
@@ -81,7 +89,7 @@ h:
       - 6m: 0
     p: Göteborg / Guldheden
     e: 76
-    g: 0
+    g: 20
     a: 57.678519
     o: 11.98309
   "57690049509":

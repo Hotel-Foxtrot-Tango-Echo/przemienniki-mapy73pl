@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk7dd.se
       d: ""
+      a: nieznana
+      i: 3
 h:
   "56064081672":
     x:
       - 6m: 0
     p: Helsingborg / Söderåsen
     e: 183
-    g: 0
+    g: 20
     a: 56.05171
     o: 13.10672
 o:

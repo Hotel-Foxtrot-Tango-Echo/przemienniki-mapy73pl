@@ -17,13 +17,15 @@ x:
         GP 3x5/8,
         GM-360 x2 
         Ster.Procom
+      a: 3x5/8 collinear
+      i: 6
 h:
   "51951003811":
     x:
       - 2m: 0
     p: Zielona Góra
     e: 198
-    g: 0
+    g: 20
     a: 51.935511
     o: 15.527107
 o:

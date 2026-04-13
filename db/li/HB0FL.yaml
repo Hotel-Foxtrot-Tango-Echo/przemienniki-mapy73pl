@@ -4,7 +4,7 @@ h:
     o: 9.54342
     p: Gaflei
     e: 1463
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
       e2:
         - 2280
         - 2950
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HB0FL

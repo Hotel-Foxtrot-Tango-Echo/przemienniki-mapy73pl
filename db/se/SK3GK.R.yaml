@@ -10,6 +10,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.7
@@ -23,6 +25,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "60766097063":
     x:
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Sandviken / Kungsberget
     e: 0
-    g: 0
+    g: 20
     a: 60.75048
     o: 16.49363
 o:

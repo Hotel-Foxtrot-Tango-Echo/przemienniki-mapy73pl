@@ -13,13 +13,15 @@ x:
       u:
         - http://sk7jc.se/repeater70cm.php
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56244007500":
     x:
       - 70cm: 0
     p: Olofström
     e: 44
-    g: 0
+    g: 20
     a: 56.2292
     o: 14.875
 o: []

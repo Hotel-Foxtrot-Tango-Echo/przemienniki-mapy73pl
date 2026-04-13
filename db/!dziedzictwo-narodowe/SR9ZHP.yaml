@@ -16,13 +16,15 @@ x:
       d: |-
         UWAGA: Nie jest to przemiennik
         Bramka do sieci FM Poland.
+      a: nieznana
+      i: 6.5
 h:
   "50331062500":
     x:
       - 2m: 0
     p: Będzin
     e: 270
-    g: 0
+    g: 20
     a: 50.3125
     o: 19.125
 o:

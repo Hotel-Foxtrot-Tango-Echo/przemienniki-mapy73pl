@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk5lf.se/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58415013819":
     x:
       - 70cm: 0
     p: Linköping / Majelden
     e: 78
-    g: 0
+    g: 20
     a: 58.3995
     o: 15.63819
 o: []

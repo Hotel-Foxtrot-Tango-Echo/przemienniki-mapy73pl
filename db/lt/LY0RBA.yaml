@@ -4,7 +4,7 @@ h:
     o: 21.184533
     p: Klaipeda
     e: 7
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,6 +23,8 @@ x:
           - f: "1"
       e2:
         - 24601
+      a: nieznana
+      i: 9
 o:
   - LY6L
 page: https://mapy73.pl/repeater/LY0RBA

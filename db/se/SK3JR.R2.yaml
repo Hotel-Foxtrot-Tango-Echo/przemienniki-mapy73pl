@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk3jr.se
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63119030220":
     x:
       - 2m: 0
     p: Östersund / Brattåsen
     e: 0
-    g: 0
+    g: 20
     a: 63.1047
     o: 14.6022
 o:

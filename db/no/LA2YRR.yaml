@@ -14,13 +14,15 @@ x:
       u:
         - http://www.la3f.no/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59781059170":
     x:
       - 70cm: 0
     p: Follo / Stangåsen
     e: 114
-    g: 0
+    g: 20
     a: 59.7708
     o: 10.7917
 o: []

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: CCS 97542
+      a: nieznana
+      i: 9
 h:
   "59152001307":
     x:
       - 70cm: 0
     p: Mokollen, Sandefjord
     e: 102
-    g: 0
+    g: 20
     a: 59.1418
     o: 10.21307
 o: []

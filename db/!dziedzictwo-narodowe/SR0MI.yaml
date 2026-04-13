@@ -28,13 +28,15 @@ x:
 
         Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS -
         SR4MO - SR4DM
+      a: Diamond X-300
+      i: 9
 h:
   "53790062500":
     x:
       - 70cm: 0
     p: Miłomłyn
     e: 102
-    g: 0
+    g: 20
     a: 53.77083
     o: 19.79167
 o:

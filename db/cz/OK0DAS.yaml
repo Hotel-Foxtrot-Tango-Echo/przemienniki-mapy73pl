@@ -15,13 +15,15 @@ x:
       u:
         - http://www.prevadece.cz/dmr/sit
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50751057328":
     x:
       - 70cm: 0
     p: Sněžka
     e: 1599
-    g: 0
+    g: 20
     a: 50.735833
     o: 15.740278
 o:

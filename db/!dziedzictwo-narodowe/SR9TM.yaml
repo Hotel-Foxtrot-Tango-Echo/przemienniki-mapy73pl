@@ -17,6 +17,8 @@ x:
       d: "Sprzęt obsługujący przemiennik: Radia: MOTOROLA GM-340, Zasilacz
         HP-DPS-600PB B, Duplexer: SGQ-450D, Antena: FALKOS UH-2000, Sterownik
         FM:ID-O-Matic IV."
+      a: FALKOS UH-2000
+      i: 8
     - rx:
         f: 430.9125
       tx:
@@ -30,6 +32,8 @@ x:
       d: "Sprzęt obsługujący przemiennik: Radia: MOTOROLA GM-340, Zasilacz
         HP-DPS-600PB B, Duplexer: SGQ-450D, Antena: FALKOS UH-2000, Sterownik
         D-STAR: GS68 MMDVM"
+      a: FALKOS UH-2000
+      i: 8
 h:
   "49802032883":
     x:

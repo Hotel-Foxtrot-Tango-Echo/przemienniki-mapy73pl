@@ -15,13 +15,15 @@ x:
       u:
         - https://www.ok0bbf.cz
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50067039054":
     x:
       - 70cm: 0
     p: Suchý vrch - Orlické Hory
     e: 996
-    g: 0
+    g: 20
     a: 50.050697
     o: 16.693543
 o:

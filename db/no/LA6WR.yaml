@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "60693087500":
     x:
       - 2m: 0
     p: Voss / Lønahorgi
     e: 0
-    g: 0
+    g: 20
     a: 60.6875
     o: 6.375
 o: []

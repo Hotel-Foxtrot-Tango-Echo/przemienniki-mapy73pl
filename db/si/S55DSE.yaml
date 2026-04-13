@@ -4,7 +4,7 @@ h:
     o: 15.2795
     p: Laze
     e: 583
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 293112
       e2:
         - 29311
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DSE

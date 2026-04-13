@@ -4,7 +4,7 @@ h:
     o: 24.0811
     p: 2080 zlatitca
     e: 789
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 284359
         - 2841
         - 28402
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0ZLD

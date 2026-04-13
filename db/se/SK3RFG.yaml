@@ -11,6 +11,8 @@ x:
       u:
         - http://echolink.org/logins.jsp
       d: ""
+      a: nieznana
+      i: 6.5
     - rx:
         f: 144.9875
       tx:
@@ -21,6 +23,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.8
@@ -32,13 +36,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "62413025830":
     x:
       - 2m: 0
     p: Sundsvall
     e: 0
-    g: 0
+    g: 20
     a: 62.3958
     o: 17.4583
   "62395077144":

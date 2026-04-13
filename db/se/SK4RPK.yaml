@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "60118072490":
     x:
       - 70cm: 0
     p: Torsby / Valberget
     e: 0
-    g: 0
+    g: 20
     a: 60.10576
     o: 12.9649
 o:

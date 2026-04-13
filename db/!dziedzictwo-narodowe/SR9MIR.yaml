@@ -4,7 +4,7 @@ h:
     o: 19.40285
     p: Chrzanów
     e: 285
-    g: 0
+    g: 20
     x:
       - 6m: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 50.51
       rx:
         f: 50.51
+      a: nieznana
+      i: 3
 o: []
 page: https://mapy73.pl/repeater/SR9MIR

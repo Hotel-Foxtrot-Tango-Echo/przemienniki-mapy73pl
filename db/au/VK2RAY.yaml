@@ -4,7 +4,7 @@ h:
     o: 146.944992
     p: ALBURY
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
       e2:
         - 530
         - 655
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK2RAY

@@ -4,7 +4,7 @@ h:
     o: 18.904305
     p: Dobogoko
     e: 675
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
       e2:
         - 91
         - 216702
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG7RUG

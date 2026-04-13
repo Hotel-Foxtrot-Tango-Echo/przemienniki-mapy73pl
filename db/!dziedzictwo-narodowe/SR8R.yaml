@@ -17,13 +17,15 @@ x:
         lokalizacji.
 
         UWAGA: Od 29.07.2022 odbiornik ma załączony ton CTCSS 71.9Hz
+      a: nieznana
+      i: 6.5
 h:
   "50070083043":
     x:
       - 2m: 0
     p: Rzeszów
     e: 229
-    g: 0
+    g: 20
     a: 50.048852
     o: 21.978431
 o:

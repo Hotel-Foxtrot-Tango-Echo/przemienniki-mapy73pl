@@ -4,7 +4,7 @@ h:
     o: 4.682822
     p: Dordrecht
     e: 1
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 20426
         - 2042
         - 204911
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/PI1DOR

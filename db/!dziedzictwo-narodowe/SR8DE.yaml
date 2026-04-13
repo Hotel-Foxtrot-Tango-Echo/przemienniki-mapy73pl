@@ -13,13 +13,15 @@ x:
       u:
         - http://www.krotkofalowcy.org/
       d: 2x Motorola MC2100, Antena X-300
+      a: Diamond X-300
+      i: 9
 h:
   "49985092909":
     x:
       - 70cm: 0
     p: Dębica
     e: 452
-    g: 0
+    g: 20
     a: 49.964483
     o: 21.446086
 o:

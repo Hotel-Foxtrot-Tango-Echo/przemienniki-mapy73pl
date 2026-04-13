@@ -12,13 +12,15 @@ x:
       p: 7
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "47755061011":
     x:
       - 2m: 0
     p: Gutâi Mountains, Igniș
     e: 1301
-    g: 0
+    g: 20
     a: 47.731938
     o: 23.672113
 o:

@@ -11,13 +11,15 @@ x:
       u:
         - http://www.prevadece.cz/dmr/sit
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50094011422":
     x:
       - 70cm: 0
     p: Praha – Strahov
     e: 325
-    g: 0
+    g: 20
     a: 50.079722
     o: 14.392222
 o:

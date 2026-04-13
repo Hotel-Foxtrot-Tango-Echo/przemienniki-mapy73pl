@@ -13,13 +13,15 @@ x:
       u:
         - http://www.kpgk.pl
       d: "ID: 260906"
+      a: nieznana
+      i: 9
 h:
   "50086029720":
     x:
       - 70cm: 0
     p: Kraków
     e: 216
-    g: 0
+    g: 20
     a: 50.066357
     o: 19.940202
 o:

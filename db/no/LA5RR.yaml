@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "60160040000":
     x:
       - 2m: 0
     p: Ringerike / Ringkollen
     e: 0
-    g: 0
+    g: 20
     a: 60.15
     o: 10.4
 o: []

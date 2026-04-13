@@ -14,13 +14,15 @@ x:
       u:
         - http://www.sk2hg.se
       d: ""
+      a: nieznana
+      i: 3
 h:
   "65878071708":
     x:
       - 6m: 0
     p: Kalix
     e: 0
-    g: 0
+    g: 20
     a: 65.85563
     o: 23.08708
 o: []

@@ -15,13 +15,15 @@ x:
       u:
         - http://ok1ocb.cz/prevadece/prevadec-ok0bg/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48993070833":
     x:
       - 70cm: 0
     p: České Budějovice - komín teplárny 160 m
     e: 543
-    g: 0
+    g: 20
     a: 48.97917
     o: 14.54167
 o:

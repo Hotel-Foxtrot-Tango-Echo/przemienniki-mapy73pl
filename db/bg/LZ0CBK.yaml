@@ -17,13 +17,15 @@ x:
         - http://www.dstar.bg/
         - http://www.repeaters.bg/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "42659056499":
     x:
       - 70cm: 0
     p: София - хотел Копитото
     e: 1321
-    g: 0
+    g: 20
     a: 42.636317
     o: 23.247988
 o:

@@ -15,6 +15,8 @@ x:
       u:
         - http://ot18.pzk.org.pl/?page_id=470
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.65
       tx:
@@ -26,6 +28,8 @@ x:
       u:
         - http://ot18.pzk.org.pl/?page_id=470
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50001020833":
     x:

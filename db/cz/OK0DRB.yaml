@@ -4,7 +4,7 @@ h:
     o: 13.49988
     p: Plavec Jesenice
     e: 576
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,6 +25,8 @@ x:
         - 230
       e2:
         - 230110
+      a: nieznana
+      i: 9
 o:
   - OK7RB
 page: https://mapy73.pl/repeater/OK0DRB

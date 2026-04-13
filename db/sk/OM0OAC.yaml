@@ -4,7 +4,7 @@ h:
     o: 18.823059
     p: Cadca Drahosanka
     e: 614
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,6 +28,8 @@ x:
         - 23112
         - 2319112
         - 231304
+      a: nieznana
+      i: 9
 o:
   - OM3WIM
 page: https://mapy73.pl/repeater/OM0OAC

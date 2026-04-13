@@ -13,13 +13,15 @@ x:
       u:
         - http://sp7pki.iq24.pl/default.asp?grupa=96478&temat=616532&nr_str=1#dol_str
       d: "Antena: GP-21 omni"
+      a: Comet GP-21
+      i: 14.9
 h:
   "51942046804":
     x:
       - 23cm: 0
     p: Zielona Góra
     e: 185
-    g: 0
+    g: 20
     a: 51.92698
     o: 15.488042
 o:

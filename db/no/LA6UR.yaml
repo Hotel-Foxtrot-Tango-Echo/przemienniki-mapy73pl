@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "64281034170":
     x:
       - 2m: 0
     p: Fosen / Gjeltheia
     e: 0
-    g: 0
+    g: 20
     a: 64.2708
     o: 10.5417
 o: []

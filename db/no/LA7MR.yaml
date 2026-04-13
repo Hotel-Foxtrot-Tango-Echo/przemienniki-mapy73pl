@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "66201020830":
     x:
       - 2m: 0
     p: Mo i Rana / Veten
     e: 0
-    g: 0
+    g: 20
     a: 66.1875
     o: 13.7083
 o: []

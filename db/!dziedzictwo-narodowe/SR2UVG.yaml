@@ -12,6 +12,8 @@ x:
       d: |-
         Antena Radmor 3284/3
         Emitel RTCN Chwaszczyno
+      a: Radmor 3284/3
+      i: 10.15
     - rx:
         f: 431.2375
         t:
@@ -41,6 +43,8 @@ x:
         - 260015
         - 26026
         - 26028
+      a: nieznana
+      i: 9
 h:
   "54471018895":
     x:

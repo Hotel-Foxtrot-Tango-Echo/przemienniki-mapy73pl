@@ -14,13 +14,15 @@ x:
       p: 15
       u: []
       d: Bramka FM-Poland UHF
+      a: nieznana
+      i: 9
 h:
   "53863080419":
     x:
       - 70cm: 0
     p: Augustów
     e: 125
-    g: 0
+    g: 20
     a: 53.840818
     o: 22.986185
 o:

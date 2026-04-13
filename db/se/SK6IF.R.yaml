@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6if.se/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.8
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk6if.se/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58321064000":
     x:
       - 2m: 0
     p: Lysekil
     e: 134
-    g: 0
+    g: 20
     a: 58.31
     o: 11.64
   "58286093550":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Lysekil
     e: 22
-    g: 0
+    g: 20
     a: 58.2755
     o: 11.4355
 o:

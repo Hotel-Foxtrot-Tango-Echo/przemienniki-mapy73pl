@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48890060350":
     x:
       - 70cm: 0
     p: Znojmo, Cínová Hora
     e: 363
-    g: 0
+    g: 20
     a: 48.8746
     o: 16.0035
 o:

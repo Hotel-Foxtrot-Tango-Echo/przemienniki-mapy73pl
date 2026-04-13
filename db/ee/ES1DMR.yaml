@@ -4,7 +4,7 @@ h:
     o: 24.74851
     p: Tallinn
     e: 29
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,6 +27,8 @@ x:
         - 2485
       e2:
         - 248
+      a: nieznana
+      i: 9
 o:
   - ES2AST
   - ES4HTI

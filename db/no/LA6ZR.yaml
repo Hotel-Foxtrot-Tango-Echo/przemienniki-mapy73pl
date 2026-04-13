@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "61072029167":
     x:
       - 2m: 0
     p: Fagernes / Spåtind
     e: 0
-    g: 0
+    g: 20
     a: 61.0625
     o: 9.79167
 o: []

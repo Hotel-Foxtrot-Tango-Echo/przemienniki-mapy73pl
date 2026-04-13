@@ -4,7 +4,7 @@ h:
     o: 23.700432
     p: Mt. Parnitha
     e: 1071
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 202
       e2:
         - 2021
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SW1N

@@ -13,13 +13,15 @@ x:
       u:
         - https://qrz.if.ua/repeaters.html
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48962020833":
     x:
       - 70cm: 0
     p: Ivano-Frankivsk
     e: 240
-    g: 0
+    g: 20
     a: 48.9375
     o: 24.70833
 o: []

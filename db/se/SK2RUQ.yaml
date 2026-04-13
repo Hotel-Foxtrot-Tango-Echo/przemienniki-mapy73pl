@@ -11,13 +11,15 @@ x:
       u:
         - http://www.marsfjallet.se
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "64998005846":
     x:
       - 2m: 0
     p: Saxnäs / Marsfjället
     e: 0
-    g: 0
+    g: 20
     a: 64.982766
     o: 15.292464
 o:

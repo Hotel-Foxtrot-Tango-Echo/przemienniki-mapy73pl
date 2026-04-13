@@ -15,13 +15,15 @@ x:
       u:
         - http://www.facebook.com/repeatersboz
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "51483045833":
     x:
       - 2m: 0
     p: Bergen op Zoom
     e: 0
-    g: 0
+    g: 20
     a: 51.47917
     o: 4.29167
 o: []

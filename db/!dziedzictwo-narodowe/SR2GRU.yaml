@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: Antena CP22E , 49m n.p.gruntu
+      a: nieznana
+      i: 6.5
 h:
   "53497095833":
     x:
       - 2m: 0
     p: Grudziądz
     e: 22
-    g: 0
+    g: 20
     a: 53.47917
     o: 18.79167
 o:

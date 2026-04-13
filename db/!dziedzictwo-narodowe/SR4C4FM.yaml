@@ -15,13 +15,15 @@ x:
         Node zlinkowany na stałe z Room Poland.
         Antena X200.
         Zasięg - pokrycie miasta.
+      a: Diamond X-200
+      i: 8
 h:
   "53168095833":
     x:
       - 70cm: 0
     p: Białystok
     e: 126
-    g: 0
+    g: 20
     a: 53.14583
     o: 23.125
 o:

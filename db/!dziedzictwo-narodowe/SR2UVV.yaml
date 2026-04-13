@@ -13,6 +13,8 @@ x:
       u:
         - https://www.facebook.com/profile.php?id=100064510003135
       d: ""
+      a: nieznana
+      i: 9
     - tx:
         f: 439.3625
       rx:
@@ -28,6 +30,8 @@ x:
       e2:
         - 26029
         - 260202
+      a: nieznana
+      i: 9
 h:
   "52937056952":
     x:

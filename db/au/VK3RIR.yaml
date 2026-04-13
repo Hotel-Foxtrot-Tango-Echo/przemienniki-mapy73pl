@@ -4,7 +4,7 @@ h:
     o: 144.280366
     p: Bendigo
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 505355
       e2:
         - 50535
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK3RIR

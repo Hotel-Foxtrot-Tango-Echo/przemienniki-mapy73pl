@@ -4,7 +4,7 @@ h:
     o: 22.632535
     p: Strumica
     e: 322
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "1"
       e2:
         - 2949
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/Z35VSR

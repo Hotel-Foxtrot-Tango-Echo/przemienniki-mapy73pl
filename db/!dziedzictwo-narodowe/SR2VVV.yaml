@@ -12,6 +12,8 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.2125
         t:
@@ -25,6 +27,8 @@ x:
       u:
         - https://www.facebook.com/profile.php?id=100064510003135
       d: ""
+      a: nieznana
+      i: 9
 h:
   "53033081666":
     x:

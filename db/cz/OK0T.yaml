@@ -12,6 +12,8 @@ x:
       p: 25
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 431.2
@@ -27,13 +29,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50652019300":
     x:
       - 2m: 0
     p: Teplice - Doubravka
     e: 392
-    g: 0
+    g: 20
     a: 50.638333
     o: 13.86
   "50652047128":
@@ -41,7 +45,7 @@ h:
       - 70cm: 0
     p: Teplice - Doubravka
     e: 398
-    g: 0
+    g: 20
     a: 50.638611
     o: 13.860278
 o:

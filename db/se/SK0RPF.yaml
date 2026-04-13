@@ -11,13 +11,15 @@ x:
       u:
         - https://brandmeister.network/?page=repeater&id=240024
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59654066884":
     x:
       - 70cm: 0
     p: Sigtuna
     e: 23
-    g: 0
+    g: 20
     a: 59.63686
     o: 17.80884
 o: []

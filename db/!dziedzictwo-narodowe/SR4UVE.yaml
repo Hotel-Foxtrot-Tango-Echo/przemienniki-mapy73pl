@@ -13,6 +13,8 @@ x:
         Motorola Mtr-2000
         Antena-Comet GP9
         Duplexer-Motorola
+      a: Comet GP-9
+      i: 11.9
     - rx:
         f: 430.55
       tx:
@@ -26,6 +28,8 @@ x:
         Motorola Mtr-2000
         Antena-Comet GP9
         Duplexer-Motorola          
+      a: Comet GP-9
+      i: 11.9
 h:
   "54092099271":
     x:

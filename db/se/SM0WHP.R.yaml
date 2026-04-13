@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59317056040":
     x:
       - 70cm: 0
     p: Stockholm / Sollentuna
     e: 57
-    g: 0
+    g: 20
     a: 59.2995
     o: 18.0604
 o: []

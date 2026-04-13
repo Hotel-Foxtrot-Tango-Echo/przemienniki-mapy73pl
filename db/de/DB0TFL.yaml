@@ -14,13 +14,15 @@ x:
       d: |-
         odbiornik - GM1200 nadajnik - CM340 antena - Kathrein duplexer - Procom
         DPF70/6
+      a: nieznana
+      i: 9
 h:
   "52075095833":
     x:
       - 70cm: 0
     p: Baruth/Mark
     e: 51
-    g: 0
+    g: 20
     a: 52.0625
     o: 13.45833
 o: []

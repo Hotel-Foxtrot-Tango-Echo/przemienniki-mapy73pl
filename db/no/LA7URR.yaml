@@ -13,13 +13,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 11.7
 h:
   "63448012500":
     x:
       - 23cm: 0
     p: Trondheim / Vikhammer
     e: 0
-    g: 0
+    g: 20
     a: 63.4375
     o: 10.625
 o: []

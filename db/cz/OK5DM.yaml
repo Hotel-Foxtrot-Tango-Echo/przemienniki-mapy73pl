@@ -10,13 +10,15 @@ x:
       p: 7
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50701054167":
     x:
       - 70cm: 0
     p: Ústí nad Labem- Centrum
     e: 328
-    g: 0
+    g: 20
     a: 50.6875
     o: 14.04167
 o:

@@ -4,7 +4,7 @@ h:
     o: 15.91459
     p: Hochwechsel
     e: 1734
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -24,5 +24,7 @@ x:
       e2:
         - 2326
         - 2324
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE3XWU

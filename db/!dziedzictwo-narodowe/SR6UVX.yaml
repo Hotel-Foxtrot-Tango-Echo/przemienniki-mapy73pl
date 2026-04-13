@@ -13,6 +13,8 @@ x:
       u:
         - http://sp7pki.iq24.pl/default.asp?grupa=74078&temat=202382
       d: Antena x-200, przemiennik Motorola. 5W przy pracy z baterii.
+      a: Diamond X-200
+      i: 8
     - rx:
         f: 431.8125
       tx:
@@ -23,6 +25,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51487044020":
     x:
@@ -30,7 +34,7 @@ h:
       - 70cm: 1
     p: Żmigród
     e: 92
-    g: 0
+    g: 20
     a: 51.470531
     o: 16.909204
 o:

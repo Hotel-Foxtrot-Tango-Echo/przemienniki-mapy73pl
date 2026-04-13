@@ -21,13 +21,15 @@ x:
         RPT1: SR2UVT_C
 
         RPT2: SR2UVT_G
+      a: nieznana
+      i: 6.5
 h:
   "53622004167":
     x:
       - 2m: 0
     p: Tuchola
     e: 127
-    g: 0
+    g: 20
     a: 53.60417
     o: 17.875
 o:

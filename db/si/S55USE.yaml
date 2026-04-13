@@ -15,13 +15,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46002061579":
     x:
       - 70cm: 0
     p: Laze
     e: 563
-    g: 0
+    g: 20
     a: 45.987337
     o: 15.278792
 o:

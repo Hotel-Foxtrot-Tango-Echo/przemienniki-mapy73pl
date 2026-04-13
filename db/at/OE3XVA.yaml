@@ -4,7 +4,7 @@ h:
     o: 14.520928
     p: St. Valentin
     e: 261
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -32,5 +32,7 @@ x:
         - 2320
         - 2323
         - 2325
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE3XVA

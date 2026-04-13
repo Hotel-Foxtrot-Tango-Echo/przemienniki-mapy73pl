@@ -14,6 +14,8 @@ x:
       u:
         - http://www.sk7ax.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.75
@@ -29,6 +31,8 @@ x:
       u:
         - http://www.sk7ax.se
       d: ""
+      a: nieznana
+      i: 9
   10m:
     - rx:
         f: 29.58
@@ -44,13 +48,15 @@ x:
       u:
         - http://www.sk7ax.se
       d: ""
+      a: nieznana
+      i: 2.15
 h:
   "57694037207":
     x:
       - 2m: 0
     p: Jönköping / Taberg
     e: 318
-    g: 0
+    g: 20
     a: 57.68029
     o: 14.08207
   "57824082300":
@@ -58,7 +64,7 @@ h:
       - 70cm: 0
     p: Huskvarna
     e: 280
-    g: 0
+    g: 20
     a: 57.81052
     o: 14.303
   "57824082000":
@@ -66,7 +72,7 @@ h:
       - 10m: 0
     p: Huskvarna
     e: 282
-    g: 0
+    g: 20
     a: 57.81052
     o: 14.3
 o:

@@ -16,6 +16,8 @@ x:
         - https://sp4.jestok.com
       d: "Anteny: X-300 @180m RX, GP-98 @ 210m TX, 230m LDF-5 7/8, przemiennik
         MOTOROLA MTR2000 + SVXLink"
+      a: Diamond X-300
+      i: 6.5
 h:
   "53959057176":
     x:

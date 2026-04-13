@@ -4,7 +4,7 @@ h:
     o: 24.616888
     p: Plovdiv
     e: 1143
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
       e2:
         - 2843
         - 284359
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0DLC

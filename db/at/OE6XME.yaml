@@ -4,7 +4,7 @@ h:
     o: 15.449466
     p: Kindberg
     e: 566
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -69,5 +69,7 @@ x:
         - 232609
         - 262
         - 23298
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE6XME

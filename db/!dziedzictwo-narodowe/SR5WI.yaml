@@ -12,13 +12,15 @@ x:
       p: 15
       u: []
       d: Yaesu DR-1X, Wires-X, C4FM, Antena Diamond X-7000
+      a: Diamond X-7000
+      i: 11.7
 h:
   "52262051716":
     x:
       - 70cm: 0
     p: Warszawa
     e: 86
-    g: 0
+    g: 20
     a: 52.241419
     o: 21.098156
 o:

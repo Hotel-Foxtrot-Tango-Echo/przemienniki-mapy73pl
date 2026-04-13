@@ -4,7 +4,7 @@ h:
     o: 18.06403
     p: Bydgoszcz
     e: 66
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -26,6 +26,8 @@ x:
         - 2602
       e2:
         - 260260
+      a: nieznana
+      i: 6.5
 o:
   - SQ2LKH
 page: https://mapy73.pl/repeater/SR2BYD

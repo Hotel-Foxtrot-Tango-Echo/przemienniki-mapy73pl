@@ -4,7 +4,7 @@ h:
     o: 23.290499
     p: Targu Jiu
     e: 221
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -31,5 +31,7 @@ x:
         - 22610
         - 2261313
         - 2261414
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO7UVM

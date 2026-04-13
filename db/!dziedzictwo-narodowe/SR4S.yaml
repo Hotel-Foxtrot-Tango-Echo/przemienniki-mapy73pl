@@ -31,6 +31,8 @@ x:
 
         Przemiennik emituje CTCSS tylko podczas pracy korespondenta. Na
         podtrzymaniu brak tonu CTCSS.
+      a: Diamond X-300N
+      i: 6.5
 h:
   "53432062155":
     x:

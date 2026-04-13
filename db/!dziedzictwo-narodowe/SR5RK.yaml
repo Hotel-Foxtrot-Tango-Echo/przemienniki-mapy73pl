@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000
+      a: Comet GH-70
+      i: 5.5
     - rx:
         f: 431.15
       tx:
@@ -25,6 +27,8 @@ x:
       u: []
       d: Comet GH70 , kable 7/8 i 1&5/8, Motorola MTR2000, D-STAR, DVRPTR +
         oprogramowanie KI4LKF, Sterownik SQ5DCP
+      a: Comet GH-70
+      i: 5.5
 h:
   "51379015921":
     x:

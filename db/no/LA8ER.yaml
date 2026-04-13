@@ -13,13 +13,15 @@ x:
       u:
         - http://www.la2g.no/?page_id=314
       d: ""
+      a: nieznana
+      i: 9
 h:
   "60406092500":
     x:
       - 70cm: 0
     p: Gardermoen / Mistberget
     e: 0
-    g: 0
+    g: 20
     a: 60.3958
     o: 11.125
 o: []

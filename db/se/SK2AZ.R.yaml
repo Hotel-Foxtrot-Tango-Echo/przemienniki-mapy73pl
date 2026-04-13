@@ -11,13 +11,15 @@ x:
       u:
         - http://echolink.org/logins.jsp
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "65626040830":
     x:
       - 2m: 0
     p: Luleå
     e: 0
-    g: 0
+    g: 20
     a: 65.6042
     o: 22.2083
 o: []

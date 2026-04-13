@@ -19,13 +19,15 @@ x:
         - sterownik RPTC Microsat
         - duplekser Radmor 05113
         - antena Diamond x200
+      a: Diamond X-200
+      i: 8
 h:
   "51622051937":
     x:
       - 70cm: 0
     p: Rawicz
     e: 99
-    g: 0
+    g: 20
     a: 51.605659
     o: 16.860366
 o: []

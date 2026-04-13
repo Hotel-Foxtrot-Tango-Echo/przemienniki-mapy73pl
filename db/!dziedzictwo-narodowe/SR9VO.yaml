@@ -18,6 +18,8 @@ x:
         TX - Motorola GM950 N4 
         UVS200 RX / MA1300 TX
         Kontroler SP3PLX
+      a: nieznana
+      i: 9
 h:
   "50054016005":
     x:

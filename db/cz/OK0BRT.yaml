@@ -4,7 +4,7 @@ h:
     o: 14.639027
     p: V.Popovice - Brtnice
     e: 396
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -30,6 +30,8 @@ x:
         - 230501
         - 230505
         - 230506
+      a: nieznana
+      i: 9
 o:
   - OK1UAX
 page: https://mapy73.pl/repeater/OK0BRT

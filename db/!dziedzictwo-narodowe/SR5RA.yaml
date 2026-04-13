@@ -16,6 +16,8 @@ x:
       d: |-
         TX: COMET GP9N 8x5/8λ [11,9 dBi]
         RX: DIAMOND F-718 18x1/2λ [11,5 dBi]
+      a: Diamond F-718
+      i: 11.5
 h:
   "51376018680":
     x:

@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: Diamond X700H (4 x 5/8 λ & 11 x 5/8 λ)
+      a: Diamond X-700H
+      i: 9.3
   70cm:
     - rx:
         f: 431.0375
@@ -29,6 +31,8 @@ x:
       p: 15
       u: []
       d: Diamond X700H (4 x 5/8 λ & 11 x 5/8 λ)
+      a: Diamond X-700H
+      i: 13
   6m:
     - rx:
         f: 51.39
@@ -44,6 +48,8 @@ x:
       p: 15
       u: []
       d: " 5/8 λ"
+      a: 5/8 wave
+      i: 3
   10m:
     - rx:
         f: 29.56
@@ -60,6 +66,8 @@ x:
       u:
         - http://radioteam.pl/sr9rt
       d: " 5/8 λ"
+      a: 5/8 wave
+      i: 3
 h:
   "49739079885":
     x:

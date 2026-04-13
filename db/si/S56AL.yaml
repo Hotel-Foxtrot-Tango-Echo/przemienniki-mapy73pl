@@ -11,6 +11,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 433.425
       tx:
@@ -21,6 +23,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46352054856":
     x:
@@ -28,7 +32,7 @@ h:
       - 70cm: 1
     p: Bovec (mesto)
     e: 484
-    g: 0
+    g: 20
     a: 46.338999
     o: 13.549563
 o:

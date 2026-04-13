@@ -16,6 +16,8 @@ x:
       d: |-
         Przemiennik zbudowany na bazie radiotelefonów Motorola GM950.
         Zastosowano duplekser K&L,antena Diamond X50N.
+      a: Diamond X-50N
+      i: 7.2
 h:
   "50769004666":
     x:

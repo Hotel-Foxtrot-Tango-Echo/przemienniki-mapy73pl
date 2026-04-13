@@ -13,6 +13,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
     - h: "46075076178"
       u: []
       d: ""
@@ -31,13 +33,15 @@ x:
       e2:
         - 2935
         - 2936
+      a: nieznana
+      i: 9
 h:
   "46075076178":
     x:
       - 70cm: 0
     p: Korada
     e: 783
-    g: 0
+    g: 20
     a: 46.062202
     o: 13.559777
 o:

@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk5db.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.75
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk5db.se
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59871099270":
     x:
       - 2m: 0
     p: Uppsala
     e: 47
-    g: 0
+    g: 20
     a: 59.8542
     o: 17.7927
   "59871099070":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Uppsala
     e: 40
-    g: 0
+    g: 20
     a: 59.8542
     o: 17.7907
 o:

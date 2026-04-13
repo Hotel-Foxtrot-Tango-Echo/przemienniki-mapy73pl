@@ -14,13 +14,15 @@ x:
       u:
         - https://www.db0ug.de
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51737095833":
     x:
       - 70cm: 0
     p: ""
     e: 135
-    g: 0
+    g: 20
     a: 51.72917
     o: 8.79167
 o:

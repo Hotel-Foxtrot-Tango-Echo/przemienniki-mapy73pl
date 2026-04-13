@@ -11,13 +11,15 @@ x:
       u:
         - http://www.qsl.net/sk2vy/
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "65106006790":
     x:
       - 2m: 0
     p: Storuman
     e: 0
-    g: 0
+    g: 20
     a: 65.08891
     o: 17.1579
 o:

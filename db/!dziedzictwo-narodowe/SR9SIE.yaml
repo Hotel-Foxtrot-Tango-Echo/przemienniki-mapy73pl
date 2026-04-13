@@ -4,7 +4,7 @@ h:
     o: 19.017744
     p: Siemianowice Śląskie
     e: 272
-    g: 0
+    g: 20
     x:
       - 4m: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 70.27
       rx:
         f: 70.27
+      a: nieznana
+      i: 3
 o: []
 page: https://mapy73.pl/repeater/SR9SIE

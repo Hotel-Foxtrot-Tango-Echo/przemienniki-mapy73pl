@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "46135066117":
     x:
       - 2m: 0
     p: Štucinov hrib
     e: 392
-    g: 0
+    g: 20
     a: 46.12047
     o: 15.191167
 o:

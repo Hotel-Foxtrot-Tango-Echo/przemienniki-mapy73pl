@@ -13,13 +13,15 @@ x:
       u:
         - https://www.darc.de/der-club/distrikte/u/ortsverbaende/20/relais-bilder/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49450020807":
     x:
       - 70cm: 0
     p: Altenschneeberg
     e: 757
-    g: 0
+    g: 20
     a: 49.43766
     o: 12.54807
 o:

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "67202054170":
     x:
       - 2m: 0
     p: Fauske/Bodø / Klettkå
     e: 0
-    g: 0
+    g: 20
     a: 67.1875
     o: 15.0417
 o: []

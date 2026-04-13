@@ -20,13 +20,15 @@ x:
         Slot 2 TG 250777 (Local Kaliningrad Group)
 
         DCC1
+      a: nieznana
+      i: 6.5
 h:
   "54695004173":
     x:
       - 2m: 0
     p: Kaliningrad
     e: 13
-    g: 0
+    g: 20
     a: 54.67454
     o: 20.50173
 o:

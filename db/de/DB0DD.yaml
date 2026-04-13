@@ -10,13 +10,15 @@ x:
       p: 12
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "51117095833":
     x:
       - 2m: 0
     p: Dresden-Hellerau
     e: 166
-    g: 0
+    g: 20
     a: 51.10417
     o: 13.79167
 o: []

@@ -11,13 +11,15 @@ x:
       u:
         - http://www.prevadece.cz/dmr/sit
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50067052633":
     x:
       - 70cm: 0
     p: Suchý vrch
     e: 997
-    g: 0
+    g: 20
     a: 50.050833
     o: 16.693333
 o:

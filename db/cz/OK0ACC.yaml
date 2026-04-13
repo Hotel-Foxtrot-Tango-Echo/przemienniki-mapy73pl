@@ -14,13 +14,15 @@ x:
       p: 15
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "49758034330":
     x:
       - 2m: 0
     p: Obecnice, Drahlín - Sádka
     e: 721
-    g: 0
+    g: 20
     a: 49.744391
     o: 13.952304
 o:

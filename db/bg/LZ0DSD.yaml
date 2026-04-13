@@ -4,7 +4,7 @@ h:
     o: 26.342436
     p: Sliven
     e: 247
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 284
       e2:
         - 284359
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0DSD

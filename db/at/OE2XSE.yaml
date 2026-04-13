@@ -4,7 +4,7 @@ h:
     o: 12.477278
     p: Mittersill
     e: 945
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,5 +28,7 @@ x:
       e2:
         - 2322
         - 2327
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE2XSE

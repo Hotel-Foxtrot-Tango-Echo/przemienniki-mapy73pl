@@ -14,13 +14,15 @@ x:
       p: 1
       u: []
       d: N-FM, dwie GM-300 i dwie anteny.
+      a: nieznana
+      i: 6.5
 h:
   "53473036203":
     x:
       - 2m: 0
     p: Szczecin
     e: 56
-    g: 0
+    g: 20
     a: 53.458827
     o: 14.535034
 o:

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "65909009170":
     x:
       - 2m: 0
     p: Mosjøen / Vardefjell
     e: 0
-    g: 0
+    g: 20
     a: 65.8958
     o: 13.2917
 o: []

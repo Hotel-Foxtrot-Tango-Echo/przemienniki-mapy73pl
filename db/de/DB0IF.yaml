@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "54506028794":
     x:
       - 70cm: 0
     p: Fehmarn / Puttgarden
     e: 10
-    g: 0
+    g: 20
     a: 54.495089
     o: 11.198941
 o: []

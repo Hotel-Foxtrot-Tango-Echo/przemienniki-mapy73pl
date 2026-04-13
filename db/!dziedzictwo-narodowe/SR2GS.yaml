@@ -18,6 +18,8 @@ x:
         Radiolatarnia - znamiennik nadawany co 15 minut.
         Antena Radmor 3284/3
         Emitel RTCN Chwaszczyno
+      a: Radmor 3284/3
+      i: 10.15
 h:
   "54471018895":
     x:

@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sp9kaj.com
       d: "250 npm 35 npt ant: X-510"
+      a: Diamond X-510
+      i: 11.7
 h:
   "50833058391":
     x:
       - 70cm: 0
     p: Częstochowa
     e: 253
-    g: 0
+    g: 20
     a: 50.814463
     o: 19.12091
 o:

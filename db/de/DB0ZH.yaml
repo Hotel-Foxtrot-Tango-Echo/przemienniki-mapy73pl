@@ -13,6 +13,8 @@ x:
       u:
         - https://www.speckmarschall.de/?page_id=1272
       d: 2 x 2m Dipol vertikal Antennen
+      a: dipol 1/2 wave
+      i: 2.15
 h:
   "49411054053":
     x:

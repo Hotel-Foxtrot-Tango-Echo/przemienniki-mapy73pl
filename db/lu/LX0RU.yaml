@@ -4,7 +4,7 @@ h:
     o: 5.996618
     p: Rumelange
     e: 421
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
       e2:
         - 27058
         - 270100
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LX0RU

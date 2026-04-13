@@ -4,7 +4,7 @@ h:
     o: 13.795493
     p: Kranjska Gora
     e: 1177
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -41,5 +41,7 @@ x:
         - 29314
         - 29315
         - 29320
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DKG

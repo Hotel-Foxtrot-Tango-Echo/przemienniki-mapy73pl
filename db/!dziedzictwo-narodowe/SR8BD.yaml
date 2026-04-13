@@ -14,6 +14,8 @@ x:
       p: 10
       u: []
       d: Motorola MTR2000, antena 3x5/8
+      a: 3x5/8 collinear
+      i: 8
 h:
   "52050099057":
     x:

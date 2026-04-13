@@ -4,7 +4,7 @@ h:
     o: 15.107316
     p: Mrzlica
     e: 1107
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 293112
       e2:
         - 29313
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/S55VCE

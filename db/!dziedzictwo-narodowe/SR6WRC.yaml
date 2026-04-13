@@ -26,6 +26,8 @@ x:
         częstotliwość 70,260 MHz ("kanał postojowy") po 5 minutach braku
         aktywności. Możliwy jest również pomiar siły sygnału w pasmie 70 cm
         poprzez podanie komendy DTMF 17#. Siła sygnału podawana jest telegrafią.
+      a: Diamond X-200
+      i: 8
   4m:
     - tx:
         f: 70.26
@@ -39,6 +41,8 @@ x:
       d: |-
         antena -  Verical 1/2 lambda (home made)
         radiostacja - Motorola M110
+      a: nieznana
+      i: 3
     - tx:
         f: 70.28
         t:
@@ -51,12 +55,14 @@ x:
       d: |-
         antena -  Verical 1/2 lambda (home made)
         radiostacja - Motorola M110          
+      a: nieznana
+      i: 3
 h:
   "51079037500":
     x: []
     p: Mokronos Gorny
     e: 135
-    g: 0
+    g: 20
     a: 51.0625
     o: 16.875
 o:

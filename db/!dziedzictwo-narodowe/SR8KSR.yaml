@@ -21,6 +21,8 @@ x:
         Duplekser współosiowy 6-komorowy
         2x Motorola GM360
         Raspberry Pi + MMDVM
+      a: Diamond X-30
+      i: 5.5
     - rx:
         f: 431.325
       tx:
@@ -35,6 +37,8 @@ x:
         Duplekser współosiowy 6-komorowy
         2x Motorola GM360
         Raspberry Pi + MMDVM          
+      a: Diamond X-30
+      i: 5.5
 h:
   "49719012543":
     x:

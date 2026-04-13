@@ -26,13 +26,15 @@ x:
 
         Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS -
         SR4MO - SR4DM
+      a: Diamond X-300
+      i: 9
 h:
   "53540062500":
     x:
       - 70cm: 0
     p: Lubawa
     e: 168
-    g: 0
+    g: 20
     a: 53.52083
     o: 19.79167
 o:

@@ -13,6 +13,8 @@ x:
       u: []
       d: "Antena: Radmor 3284/3, o zysku energetycznym względem dipola λ/2 8 dBd
         (10,15 dBi)."
+      a: Radmor 3284/3
+      i: 10.15
 h:
   "51248029419":
     x:

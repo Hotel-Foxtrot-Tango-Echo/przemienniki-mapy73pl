@@ -24,13 +24,15 @@ x:
         antena: Diamond X300
         wysokość gruntu 187mnpm(geoportal)
         wysokość anteny n/g 36m
+      a: Diamond X-300
+      i: 9
 h:
   "51942046804":
     x:
       - 70cm: 0
     p: Zielona Góra
     e: 185
-    g: 0
+    g: 20
     a: 51.92698
     o: 15.488042
 o:

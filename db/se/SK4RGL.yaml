@@ -11,6 +11,8 @@ x:
       u:
         - http://sk4ao.net/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.625
@@ -23,13 +25,15 @@ x:
       u:
         - http://www.sk4ao.net
       d: ""
+      a: nieznana
+      i: 9
 h:
   "60622009550":
     x:
       - 2m: 0
     p: Falun
     e: 0
-    g: 0
+    g: 20
     a: 60.60646
     o: 15.6355
   "60625065000":
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Falun
     e: 0
-    g: 0
+    g: 20
     a: 60.61
     o: 15.65
 o:

@@ -13,6 +13,8 @@ x:
       u:
         - http://rpt.hamradio.si/
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.625
       tx:
@@ -23,6 +25,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "45517011266":
     x:

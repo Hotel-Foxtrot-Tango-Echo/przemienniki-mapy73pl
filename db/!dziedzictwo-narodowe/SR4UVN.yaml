@@ -14,6 +14,8 @@ x:
         MOTOROLA MTR2000, Ant: COMET GP-6
 
         MMDVM - moduł MTR2000 wg Czarka SP4XKB
+      a: Comet GP-6
+      i: 9
     - rx:
         f: 431.8625
       tx:
@@ -27,6 +29,8 @@ x:
         MOTOROLA MTR2000, Ant: COMET GP-6
 
         MMDVM - moduł MTR2000 wg Czarka SP4XKB          
+      a: Comet GP-6
+      i: 9
 h:
   "53791008213":
     x:

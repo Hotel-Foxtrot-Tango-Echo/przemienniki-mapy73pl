@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "54431087901":
     x:
       - 2m: 0
     p: Bergen auf Rügem
     e: 72
-    g: 0
+    g: 20
     a: 54.418446
     o: 13.433007
 o:

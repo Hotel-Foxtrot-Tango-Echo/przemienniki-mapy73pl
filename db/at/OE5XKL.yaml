@@ -4,7 +4,7 @@ h:
     o: 13.6922
     p: Krippenstein
     e: 2094
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -21,5 +21,7 @@ x:
         f: 430.9
         t:
           - f: "1"
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE5XKL

@@ -4,7 +4,7 @@ h:
     o: 19.2966
     p: Orbottyan
     e: 215
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
       e2:
         - 2164398
         - 216002
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG7RUJ

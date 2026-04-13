@@ -15,13 +15,15 @@ x:
       u:
         - http://www.yl3bu.lv
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "56961062500":
     x:
       - 2m: 0
     p: Riga
     e: 3
-    g: 0
+    g: 20
     a: 56.9375
     o: 24.125
 o:

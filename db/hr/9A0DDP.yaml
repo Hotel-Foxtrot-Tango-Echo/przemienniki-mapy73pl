@@ -4,7 +4,7 @@ h:
     o: 15
     p: Greda 328 Sela
     e: 862
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -71,5 +71,7 @@ x:
         - 219030
         - 219777
         - 219328
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DDP

@@ -4,7 +4,7 @@ h:
     o: 16.012
     p: Stare Rochowice
     e: 500
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,6 +28,8 @@ x:
         - 26066
         - 26068
         - 5026066
+      a: nieznana
+      i: 9
 o:
   - SQ6SFT
 page: https://mapy73.pl/repeater/SR6T

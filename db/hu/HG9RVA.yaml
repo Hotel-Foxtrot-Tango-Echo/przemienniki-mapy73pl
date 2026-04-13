@@ -15,13 +15,15 @@ x:
       u:
         - http://ha2to.orbel.hu/content/repeaters/en/hg9rva.html
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "48087026969":
     x:
       - 2m: 0
     p: Kis-kőhát (Bükk)
     e: 938
-    g: 0
+    g: 20
     a: 48.066784
     o: 20.48569
 o:

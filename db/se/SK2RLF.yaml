@@ -11,13 +11,15 @@ x:
       u:
         - http://www.qsl.net/sk2vy/repeat.html
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "65734052808":
     x:
       - 2m: 0
     p: Tärnaby
     e: 0
-    g: 0
+    g: 20
     a: 65.71926
     o: 15.26808
 o: []

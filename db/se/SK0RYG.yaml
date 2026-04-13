@@ -10,6 +10,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.9125
       tx:
@@ -20,6 +22,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.675
         t:
@@ -32,6 +36,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.7625
       tx:
@@ -43,6 +49,8 @@ x:
       u:
         - https://brandmeister.network/?page=repeater&id=240097
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 145.1875
@@ -56,6 +64,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
   6m:
     - rx:
         f: 51.37
@@ -69,13 +79,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 3
 h:
   "59372069579":
     x:
       - 70cm: 0
     p: Färingsö
     e: 3
-    g: 0
+    g: 20
     a: 59.3549
     o: 17.79579
   "59646018286":
@@ -83,7 +95,7 @@ h:
       - 70cm: 1
     p: Stockholm / Arlanda
     e: 42
-    g: 0
+    g: 20
     a: 59.62819
     o: 17.99286
   "59497049170":
@@ -91,7 +103,7 @@ h:
       - 2m: 0
     p: Åkersberga
     e: 9
-    g: 0
+    g: 20
     a: 59.4792
     o: 18.2917
   "59540092316":
@@ -99,7 +111,7 @@ h:
       - 70cm: 2
     p: Upplandsväsby
     e: 54
-    g: 0
+    g: 20
     a: 59.523
     o: 17.92316
   "59540092516":
@@ -107,7 +119,7 @@ h:
       - 70cm: 3
     p: Stockholm / Upplands Väsby
     e: 30
-    g: 0
+    g: 20
     a: 59.523
     o: 17.92516
   "59538067500":
@@ -115,7 +127,7 @@ h:
       - 6m: 0
     p: Upplandsväsby
     e: 59
-    g: 0
+    g: 20
     a: 59.5208
     o: 17.875
 o:

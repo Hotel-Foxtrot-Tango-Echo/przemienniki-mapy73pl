@@ -13,13 +13,15 @@ x:
       u:
         - http://sk7fk.wordpress.com/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56203012500":
     x:
       - 70cm: 0
     p: Karlskrona
     e: 0
-    g: 0
+    g: 20
     a: 56.1875
     o: 15.625
 o:

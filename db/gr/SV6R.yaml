@@ -4,7 +4,7 @@ h:
     o: 20.981536
     p: Arta
     e: 21
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 930
       e2:
         - 2026
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SV6R

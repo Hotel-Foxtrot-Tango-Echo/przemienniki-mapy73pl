@@ -14,13 +14,15 @@ x:
       u:
         - http://www.sr3gw.sp3ypr.pl/
       d: Beacon nadawany co 30 minut
+      a: nieznana
+      i: 9
 h:
   "52755069977":
     x:
       - 70cm: 0
     p: Gorzów Wielkopolski - lokalny
     e: 70
-    g: 0
+    g: 20
     a: 52.740422
     o: 15.277767
 o:

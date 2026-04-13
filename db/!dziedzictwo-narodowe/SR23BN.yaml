@@ -15,6 +15,8 @@ x:
       u:
         - http://radioamatorzy.pl
       d: Tryb pracy  FM
+      a: nieznana
+      i: 11.7
     - rx:
         f: 1270.175
       tx:
@@ -26,6 +28,8 @@ x:
       u:
         - http://radioamatorzy.pl
       d: Tryb pracy DStar (w początkowej fazie bez podłączenia do sieci)
+      a: nieznana
+      i: 11.7
 h:
   "50326060894":
     x:

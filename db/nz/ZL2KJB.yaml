@@ -4,7 +4,7 @@ h:
     o: 174.053511
     p: New Plymouth
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 5302
         - 5303
         - 5304
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/ZL2KJB

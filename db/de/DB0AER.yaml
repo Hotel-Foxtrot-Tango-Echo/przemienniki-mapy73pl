@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50700037500":
     x:
       - 70cm: 0
     p: Auerbach / Erzgebirge
     e: 570
-    g: 0
+    g: 20
     a: 50.6875
     o: 12.875
 o: []

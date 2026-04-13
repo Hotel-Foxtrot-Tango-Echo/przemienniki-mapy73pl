@@ -4,7 +4,7 @@ h:
     o: 15.326031
     p: Havluv Kopec
     e: 629
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -30,6 +30,8 @@ x:
       e2:
         - 23010
         - 230502
+      a: nieznana
+      i: 9
 o:
   - OK1XQ
 page: https://mapy73.pl/repeater/OK0DHU

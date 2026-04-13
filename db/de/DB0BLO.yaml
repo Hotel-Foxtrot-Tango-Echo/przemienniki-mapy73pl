@@ -13,13 +13,15 @@ x:
       u:
         - http://www.ov-d20.de/smb.htm
       d: ""
+      a: nieznana
+      i: 9
 h:
   "52534029167":
     x:
       - 70cm: 0
     p: Berlin-Ost
     e: 47
-    g: 0
+    g: 20
     a: 52.52083
     o: 13.45833
 o:

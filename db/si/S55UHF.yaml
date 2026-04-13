@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46103037888":
     x:
       - 70cm: 0
     p: Kum
     e: 1227
-    g: 0
+    g: 20
     a: 46.088305
     o: 15.073875
 o:

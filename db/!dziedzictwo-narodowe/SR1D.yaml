@@ -19,13 +19,15 @@ x:
         Sprzęt: 
         dwie Motorole GM300 
         dwie anteny w odległości 60 m (bez duplexera)
+      a: nieznana
+      i: 6.5
 h:
   "52752044223":
     x:
       - 2m: 0
     p: Dębno
     e: 41
-    g: 0
+    g: 20
     a: 52.737737
     o: 14.705231
 o:

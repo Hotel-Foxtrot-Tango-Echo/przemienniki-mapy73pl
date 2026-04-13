@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59697004167":
     x:
       - 2m: 0
     p: Kongsberg / Jonsknuten
     e: 546
-    g: 0
+    g: 20
     a: 59.6875
     o: 9.54167
 o: []

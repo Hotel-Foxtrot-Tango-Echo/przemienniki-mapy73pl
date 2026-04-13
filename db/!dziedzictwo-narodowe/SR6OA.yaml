@@ -14,13 +14,15 @@ x:
       p: 5
       u: []
       d: 5W dwie anteny bez dupleksera
+      a: nieznana
+      i: 9
 h:
   "50962067427":
     x:
       - 70cm: 0
     p: Oława
     e: 131
-    g: 0
+    g: 20
     a: 50.945369
     o: 17.305275
 o:

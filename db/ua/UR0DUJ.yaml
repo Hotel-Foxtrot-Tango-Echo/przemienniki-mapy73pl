@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: Hytera RD625
+      a: nieznana
+      i: 9
 h:
   "48822040248":
     x:
       - 70cm: 0
     p: Polonyna Runa
     e: 1469
-    g: 0
+    g: 20
     a: 48.799591
     o: 22.811476
 o:

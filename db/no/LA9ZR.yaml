@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "69122074170":
     x:
       - 2m: 0
     p: Midt-Troms / Andsfjell
     e: 0
-    g: 0
+    g: 20
     a: 69.1042
     o: 18.5417
 o: []

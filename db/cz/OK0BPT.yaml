@@ -4,7 +4,7 @@ h:
       - 70cm: 0
     p: Prachatice - Libín
     e: 674
-    g: 0
+    g: 20
     a: 49.036246
     o: 14.042288
 x:
@@ -25,5 +25,7 @@ x:
       e1:
         - 230
         - 231
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OK0BPT

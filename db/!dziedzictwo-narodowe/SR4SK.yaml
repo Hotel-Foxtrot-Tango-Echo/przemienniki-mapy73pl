@@ -27,13 +27,15 @@ x:
 
         Połączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS -
         SR4MO - SR2GD-C
+      a: Diamond X-300
+      i: 9
 h:
   "53790045833":
     x:
       - 70cm: 0
     p: Skitławki
     e: 103
-    g: 0
+    g: 20
     a: 53.77083
     o: 19.625
 o:

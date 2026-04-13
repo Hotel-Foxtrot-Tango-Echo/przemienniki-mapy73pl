@@ -4,7 +4,7 @@ h:
     o: 28.57917
     p: Mangalia
     e: 18
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 226
         - 2264
         - 226112
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO4CIL

@@ -15,13 +15,15 @@ x:
       u:
         - http://ok2kos.wz.cz/cz_soubory/ok0dov.html
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49850039061":
     x:
       - 70cm: 0
     p: Ostrava-Poruba
     e: 250
-    g: 0
+    g: 20
     a: 49.832222
     o: 18.168611
 o:

@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: Antena X-300
+      a: Diamond X-300
+      i: 9
 h:
   "54736016822":
     x:
       - 70cm: 0
     p: Gniewino - Wieża widokowa
     e: 112
-    g: 0
+    g: 20
     a: 54.718116
     o: 18.052215
 o:

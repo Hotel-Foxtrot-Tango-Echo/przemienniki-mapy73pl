@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "46490021079":
     x:
       - 70cm: 0
     p: Struška
     e: 1824
-    g: 0
+    g: 20
     a: 46.476093
     o: 14.11779
 o:

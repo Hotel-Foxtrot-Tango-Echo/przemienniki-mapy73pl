@@ -16,13 +16,15 @@ x:
         - http://www.sp3zir.sandor.com.pl/Przemienniki.php
       d: Anteny Radmor 3282/3,TRX ,Motorola GM-300, filtry 1/4l, 2x antena , Planowany
         echolink
+      a: Radmor 3282/3
+      i: 5.15
 h:
   "51863077082":
     x:
       - 2m: 0
     p: Leszno
     e: 94
-    g: 0
+    g: 20
     a: 51.847173
     o: 16.597824
 o:

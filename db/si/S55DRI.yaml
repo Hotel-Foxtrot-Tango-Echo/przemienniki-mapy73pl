@@ -13,6 +13,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.75
         t:
@@ -31,6 +33,8 @@ x:
         - 293112
       e2:
         - 2931
+      a: nieznana
+      i: 9
 h:
   "45757034765":
     x:
@@ -38,7 +42,7 @@ h:
       - 70cm: 1
     p: Travna gora
     e: 851
-    g: 0
+    g: 20
     a: 45.742706
     o: 14.641651
 o:

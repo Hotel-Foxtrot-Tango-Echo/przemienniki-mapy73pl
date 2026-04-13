@@ -4,7 +4,7 @@ h:
     o: 21.569428
     p: Prilep Severna Makedonia
     e: 672
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -26,5 +26,7 @@ x:
       e2:
         - 2948
         - 220
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/Z36AMB

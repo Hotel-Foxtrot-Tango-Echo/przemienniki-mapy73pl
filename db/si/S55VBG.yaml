@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "46238085105":
     x:
       - 2m: 0
     p: Kup (Podbrdo)
     e: 740
-    g: 0
+    g: 20
     a: 46.224891
     o: 13.96005
 o:

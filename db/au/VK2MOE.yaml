@@ -4,7 +4,7 @@ h:
     o: 149.573
     p: Mudgee
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -21,5 +21,7 @@ x:
         f: 439.175
         t:
           - f: "1"
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK2MOE

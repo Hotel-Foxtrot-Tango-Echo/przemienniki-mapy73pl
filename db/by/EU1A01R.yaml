@@ -13,13 +13,15 @@ x:
       u:
         - http://hamradio.ucoz.net
       d: ""
+      a: nieznana
+      i: 9
 h:
   "53923029167":
     x:
       - 70cm: 0
     p: Minsk
     e: 239
-    g: 0
+    g: 20
     a: 53.89583
     o: 27.45833
 o:

@@ -11,6 +11,8 @@ x:
       u:
         - http://dmrplus.pl
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.825
         t:
@@ -28,6 +30,8 @@ x:
         sterownik MMDVM by SP4XKB.
 
         Pracuje w sieci IPSC2/DMR+.          
+      a: Radmor 3284
+      i: 7.15
 h:
   "53156002530":
     x:

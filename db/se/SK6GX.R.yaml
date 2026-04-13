@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk6gx.se
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 432.775
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.sk6gx.se
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58332084642":
     x:
@@ -37,7 +41,7 @@ h:
       - 70cm: 0
     p: Uddevalla / Kungshamn
     e: 0
-    g: 0
+    g: 20
     a: 58.3542
     o: 11.2917
 o:

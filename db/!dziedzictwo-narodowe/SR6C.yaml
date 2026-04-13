@@ -17,13 +17,15 @@ x:
       d: 2 x GM360 ant.3x5/8 przemiennik pracuje w sieci FM POLAND
       j1:
         - 260694
+      a: 3x5/8 collinear
+      i: 8
 h:
   "51278055384":
     x:
       - 70cm: 0
     p: Bolesławiec
     e: 188
-    g: 0
+    g: 20
     a: 51.262989
     o: 15.564836
 o:

@@ -15,6 +15,8 @@ x:
       u:
         - http://www.pzk.rzeszow.pl/?page_id=485
       d: Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)
+      a: Comet GP-9N
+      i: 8.5
     - rx:
         f: 145
       tx:
@@ -30,6 +32,8 @@ x:
         analogowym, podłączony do modemu HRI-200 z łączem do internetu 
 
         Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)          
+      a: Comet GP-9N
+      i: 8.5
 h:
   "49907060542":
     x:
@@ -37,7 +41,7 @@ h:
       - 2m: 1
     p: Drohobyczka-Dubiecko
     e: 405
-    g: 0
+    g: 20
     a: 49.885216
     o: 22.38942
 o:

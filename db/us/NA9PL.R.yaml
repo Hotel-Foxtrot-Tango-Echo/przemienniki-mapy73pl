@@ -18,13 +18,15 @@ x:
         - 31018
       j1:
         - 31018
+      a: nieznana
+      i: 9
 h:
   "42006076564":
     x:
       - 70cm: 0
     p: Arlington Heights, IL
     e: 0
-    g: 0
+    g: 20
     a: 42.094785
     o: -88.01936
 o:

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "58579020900":
     x:
       - 70cm: 0
     p: Norrköping
     e: 44
-    g: 0
+    g: 20
     a: 58.563
     o: 16.209
 o:

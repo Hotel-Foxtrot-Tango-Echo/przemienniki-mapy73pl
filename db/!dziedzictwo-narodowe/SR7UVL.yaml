@@ -15,6 +15,8 @@ x:
       d: |-
         -antena RADMOR 5/8
         - przemiennik pracuje z oryginalnym sterownikiem ID-RP2C firmy ICOM
+      a: Radmor 5/8
+      i: 3
     - tx:
         f: 439.45
       rx:
@@ -31,6 +33,8 @@ x:
         - 2607
       e2:
         - 26071
+      a: nieznana
+      i: 9
 h:
   "51800032696":
     x:
@@ -38,7 +42,7 @@ h:
       - 70cm: 1
     p: Łódź
     e: 275
-    g: 0
+    g: 20
     a: 51.780793
     o: 19.533964
 o:

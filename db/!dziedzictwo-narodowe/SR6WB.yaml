@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: Antena Diamond X-30 40 m n.p.g.
+      a: Diamond X-30
+      i: 5.5
 h:
   "50838099775":
     x:
       - 70cm: 0
     p: Wałbrzych
     e: 392
-    g: 0
+    g: 20
     a: 50.822722
     o: 16.275748
 o:

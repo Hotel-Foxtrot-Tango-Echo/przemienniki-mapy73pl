@@ -16,13 +16,15 @@ x:
         umiejscowienie 1782m npm.
         Echolink dziala poniedzialek piatek 14do21
         sobota miedziela i wolne dni 8do21
+      a: nieznana
+      i: 9
 h:
   "47784029167":
     x:
       - 70cm: 0
     p: SCHAFBERG
     e: 1317
-    g: 0
+    g: 20
     a: 47.77083
     o: 13.45833
 o:

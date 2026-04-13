@@ -17,6 +17,8 @@ x:
       d: FM - TX/RX CTCSS 162.2Hz
       e2:
         - 260999
+      a: nieznana
+      i: 9
     - rx:
         f: 430.9375
       tx:
@@ -30,6 +32,8 @@ x:
       d: DSTAR - XLX333A
       e2:
         - 260999
+      a: nieznana
+      i: 9
     - rx:
         f: 430.9375
         t:
@@ -45,6 +49,8 @@ x:
       d: DMR - TG 260999 CC9 TS2
       e2:
         - 260999
+      a: nieznana
+      i: 9
     - rx:
         f: 430.9375
       tx:
@@ -56,6 +62,8 @@ x:
       u:
         - https://www.facebook.com/sp9kgr
       d: "Fusion/C4FM: YSF:PL-GORLICE (76263)                              "
+      a: nieznana
+      i: 9
 h:
   "49685091439":
     x:

@@ -14,13 +14,15 @@ x:
       p: 3
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48199042581":
     x:
       - 70cm: 0
     p: Bratislava, Slavin
     e: 442
-    g: 0
+    g: 20
     a: 48.182331
     o: 17.094806
 o:

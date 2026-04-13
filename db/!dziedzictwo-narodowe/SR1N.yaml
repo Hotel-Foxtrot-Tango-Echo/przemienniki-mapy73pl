@@ -12,13 +12,15 @@ x:
       p: 10
       u: []
       d: X-510, dwie lokalizacje, link 70cm
+      a: Diamond X-510
+      i: 8.3
 h:
   "54218075751":
     x:
       - 2m: 0
     p: Koszalin
     e: 38
-    g: 0
+    g: 20
     a: 54.20258
     o: 16.177512
 o:

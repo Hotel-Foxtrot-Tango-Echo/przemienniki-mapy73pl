@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59017053259":
     x:
       - 70cm: 0
     p: Billingsfors
     e: 179
-    g: 0
+    g: 20
     a: 59.0053
     o: 12.23259
 o:

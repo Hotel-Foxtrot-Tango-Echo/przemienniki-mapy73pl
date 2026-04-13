@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "62198020830":
     x:
       - 2m: 0
     p: Mjøsa / Tronfjell
     e: 0
-    g: 0
+    g: 20
     a: 62.1875
     o: 10.7083
 o: []

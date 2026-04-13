@@ -15,13 +15,15 @@ x:
       u: []
       d: |
         Echolink : NODE SR9TG-R	213918 
+      a: nieznana
+      i: 6.5
 h:
   "50456037500":
     x:
       - 2m: 0
     p: Tarnowskie Góry
     e: 301
-    g: 0
+    g: 20
     a: 50.4375
     o: 18.875
 o:

@@ -11,13 +11,15 @@ x:
       u:
         - http://www.sk2hg.se
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "65909089478":
     x:
       - 2m: 0
     p: Kalix / Raggdynan
     e: 0
-    g: 0
+    g: 20
     a: 65.88707
     o: 22.82478
 o: []

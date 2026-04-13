@@ -17,6 +17,8 @@ x:
 
         Anteny: X-300 @180m RX, GP-98 @ 210m TX, 230m LDF-5 7/8, przemiennik
         YAESU DR-1XE + HRI-200 - Przemiennik działa w systemie WIRES-X
+      a: Diamond X-300
+      i: 9
 h:
   "53959057176":
     x:

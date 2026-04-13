@@ -12,6 +12,8 @@ x:
       p: 10
       u: []
       d: Przemiennik D-Star ,moduły Icom ID-RP2C, ID-RP4000V , antena Comet GP6 ,
+      a: Comet GP-6
+      i: 9
 h:
   "51427018855":
     x:

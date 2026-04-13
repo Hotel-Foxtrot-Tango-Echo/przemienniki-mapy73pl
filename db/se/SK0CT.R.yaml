@@ -11,6 +11,8 @@ x:
       u:
         - http://www.sk0ct.se/
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 432.95
       tx:
@@ -22,6 +24,8 @@ x:
       u:
         - http://www.sk0ct.se/
       d: ""
+      a: nieznana
+      i: 9
   23cm:
     - rx:
         f: 1291.025
@@ -36,6 +40,8 @@ x:
       u:
         - http://www.sk0ct.se/
       d: ""
+      a: nieznana
+      i: 11.7
   10m:
     - rx:
         f: 29.52
@@ -48,13 +54,15 @@ x:
       u:
         - http://www.sk0ct.se/
       d: ""
+      a: nieznana
+      i: 2.15
 h:
   "59422022630":
     x:
       - 70cm: 0
     p: Stockholm / Kista
     e: 33
-    g: 0
+    g: 20
     a: 59.40428
     o: 17.9463
   "59413075830":
@@ -62,7 +70,7 @@ h:
       - 70cm: 1
     p: Solna
     e: 28
-    g: 0
+    g: 20
     a: 59.3958
     o: 17.9583
   "59422071441":
@@ -78,7 +86,7 @@ h:
       - 10m: 0
     p: Solna
     e: 8
-    g: 0
+    g: 20
     a: 59.368879
     o: 18.008433
 o:

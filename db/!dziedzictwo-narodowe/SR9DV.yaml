@@ -15,6 +15,8 @@ x:
       d: |-
         Antena Diamond X510 
         Duplexer Kathrein
+      a: Diamond X-510
+      i: 11.7
     - rx:
         f: 430.725
       tx:
@@ -25,6 +27,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.725
         t:
@@ -37,6 +41,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.725
       tx:
@@ -47,6 +53,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50135098121":
     x:

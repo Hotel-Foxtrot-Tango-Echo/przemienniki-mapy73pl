@@ -16,6 +16,8 @@ x:
       d: |-
         YAESU DR-1X, antena DIAMOND X-510N,
         przemiennik pracuje w analogu.
+      a: Diamond X-510N
+      i: 11.7
     - rx:
         f: 430.65
       tx:
@@ -28,6 +30,8 @@ x:
       d: |-
         YAESU DR-1X, antena DIAMOND X-510N,
         przemiennik pracuje w sieci WIRES-X.          
+      a: Diamond X-510N
+      i: 11.7
 h:
   "51922088747":
     x:

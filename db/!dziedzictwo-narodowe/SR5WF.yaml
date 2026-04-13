@@ -15,6 +15,8 @@ x:
       d: |-
         Moduły: Icom ID-RP2C + ID-RP4000V
         Antena: Diamond X-7000
+      a: Diamond X-7000
+      i: 11.7
 h:
   "52268003091":
     x:

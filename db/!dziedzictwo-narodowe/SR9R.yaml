@@ -4,7 +4,7 @@ h:
     o: 18.553187
     p: Rybnik
     e: 223
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 439.0125
       rx:
         f: 431.4125
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR9R

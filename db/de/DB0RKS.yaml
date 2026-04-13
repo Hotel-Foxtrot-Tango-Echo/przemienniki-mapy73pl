@@ -16,13 +16,15 @@ x:
       u:
         - http://www.darc.de/der-club/distrikte/c/ortsverbaende/15/dboerks-70cm-relais/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48189021350":
     x:
       - 70cm: 0
     p: ""
     e: 405
-    g: 0
+    g: 20
     a: 48.176482
     o: 12.7315
 o: []

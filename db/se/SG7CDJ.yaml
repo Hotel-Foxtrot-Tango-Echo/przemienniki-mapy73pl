@@ -11,13 +11,15 @@ x:
       u:
         - https://brandmeister.network/?page=repeater&id=2407161
       d: ""
+      a: nieznana
+      i: 9
 h:
   "56320094970":
     x:
       - 70cm: 0
     p: Tving
     e: 62
-    g: 0
+    g: 20
     a: 56.30548
     o: 15.4697
 o: []

@@ -4,7 +4,7 @@ h:
     o: 18.26449
     p: Ostrava-Kubankov
     e: 659
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -31,6 +31,8 @@ x:
         - 230666
         - 2311
         - 2301
+      a: nieznana
+      i: 9
 o:
   - OK2ULQ
 page: https://mapy73.pl/repeater/OK0DSK

@@ -10,13 +10,15 @@ x:
       p: 3
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49224031047":
     x:
       - 70cm: 0
     p: Zlín-Malenovice
     e: 204
-    g: 0
+    g: 20
     a: 49.206723
     o: 17.587472
 o:

@@ -17,6 +17,8 @@ x:
         UWAGA: Przemiennik pracuje na zastępczej antenie
 
         Antena 2x5/8 kathrein , urządznie MTR 2000 , 34m 1/2 andrew
+      a: 2x5/8 collinear
+      i: 6.5
 h:
   "52289038269":
     x:

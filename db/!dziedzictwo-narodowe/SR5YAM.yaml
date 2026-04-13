@@ -12,6 +12,8 @@ x:
       d: |-
         EchoLink - stały link do przemiennika SR5PR.
         C4FM/Fusion na QRG 144.8375
+      a: nieznana
+      i: 9
     - rx:
         f: 430.5375
       tx:
@@ -22,6 +24,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "52166088929":
     x:

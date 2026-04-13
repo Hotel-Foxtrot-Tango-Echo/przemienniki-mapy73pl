@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: "Antena: Radmor 3284/3, 8dBd (10,15dBi)"
+      a: Radmor 3284/3
+      i: 10.15
 h:
   "51248029419":
     x:

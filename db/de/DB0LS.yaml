@@ -16,13 +16,15 @@ x:
         Aktywowanie: 1750Hz
         Aktywowanie CTCSS : 88.5
         Aktywowanie alternatywne: DTMF *
+      a: nieznana
+      i: 9
 h:
   "51534062500":
     x:
       - 70cm: 0
     p: Oberdorf von Lauchhammer OT Kostebrau Oberdorf von Lauchhammer OT Kostebrau
     e: 132
-    g: 0
+    g: 20
     a: 51.52083
     o: 13.79167
 o:

@@ -11,7 +11,7 @@ h:
     o: 19.032652
     p: Włocławek
     e: 58
-    g: 0
+    g: 20
     x: []
 x:
   2m:
@@ -23,6 +23,8 @@ x:
       s: "4"
       tx:
         f: 145.3375
+      a: nieznana
+      i: 6.5
   70cm:
     - h: "52691072565"
       u: []
@@ -34,6 +36,8 @@ x:
         f: 431.025
         t:
           - c: "100"
+      a: nieznana
+      i: 9
     - h: "52691072565"
       u: []
       d: ""
@@ -54,6 +58,8 @@ x:
         - 260073
         - 260206
         - 3109312
+      a: nieznana
+      i: 9
     - h: "52691072565"
       u: []
       d: Echolink id 519270
@@ -64,6 +70,8 @@ x:
         f: 431.025
         t:
           - c: "100"
+      a: nieznana
+      i: 9
 o:
   - SP2KW
 page: https://mapy73.pl/repeater/SR2KW

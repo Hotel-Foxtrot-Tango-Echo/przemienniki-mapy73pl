@@ -16,13 +16,15 @@ x:
       d: |-
         RX: Big-Star + BPF + GM-300
         TX: Big-Star + GM-300
+      a: nieznana
+      i: 6.5
 h:
   "53157028952":
     x:
       - 2m: 0
     p: Białystok
     e: 141
-    g: 0
+    g: 20
     a: 53.134117
     o: 23.172523
 o:

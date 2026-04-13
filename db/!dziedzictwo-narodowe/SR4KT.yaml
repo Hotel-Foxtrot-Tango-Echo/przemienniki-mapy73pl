@@ -17,13 +17,15 @@ x:
 
         Antena Diamond X200 około 130 mnpm Motorola MTR2000 z modułem DV na
         bazie MMDVM od Konrada SP4XKB.
+      a: Diamond X-200
+      i: 8
 h:
   "54102092045":
     x:
       - 70cm: 0
     p: Kętrzyn
     e: 110
-    g: 0
+    g: 20
     a: 54.08155
     o: 21.370446
 o:

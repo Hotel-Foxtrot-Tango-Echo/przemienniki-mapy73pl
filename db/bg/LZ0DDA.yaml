@@ -12,6 +12,8 @@ x:
         - http://www.dstar.bg/
         - http://www.repeaters.bg/
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.85
       tx:
@@ -23,6 +25,8 @@ x:
       u:
         - http://www.repeaters.bg/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "43156047373":
     x:

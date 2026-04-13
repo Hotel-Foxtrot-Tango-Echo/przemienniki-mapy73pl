@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59198077365":
     x:
       - 70cm: 0
     p: Vestfold / Jordstøyp
     e: 255
-    g: 0
+    g: 20
     a: 59.18882
     o: 9.95365
 o: []

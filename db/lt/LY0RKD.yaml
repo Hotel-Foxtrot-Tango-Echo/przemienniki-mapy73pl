@@ -4,7 +4,7 @@ h:
     o: 23.86487
     p: Kaunas
     e: 74
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "1"
       e2:
         - 24601
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LY0RKD

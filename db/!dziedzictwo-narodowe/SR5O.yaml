@@ -19,6 +19,8 @@ x:
 
         Przemiennik pracuje w trybie:
         Analog - Wide FM
+      a: Diamond X-510N
+      i: 8.3
     - rx:
         f: 145.075
       tx:
@@ -34,6 +36,8 @@ x:
 
         Przemiennik pracuje w trybie:
         Digital - C4FM          
+      a: Diamond X-510N
+      i: 8.3
     - tx:
         f: 145.675
       rx:
@@ -48,6 +52,8 @@ x:
       s: "4"
       e2:
         - 260525
+      a: nieznana
+      i: 6.5
 h:
   "53101071818":
     x:

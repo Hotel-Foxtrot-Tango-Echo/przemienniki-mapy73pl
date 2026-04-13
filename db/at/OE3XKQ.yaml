@@ -4,7 +4,7 @@ h:
     o: 15.579024
     p: Egelsee
     e: 362
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 23223
       e2:
         - 2323
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE3XKQ

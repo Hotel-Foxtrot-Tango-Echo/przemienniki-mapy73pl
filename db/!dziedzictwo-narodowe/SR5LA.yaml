@@ -4,7 +4,7 @@ h:
     o: 20.74681
     p: Moszna-Parcela
     e: 91
-    g: 0
+    g: 20
     x:
       - 23cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 1298.25
       rx:
         f: 1270.25
+      a: nieznana
+      i: 11.7
 o: []
 page: https://mapy73.pl/repeater/SR5LA

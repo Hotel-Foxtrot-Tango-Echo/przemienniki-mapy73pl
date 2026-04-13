@@ -4,7 +4,7 @@ h:
     o: 24.88
     p: Inciems  Siguldas Novads
     e: 114
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -25,5 +25,7 @@ x:
         - 2470
         - 24701
         - 24706
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YL3RQY

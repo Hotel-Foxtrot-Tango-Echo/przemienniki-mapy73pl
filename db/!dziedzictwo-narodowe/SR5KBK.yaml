@@ -4,7 +4,7 @@ h:
     o: 21.190544
     p: Kobyłka
     e: 92
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 438.65
       rx:
         f: 431.05
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR5KBK

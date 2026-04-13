@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: CCS 69222
+      a: nieznana
+      i: 9
 h:
   "59766017493":
     x:
       - 70cm: 0
     p: Varden, Drammen
     e: 266
-    g: 0
+    g: 20
     a: 59.75597
     o: 10.20493
 o: []

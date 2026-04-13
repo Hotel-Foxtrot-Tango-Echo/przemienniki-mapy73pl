@@ -4,7 +4,7 @@ h:
     o: 20.58947
     p: Krze Duze
     e: 161
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 70cm: 1
@@ -20,6 +20,8 @@ x:
         f: 439.25
       rx:
         f: 431.65
+      a: nieznana
+      i: 9
     - h: "52028000947"
       u: []
       d: ""
@@ -32,6 +34,8 @@ x:
         f: 431.65
         t:
           - f: "5"
+      a: nieznana
+      i: 9
 o:
   - SQ5FBI
 page: https://mapy73.pl/repeater/SR5ZQ

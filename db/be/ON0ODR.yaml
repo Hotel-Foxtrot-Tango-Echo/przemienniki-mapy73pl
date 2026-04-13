@@ -14,13 +14,15 @@ x:
       p: 25
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50816012500":
     x:
       - 70cm: 0
     p: Oudenaarde
     e: 33
-    g: 0
+    g: 20
     a: 50.8125
     o: 3.625
 o: []

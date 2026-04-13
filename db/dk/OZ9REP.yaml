@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "57062081740":
     x:
       - 70cm: 0
     p: Aalborg city
     e: 2
-    g: 0
+    g: 20
     a: 57.0529
     o: 9.9174
 o: []

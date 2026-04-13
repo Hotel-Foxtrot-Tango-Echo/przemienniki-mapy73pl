@@ -15,13 +15,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "45775073456":
     x:
       - 2m: 0
     p: Trdinov Vrh
     e: 1168
-    g: 0
+    g: 20
     a: 45.760415
     o: 15.319562
 o:

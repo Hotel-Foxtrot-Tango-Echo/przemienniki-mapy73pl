@@ -16,6 +16,8 @@ x:
         RX: Motorola GM950
         Duplexer: K&L 6CU-00066
         Ant: Diamond X300N
+      a: Diamond X-300N
+      i: 9
     - rx:
         f: 430.6875
         t:
@@ -48,6 +50,8 @@ x:
         - 26034
         - 26037
         - 260003
+      a: Diamond X-300N
+      i: 9
     - rx:
         f: 430.6875
       tx:
@@ -71,6 +75,8 @@ x:
 
         C4FM (YSF PL POLAND) - Możliwość zmiany room-ów poprzez zastosowanie
         WIRES-X      
+      a: Diamond X-300N
+      i: 9
 h:
   "51677053578":
     x:

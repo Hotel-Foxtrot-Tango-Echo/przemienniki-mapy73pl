@@ -4,7 +4,7 @@ h:
     o: 21.627501
     p: Debrecen
     e: 127
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
         - 2169112
       e2:
         - 216803
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG0RUD

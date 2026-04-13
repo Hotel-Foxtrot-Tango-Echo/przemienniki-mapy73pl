@@ -12,6 +12,8 @@ x:
       p: 15
       u: []
       d: Motorola MTR2000, płytka SP4XKB, Diamond X-300
+      a: Diamond X-300
+      i: 9
     - rx:
         f: 430.9625
         t:
@@ -24,6 +26,8 @@ x:
       p: 15
       u: []
       d: Motorola MTR2000, płytka SP4XKB, Diamond X-300
+      a: Diamond X-300
+      i: 9
 h:
   "50501020277":
     x:

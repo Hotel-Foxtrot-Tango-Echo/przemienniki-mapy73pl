@@ -10,6 +10,8 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.9125
         t:
@@ -27,6 +29,8 @@ x:
       e2:
         - 26081
         - 26093
+      a: nieznana
+      i: 9
     - rx:
         f: 430.9125
       tx:
@@ -37,6 +41,8 @@ x:
       p: 10
       u: []
       d: C4FM - pracuje w sieci YSF. Reflektor PL SR8UWD
+      a: nieznana
+      i: 9
 h:
   "51581063171":
     x:

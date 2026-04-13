@@ -4,7 +4,7 @@ h:
     o: 19.26041
     p: Dolny Kubin
     e: 1021
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -28,6 +28,8 @@ x:
         - 23112
         - 23173
         - 231001
+      a: nieznana
+      i: 9
 o:
   - OM6AXE
 page: https://mapy73.pl/repeater/OM0OAD

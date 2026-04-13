@@ -4,7 +4,7 @@ h:
     o: 19.936856
     p: Kraków
     e: 211
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 439.06
       rx:
         f: 431.46
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/SR9KRK

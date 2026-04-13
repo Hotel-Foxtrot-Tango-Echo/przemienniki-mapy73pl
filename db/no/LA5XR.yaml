@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "63406009170":
     x:
       - 70cm: 0
     p: Trondheim / Gråkallen
     e: 0
-    g: 0
+    g: 20
     a: 63.3958
     o: 10.2917
 o: []

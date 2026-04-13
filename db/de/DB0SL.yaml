@@ -16,6 +16,8 @@ x:
       u:
         - http://www.darc.de/distrikte/u/07/relais-db0sl/
       d: ""
+      a: nieznana
+      i: 6.5
   70cm:
     - rx:
         f: 431.45
@@ -32,6 +34,8 @@ x:
       u:
         - https://www.darc.de/distrikte/u/07/relais-db0sl/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48867024170":
     x:
@@ -39,7 +43,7 @@ h:
       - 70cm: 0
     p: Greising
     e: 626
-    g: 0
+    g: 20
     a: 48.8542
     o: 13.0417
 o: []

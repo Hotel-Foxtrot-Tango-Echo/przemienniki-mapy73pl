@@ -4,7 +4,7 @@ h:
     o: 149.924474
     p: Tura Beach
     e: 0
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -23,5 +23,7 @@ x:
           - f: "1"
       e2:
         - 505030
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK2RCM

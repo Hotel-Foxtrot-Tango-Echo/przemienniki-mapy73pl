@@ -4,7 +4,7 @@ h:
     o: 21.805316
     p: Veles
     e: 547
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 29413
         - 29444
         - 2941
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/Z35USI

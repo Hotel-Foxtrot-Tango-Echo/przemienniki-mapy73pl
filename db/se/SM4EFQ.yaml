@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "59740021283":
     x:
       - 2m: 0
     p: Filipstad / Storhöjden
     e: 206
-    g: 0
+    g: 20
     a: 59.72603
     o: 14.18283
 o:

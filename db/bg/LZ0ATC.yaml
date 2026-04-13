@@ -4,7 +4,7 @@ h:
     o: 23.367001
     p: Sofia
     e: 562
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -31,5 +31,7 @@ x:
         - 2847
       e2:
         - 284359
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0ATC

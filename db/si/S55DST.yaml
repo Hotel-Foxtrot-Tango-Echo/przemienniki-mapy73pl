@@ -18,13 +18,15 @@ x:
         - 293112
       e2:
         - 2937
+      a: nieznana
+      i: 9
 h:
   "45898003489":
     x:
       - 70cm: 0
     p: Vinji vrh (Šmarješke Toplice)
     e: 331
-    g: 0
+    g: 20
     a: 45.88275
     o: 15.284886
 o:

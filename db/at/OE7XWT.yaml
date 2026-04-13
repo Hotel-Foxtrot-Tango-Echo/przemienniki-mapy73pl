@@ -4,7 +4,7 @@ h:
     o: 12.20946
     p: Weinbergerhaus KU
     e: 1265
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -29,5 +29,7 @@ x:
         - 232805
         - 2322
         - 2327
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE7XWT

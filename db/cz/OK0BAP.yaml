@@ -15,13 +15,15 @@ x:
       u:
         - http://www.ok0bap.estranky.cz
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49904017489":
     x:
       - 70cm: 0
     p: Litomyšl - Libecina
     e: 485
-    g: 0
+    g: 20
     a: 49.888056
     o: 16.118889
 o:

@@ -14,13 +14,15 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51483045833":
     x:
       - 70cm: 0
     p: Bergen op Zoom
     e: 0
-    g: 0
+    g: 20
     a: 51.47917
     o: 4.29167
 o: []

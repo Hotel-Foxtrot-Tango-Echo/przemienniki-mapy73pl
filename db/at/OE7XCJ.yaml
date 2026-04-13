@@ -4,7 +4,7 @@ h:
     o: 11.398905
     p: Innsbruck
     e: 585
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -32,5 +32,7 @@ x:
         - 23279
         - 23277
         - 23206
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE7XCJ

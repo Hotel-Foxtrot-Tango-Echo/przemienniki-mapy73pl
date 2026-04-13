@@ -4,7 +4,7 @@ h:
     o: 19.533964
     p: Lodz
     e: 275
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 70cm: 1
@@ -20,6 +20,8 @@ x:
         f: 439.5
       rx:
         f: 431.9
+      a: nieznana
+      i: 9
     - h: "51800032696"
       u: []
       d: ""
@@ -34,6 +36,8 @@ x:
           - f: "1"
       e1:
         - 2607
+      a: nieznana
+      i: 9
 o:
   - SQ7SCC
 page: https://mapy73.pl/repeater/SR7LDX

@@ -17,6 +17,8 @@ x:
       d: |-
         AntenaComet F72GFL gain 5.5dBi
         Pomiar sygnału RSSI - załącz nośną na 3 sek i naciśnij * DTMF
+      a: Comet F72GFL
+      i: 5.5
 h:
   "50859021010":
     x:

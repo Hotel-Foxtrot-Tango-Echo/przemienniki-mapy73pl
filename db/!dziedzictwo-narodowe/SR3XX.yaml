@@ -14,6 +14,8 @@ x:
       p: 15
       u: []
       d: "Diamond X-200 / 10m kabla / duplekser separacja -120dB "
+      a: Diamond X-200
+      i: 8
     - rx:
         f: 431.425
       tx:
@@ -26,6 +28,8 @@ x:
       d: |-
         Diamond X-200 / 10m kabla / duplekser separacja -120dB 
         C4FM FUSION WIRES-X          
+      a: Diamond X-200
+      i: 8
 h:
   "52476006193":
     x:
@@ -33,7 +37,7 @@ h:
       - 70cm: 1
     p: Poznań
     e: 106
-    g: 0
+    g: 20
     a: 52.459156
     o: 16.905933
 o:

@@ -16,6 +16,8 @@ x:
         TRX: TXU-1256
         ANTENA 3X5/8
         ECHOLINK node 768315
+      a: 3x5/8 collinear
+      i: 8
 h:
   "49793059704":
     x:

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59996062500":
     x:
       - 70cm: 0
     p: Uppsala / Fjuckby
     e: 36
-    g: 0
+    g: 20
     a: 59.979
     o: 17.625
 o: []

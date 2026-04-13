@@ -10,6 +10,8 @@ x:
       p: 15
       u: []
       d: Antena Diamond X200
+      a: Diamond X-200
+      i: 8
     - rx:
         f: 430.925
         t:
@@ -28,6 +30,8 @@ x:
       e2:
         - 26071
         - 26077
+      a: Diamond X-200
+      i: 8
 h:
   "51278013612":
     x:

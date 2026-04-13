@@ -17,6 +17,8 @@ x:
       d: |-
         Antena kolinearna 8x1/2
         Otwieranie CTCSS 103,5Hz, alternatywnie tonem 1750Hz
+      a: 8x1/2 collinear
+      i: 11.5
 h:
   "49905026747":
     x:

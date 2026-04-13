@@ -14,6 +14,8 @@ x:
       u: []
       d: CTCSS crossband 74,4Hz Częstotliwość crossband również przeznaczona do
         nawiązywania łączności przez przemiennik Moc wyjściowa na 2m - 12W .
+      a: nieznana
+      i: 9
     - rx:
         f: 431.35
         t:
@@ -28,6 +30,8 @@ x:
       p: 15
       u: []
       d: Na przemienniku uruchomiony komunikator Zello
+      a: nieznana
+      i: 9
   2m:
     - tx:
         f: 144.775
@@ -37,6 +41,8 @@ x:
       p: 12
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "51866066518":
     x:

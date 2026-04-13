@@ -13,13 +13,15 @@ x:
       u:
         - http://www.kpgk.pl
       d: MMDVM; DMR Id 260913 ; CC9
+      a: nieznana
+      i: 9
 h:
   "50134093334":
     x:
       - 70cm: 0
     p: Kochanów
     e: 248
-    g: 0
+    g: 20
     a: 50.115185
     o: 19.748343
 o:

@@ -14,13 +14,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "51024087500":
     x:
       - 70cm: 0
     p: Dendermonde
     e: 3
-    g: 0
+    g: 20
     a: 51.02083
     o: 4.04167
 o: []

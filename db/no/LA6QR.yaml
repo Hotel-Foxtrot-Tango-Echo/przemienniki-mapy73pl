@@ -13,13 +13,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59359049167":
     x:
       - 70cm: 0
     p: Haugesund / Karmøy
     e: 19
-    g: 0
+    g: 20
     a: 59.3542
     o: 5.29167
 o: []

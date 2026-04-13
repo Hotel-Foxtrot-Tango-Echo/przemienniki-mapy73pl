@@ -4,7 +4,7 @@ h:
     o: 21.969101
     p: Oradea
     e: 230
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -26,5 +26,7 @@ x:
       e2:
         - 226555
         - 226
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO5X

@@ -14,6 +14,8 @@ x:
       p: 10
       u: []
       d: "antena: COMET GP1M"
+      a: Comet GP-1M
+      i: 6
   23cm:
     - rx:
         f: 1270.15
@@ -27,6 +29,8 @@ x:
       p: 6.5
       u: []
       d: antena Diamond VX4000
+      a: Diamond VX4000
+      i: 11.7
 h:
   "49438075958":
     x:

@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "69747099170":
     x:
       - 70cm: 0
     p: Nordfjellet / Tromsø
     e: 0
-    g: 0
+    g: 20
     a: 69.7292
     o: 18.7917
 o: []

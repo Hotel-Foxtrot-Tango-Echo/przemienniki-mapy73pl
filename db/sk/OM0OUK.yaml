@@ -11,13 +11,15 @@ x:
       u:
         - https://mhz.sk/om0ouk/
       d: ""
+      a: nieznana
+      i: 9
 h:
   "48799046201":
     x:
       - 70cm: 0
     p: Kojšovská hoľa
     e: 1223
-    g: 0
+    g: 20
     a: 48.778489
     o: 20.973008
 o:

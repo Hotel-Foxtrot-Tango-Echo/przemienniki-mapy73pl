@@ -4,7 +4,7 @@ h:
     o: 26.835019
     p: Bacau
     e: 262
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 9800
         - 2263
         - 22610
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO3DSG

@@ -4,7 +4,7 @@ h:
     o: 18.04092
     p: Piechcin
     e: 95
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 2m: 0
@@ -20,6 +20,8 @@ x:
         f: 438.8125
       rx:
         f: 431.2125
+      a: nieznana
+      i: 9
   2m:
     - h: "52844008092"
       u: []
@@ -31,5 +33,7 @@ x:
         f: 145.7
       rx:
         f: 145.1
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR2PP

@@ -10,13 +10,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "63738099167":
     x:
       - 2m: 0
     p: Fosen / Ruasetfjellet
     e: 0
-    g: 0
+    g: 20
     a: 63.7292
     o: 9.79167
 o: []

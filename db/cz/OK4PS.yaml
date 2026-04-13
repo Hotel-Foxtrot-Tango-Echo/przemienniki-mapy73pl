@@ -11,13 +11,15 @@ x:
       u:
         - http://www.ok4ps.cz
       d: ""
+      a: nieznana
+      i: 9
 h:
   "49322036972":
     x:
       - 70cm: 0
     p: Kroměříž
     e: 250
-    g: 0
+    g: 20
     a: 49.305
     o: 17.369722
 o:

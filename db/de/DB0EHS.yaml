@@ -12,6 +12,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.375
       tx:
@@ -22,6 +24,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 430.375
       tx:
@@ -32,6 +36,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
   2m:
     - rx:
         f: 144.85
@@ -45,6 +51,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 6.5
 h:
   "52159097478":
     x:

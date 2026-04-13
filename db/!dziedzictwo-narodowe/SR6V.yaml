@@ -4,7 +4,7 @@ h:
     o: 16.485556
     p: Wielka Sowa
     e: 1015
-    g: 0
+    g: 20
     x:
       - 2m: 0
 x:
@@ -19,5 +19,7 @@ x:
         f: 145.7625
       rx:
         f: 145.1625
+      a: nieznana
+      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/SR6V

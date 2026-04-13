@@ -13,6 +13,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
     - h: "46185027577"
       u: []
       d: ""
@@ -30,6 +32,8 @@ x:
         - 293112
       e2:
         - 29313
+      a: nieznana
+      i: 9
 h:
   "46185027577":
     x:
@@ -37,7 +41,7 @@ h:
       - 70cm: 1
     p: Sv. Planina (Trbovlje)
     e: 608
-    g: 0
+    g: 20
     a: 46.170265
     o: 15.010768
 o:

@@ -4,7 +4,7 @@ h:
     o: 15
     p: Oberaich
     e: 908
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -79,5 +79,7 @@ x:
         - 26223
         - 23298
         - 262
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE6XIG

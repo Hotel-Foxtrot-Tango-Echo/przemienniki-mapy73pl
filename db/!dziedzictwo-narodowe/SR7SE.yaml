@@ -4,7 +4,7 @@ h:
     o: 20.458081
     p: Micigózd
     e: 268
-    g: 0
+    g: 20
     x:
       - 70cm: 0
       - 70cm: 1
@@ -21,6 +21,8 @@ x:
         f: 439.375
       rx:
         f: 431.775
+      a: nieznana
+      i: 9
     - h: "50919084008"
       u:
         - https://patronite.pl/app/fundraise/2D9VMRgjEWB
@@ -32,6 +34,8 @@ x:
         f: 432.5
       rx:
         f: 431.5
+      a: nieznana
+      i: 9
 o:
   - SQ7SE
 page: https://mapy73.pl/repeater/SR7SE

@@ -19,6 +19,8 @@ x:
         Radio: MTR2000 
         Antena: RADMOR 
         UWAGA: FM-Narrow
+      a: nieznana
+      i: 9
     - tx:
         f: 438.35
       rx:
@@ -31,6 +33,8 @@ x:
       p: 10
       t: e
       s: "5"
+      a: nieznana
+      i: 9
     - tx:
         f: 438.35
       rx:
@@ -41,6 +45,8 @@ x:
       p: 10
       t: b
       s: "4"
+      a: nieznana
+      i: 9
 h:
   "51793054291":
     x:

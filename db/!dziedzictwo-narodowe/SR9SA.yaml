@@ -17,6 +17,8 @@ x:
         przemiennik dostepny z CTCSS 67Hz. Dwukierunkowa retransmisja z i na
         145.250MHz będzie załączana na żądanie przy użyciu 1750Hz bądź innego
         wywołania selektywnego.
+      a: nieznana
+      i: 9
 h:
   "49779043332":
     x:

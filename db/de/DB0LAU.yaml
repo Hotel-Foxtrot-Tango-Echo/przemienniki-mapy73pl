@@ -15,6 +15,8 @@ x:
       u:
         - https://www.darc.de/distrikte/s/24/lausche-relais-db0lau/
       d: ""
+      a: nieznana
+      i: 9
     - rx:
         f: 431.5
       tx:
@@ -25,6 +27,8 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "50863084153":
     x:

@@ -4,7 +4,7 @@ h:
     o: 6.025579
     p: Kerkrade
     e: 151
-    g: 0
+    g: 20
     x:
       - 70cm: 0
 x:
@@ -27,5 +27,7 @@ x:
         - 20492
         - 91665
         - 20431
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/PI1KRD

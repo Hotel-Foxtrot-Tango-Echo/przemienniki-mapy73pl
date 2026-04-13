@@ -21,6 +21,8 @@ x:
         CTCSS nadajnika:67.0 Hz
         Szerokość : WIDE
         Antena Radmor 3284/3
+      a: Radmor 3284/3
+      i: 10.15
     - rx:
         f: 430.8625
         t:
@@ -73,6 +75,8 @@ x:
         - 26045
         - 2600
         - 91
+      a: Radmor 3284/3
+      i: 10.15
 h:
   "53038067722":
     x:

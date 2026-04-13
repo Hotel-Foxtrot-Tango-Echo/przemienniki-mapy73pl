@@ -13,13 +13,15 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
 h:
   "45542039396":
     x:
       - 70cm: 0
     p: Grmada
     e: 671
-    g: 0
+    g: 20
     a: 45.528245
     o: 14.14896
 o:

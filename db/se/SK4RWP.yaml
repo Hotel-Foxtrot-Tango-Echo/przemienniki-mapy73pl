@@ -12,13 +12,15 @@ x:
       p: 0
       u: []
       d: ""
+      a: nieznana
+      i: 9
 h:
   "59326054170":
     x:
       - 70cm: 0
     p: Kristinehamn
     e: 58
-    g: 0
+    g: 20
     a: 59.3125
     o: 14.0417
 o: []

@@ -13,6 +13,8 @@ x:
       u:
         - http://hf.radom.pl
       d: Antena Diamond X-50, 2x Motorola GM340 + RPi + MMDVM
+      a: Diamond X-50
+      i: 7.2
 h:
   "51443007681":
     x:
