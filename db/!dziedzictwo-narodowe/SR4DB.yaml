@@ -1,0 +1,25 @@
+h:
+  "53677078751":
+    a: 53.654439
+    o: 23.34851
+    p: Dąbrowa Białostocka
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "53677078751"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 438.7
+      rx:
+        f: 431.1
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR4DB

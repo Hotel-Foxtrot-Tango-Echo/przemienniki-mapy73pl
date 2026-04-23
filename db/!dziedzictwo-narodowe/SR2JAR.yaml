@@ -1,0 +1,36 @@
+r:
+  - - 70cm: 0
+    - 2m: 0
+h:
+  "53139096525":
+    a: 53.121965
+    o: 18.000253
+    p: Bydgoszcz
+    e: 0
+    g: 0
+    x: []
+x:
+  70cm:
+    - h: "53139096525"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      rx:
+        f: 432.65
+      a: nieznana
+      i: 9
+  2m:
+    - h: "53139096525"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 144.65
+      a: nieznana
+      i: 6.5
+o: []
+page: https://mapy73.pl/repeater/SR2JAR

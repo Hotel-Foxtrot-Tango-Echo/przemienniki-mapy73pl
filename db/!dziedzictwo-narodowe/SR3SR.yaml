@@ -1,0 +1,25 @@
+h:
+  "52154037075":
+    a: 52.137062
+    o: 17.308746
+    p: Sulęcinek
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52154037075"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 439.1
+      rx:
+        f: 431.5
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR3SR

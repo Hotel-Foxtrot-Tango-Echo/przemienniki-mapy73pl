@@ -1,0 +1,25 @@
+h:
+  "50450035425":
+    a: 50.433712
+    o: 16.642246
+    p: Kłodzko
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50450035425"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 439.475
+      rx:
+        f: 431.875
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR6DKL
