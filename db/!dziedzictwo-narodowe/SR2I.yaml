@@ -1,0 +1,30 @@
+x:
+  70cm:
+    - rx:
+        f: 431.0625
+        t:
+          - c: "67.0"
+      tx:
+        f: 438.6625
+        t:
+          - c: "67.0"
+      h: "52826032085"
+      t: a
+      s: "4"
+      p: 15
+      u: []
+      d: ""
+      a: nieznana
+      i: 9
+h:
+  "52826032085":
+    x:
+      - 70cm: 0
+    p: Inowrocław
+    e: 87
+    g: 80
+    a: 52.808075
+    o: 18.245849
+o:
+  - SQ2FRG
+page: https://mapy73.pl/repeater/SR2I
