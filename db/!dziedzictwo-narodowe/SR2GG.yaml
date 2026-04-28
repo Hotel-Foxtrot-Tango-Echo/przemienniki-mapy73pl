@@ -1,14 +1,28 @@
 x:
   70cm:
     - rx:
-        f: 430.5
+        f: 431.5375
+        t:
+          - c: "74.4"
+      tx:
+        f: 439.1375
+      h: "53035035090"
+      t: a
+      s: "4"
+      p: 15
+      u: []
+      d: Kujawsko-Pomorska Sieć Radiowa
+      a: nieznana
+      i: 9
+    - rx:
+        f: 431.7375
         t:
           - f: "12"
       tx:
-        f: 439.9
+        f: 439.3375
       h: "53035035090"
       t: e
-      s: "6"
+      s: "4"
       p: 15
       u: []
       d: ""
@@ -18,13 +32,43 @@ x:
         - 26029
       a: nieznana
       i: 9
+    - rx:
+        f: 439.4
+      tx:
+        f: 439.9
+      h: "53035035090"
+      t: b
+      s: "4"
+      p: 15
+      u: []
+      d: ""
+      a: nieznana
+      i: 9
+  2m:
+    - rx:
+        f: 145.15
+      tx:
+        f: 145.75
+        t:
+          - c: "74.4"
+      h: "53035035090"
+      t: a
+      s: "4"
+      p: 10
+      u: []
+      d: Kujawsko-Pomorska Sieć Radiowa
+      a: nieznana
+      i: 6.5
 h:
   "53035035090":
     x:
       - 70cm: 0
+      - 70cm: 1
+      - 70cm: 2
+      - 2m: 0
     p: Szubin
     e: 119
-    g: 119
+    g: 20
     a: 53.0176
     o: 17.7509
 o:
