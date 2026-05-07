@@ -21,10 +21,10 @@ x:
         f: 431.8
         t:
           - f: "1"
-      e2:
-        - 24601
       a: nieznana
       i: 9
+      e2:
+        - 24601
 o:
   - LY6L
 page: https://mapy73.pl/repeater/LY0RBA
