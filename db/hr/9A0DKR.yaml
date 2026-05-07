@@ -21,6 +21,8 @@ x:
         f: 431.55
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 219
         - 219112
@@ -29,7 +31,5 @@ x:
         - 219014
         - 21998
         - 2190
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DKR

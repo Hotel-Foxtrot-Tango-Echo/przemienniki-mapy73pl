@@ -21,12 +21,12 @@ x:
         f: 430.8625
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 219
       e2:
         - 21966
         - 219999
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DDS

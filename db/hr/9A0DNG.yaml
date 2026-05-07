@@ -21,13 +21,13 @@ x:
         f: 431.2
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 219
       e2:
         - 2193
         - 219021
         - 219112
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/9A0DNG
