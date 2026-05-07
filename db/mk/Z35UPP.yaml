@@ -14,20 +14,20 @@ x:
       d: ""
       p: 1
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.65
       rx:
         f: 431.05
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 294
       e2:
         - 2948
         - 29430
         - 2949
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/Z35UPP

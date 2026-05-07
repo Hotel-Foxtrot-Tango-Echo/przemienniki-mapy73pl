@@ -21,12 +21,12 @@ x:
         f: 433
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 294
       e2:
         - 2949
         - 29499
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/Z35USR

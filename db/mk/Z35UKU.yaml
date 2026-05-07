@@ -14,18 +14,18 @@ x:
       d: ""
       p: 20
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 434.6125
       rx:
         f: 433.0125
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 294
       e2:
         - 2947
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/Z35UKU
