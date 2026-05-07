@@ -21,12 +21,12 @@ x:
         f: 430.8
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e2:
         - 2806
         - 2802
         - 2805
         - 280
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/5B4CY
