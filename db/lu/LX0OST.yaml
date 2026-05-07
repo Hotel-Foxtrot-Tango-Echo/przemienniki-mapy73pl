@@ -21,6 +21,8 @@ x:
         f: 430.4125
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 270
         - 2707
@@ -32,7 +34,5 @@ x:
         - 27079
         - 2709112
         - 9112
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LX0OST

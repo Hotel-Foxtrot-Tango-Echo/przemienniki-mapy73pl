@@ -21,6 +21,8 @@ x:
         f: 145.1875
         t:
           - f: "1"
+      a: nieznana
+      i: 6.5
       e1:
         - 2701
         - 9112
@@ -28,7 +30,5 @@ x:
       e2:
         - 27058
         - 270102
-      a: nieznana
-      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/LX0DRR

@@ -21,6 +21,8 @@ x:
         f: 431.0875
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 270
         - 2707
@@ -32,7 +34,5 @@ x:
         - 27079
         - 9112
         - 2709112
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LX0NSR

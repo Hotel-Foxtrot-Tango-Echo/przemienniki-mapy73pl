@@ -21,15 +21,14 @@ x:
         f: 431.15
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 2701
         - 9112
         - 2709112
-        - 26258
       e2:
         - 27058
         - 270100
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LX0RU
