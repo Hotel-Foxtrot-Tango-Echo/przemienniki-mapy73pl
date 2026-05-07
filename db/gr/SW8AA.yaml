@@ -21,12 +21,12 @@ x:
         f: 431.7875
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 202
       e2:
         - 2028
         - 20282
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/SW8AA

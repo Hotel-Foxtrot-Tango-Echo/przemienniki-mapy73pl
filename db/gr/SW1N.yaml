@@ -21,11 +21,11 @@ x:
         f: 431.7
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 202
       e2:
         - 2021
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/SW1N

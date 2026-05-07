@@ -14,19 +14,19 @@ x:
       d: ""
       p: 99
       t: e
-      s: "5"
+      s: "4"
       tx:
         f: 438.975
       rx:
         f: 431.375
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 202
       e2:
         - 2024
         - 20241
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/SV4Q

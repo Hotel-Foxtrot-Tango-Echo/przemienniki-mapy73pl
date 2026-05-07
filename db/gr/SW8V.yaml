@@ -21,13 +21,13 @@ x:
         f: 431.825
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 202
       e2:
         - 20281
         - 2021
         - 2023
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/SW8V
