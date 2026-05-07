@@ -19,15 +19,10 @@ x:
         Domyślna grupa: 26081 Małopolska
 
         Antena: Diamond X-300
-      j0:
-        - 26081
       j1:
-        - 112
+        - 2600
         - 26081
-        - 260811
-        - 260812
-        - 260891
-        - 260892
+        - 260899
       a: Diamond X-300
       i: 9
 h:

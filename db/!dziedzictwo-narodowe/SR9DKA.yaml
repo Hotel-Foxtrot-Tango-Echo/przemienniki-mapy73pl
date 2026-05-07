@@ -12,12 +12,12 @@ x:
       p: 15
       u: []
       d: CC1
+      a: nieznana
+      i: 9
       e1:
         - 260
       e2:
         - 260970
-      a: nieznana
-      i: 9
 h:
   "50317020803":
     x:

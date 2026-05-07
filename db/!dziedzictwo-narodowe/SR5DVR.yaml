@@ -16,14 +16,14 @@ x:
         TS2 statycznie TG26057 TG260015
         CC5
         Antena GP-6 na 80m nad gruntem na maszcie RON Radom Emitel.
+      a: Comet GP-6N
+      i: 9
       e1:
         - 260
         - 2605
       e2:
         - 26057
         - 260015
-      a: Comet GP-6N
-      i: 9
 h:
   "51429037753":
     x:

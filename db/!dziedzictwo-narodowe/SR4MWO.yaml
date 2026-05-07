@@ -62,10 +62,12 @@ x:
         TG statyczna TS1: TG2604-->12604-9 
         TG statyczna TS2: TG26041-->126041, TG26042-->126042, TG260460 
         TG9 TS2 do łączności lokalnych 
-      e1:
-        - 2604
       a: nieznana
       i: 9
+      e1:
+        - 2604
+      e2:
+        - 26035
     - rx:
         f: 430.55
       tx:

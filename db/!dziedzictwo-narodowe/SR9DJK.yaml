@@ -16,12 +16,12 @@ x:
         Wysokość nad poziomem gruntu: 	20 m 
         Lokalizacja: 	50,5 N, 19,4 E
         kolor code 1
+      a: nieznana
+      i: 9
       e1:
         - 260
       e2:
         - 260950
-      a: nieznana
-      i: 9
 h:
   "50598095552":
     x:

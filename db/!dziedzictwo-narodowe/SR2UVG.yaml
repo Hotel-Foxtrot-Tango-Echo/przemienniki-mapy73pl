@@ -35,6 +35,8 @@ x:
 
 
         3. Przemiennik osiągalny z ręki mocą 1 wata z Juraty (JO94CB).
+      a: nieznana
+      i: 9
       e1:
         - 260
         - 2602
@@ -42,9 +44,6 @@ x:
         - 26021
         - 260015
         - 26026
-        - 26028
-      a: nieznana
-      i: 9
 h:
   "54471018895":
     x:

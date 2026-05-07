@@ -13,14 +13,14 @@ x:
       u:
         - https://brandmeister.network/
       d: Sirio SO 437N
+      a: nieznana
+      i: 9
       e1:
         - 2603
         - 2602
         - 260
       e2:
         - 26031
-      a: nieznana
-      i: 9
 h:
   "51861002503":
     x:

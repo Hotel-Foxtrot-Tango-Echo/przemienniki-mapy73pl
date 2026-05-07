@@ -13,6 +13,8 @@ x:
       u:
         - http://www.kpgk.pl
       d: "Hytera RD625; DMRId: 260912 CC: 9"
+      a: nieznana
+      i: 9
       e1:
         - 2609
         - 260
@@ -20,8 +22,6 @@ x:
         - 26093
         - 260015
         - 26094
-      a: nieznana
-      i: 9
 h:
   "49978073800":
     x:

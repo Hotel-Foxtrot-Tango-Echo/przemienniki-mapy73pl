@@ -65,6 +65,8 @@ x:
         TG 260099 GPS/RRS/APRS.
 
         260097 Echo (NOTICE: private call, not a TG)
+      a: Radmor 3284/3
+      i: 10.15
       e1:
         - 260015
         - 260
@@ -74,9 +76,7 @@ x:
         - 260454
         - 26045
         - 2600
-        - 91
-      a: Radmor 3284/3
-      i: 10.15
+        - 26077
 h:
   "53038067722":
     x:

@@ -1,0 +1,34 @@
+h:
+  "52939036723":
+    a: 52.916828
+    o: 22.53923
+    p: Brzoski Falki
+    e: 0
+    g: 0
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52939036723"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      tx:
+        f: 438.8
+      rx:
+        f: 431.2
+        t:
+          - f: "4"
+      a: nieznana
+      i: 9
+      e1:
+        - 260
+      e2:
+        - 26043
+        - 2604
+o:
+  - SP4SB
+  - SQ4KBD
+page: https://mapy73.pl/repeater/SR4BF

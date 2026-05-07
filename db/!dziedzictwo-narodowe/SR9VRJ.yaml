@@ -13,14 +13,14 @@ x:
       u:
         - http://www.kpgk.pl
       d: DMRId-260917 CC:9
+      a: nieznana
+      i: 9
       e1:
         - 260
-        - 2609
       e2:
         - 260917
         - 26093
-      a: nieznana
-      i: 9
+        - 2609
 h:
   "49327089523":
     x:

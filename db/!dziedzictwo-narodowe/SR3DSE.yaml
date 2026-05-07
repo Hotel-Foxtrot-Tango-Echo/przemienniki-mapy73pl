@@ -12,13 +12,13 @@ x:
       p: 10
       u: []
       d: CC1, Hytera RD625
+      a: nieznana
+      i: 9
       e1:
         - 260
         - 2603
       e2:
         - 26031
-      a: nieznana
-      i: 9
 h:
   "52103017802":
     x:

@@ -21,6 +21,8 @@ x:
         f: 430.95
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 260
       e2:
@@ -28,8 +30,6 @@ x:
         - 26066
         - 26068
         - 5026066
-      a: nieznana
-      i: 9
 o:
   - SQ6SFT
 page: https://mapy73.pl/repeater/SR6T

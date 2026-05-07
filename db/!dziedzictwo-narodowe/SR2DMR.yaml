@@ -13,11 +13,13 @@ x:
       u:
         - https://www.facebook.com/profile.php?id=100064510003135
       d: CC2
+      a: nieznana
+      i: 9
+      e1:
+        - 260
       e2:
         - 26029
         - 260202
-      a: nieznana
-      i: 9
     - rx:
         f: 431.9625
       tx:

@@ -14,6 +14,8 @@ x:
       d: |-
         wysokość anteny 41m
         antena 5dbi
+      a: nieznana
+      i: 5
       e1:
         - 2602
         - 260
@@ -22,8 +24,7 @@ x:
         - 26022
         - 260015
         - 260222
-      a: nieznana
-      i: 5
+        - 26026
 h:
   "54372087500":
     x:

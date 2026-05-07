@@ -13,6 +13,8 @@ x:
       u:
         - https://brandmeister.network/?page=repeater&id=260005
       d: CC1
+      a: nieznana
+      i: 9
       e1:
         - 2603
         - 260
@@ -20,8 +22,6 @@ x:
         - 26037
         - 26066
         - 260041
-      a: nieznana
-      i: 9
 h:
   "51626030777":
     x:

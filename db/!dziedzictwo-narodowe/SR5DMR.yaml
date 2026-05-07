@@ -13,6 +13,8 @@ x:
       u: []
       d: RPT DMR BM CC1, MMDVM 2XMotorola GM 360, Antena Lafayette MV-2000, wysokość
         10 m n. p. g., 181 m.n.p.m
+      a: nieznana
+      i: 9
       e1:
         - 260
         - 2605101
@@ -20,8 +22,6 @@ x:
       e2:
         - 26054
         - 26053
-      a: nieznana
-      i: 9
 h:
   "53001066964":
     x:

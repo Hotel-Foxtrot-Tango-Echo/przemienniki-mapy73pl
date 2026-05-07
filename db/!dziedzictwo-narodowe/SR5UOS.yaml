@@ -47,6 +47,8 @@ x:
         Color Code 5
         TG statyczna TS1: 260 (uruchamiana grupą 2260)
         Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
+      a: Diamond X-300
+      i: 9
       e1:
         - 2605
         - 260515
@@ -54,8 +56,6 @@ x:
         - 260
       e2:
         - 26059
-      a: Diamond X-300
-      i: 9
 h:
   "53101085846":
     x:

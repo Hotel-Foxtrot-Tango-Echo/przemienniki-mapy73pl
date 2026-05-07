@@ -19,13 +19,13 @@ x:
         TS1 TG260 
         TS2 TG2 9 oraz 26092
         Internet dostarcza Firma INFO-NET s.c. http://www.in.net.pl/
+      a: Diamond BC-205
+      i: 8.5
       e1:
         - 260
       e2:
         - 26092
         - 260015
-      a: Diamond BC-205
-      i: 8.5
 h:
   "49912064262":
     x:

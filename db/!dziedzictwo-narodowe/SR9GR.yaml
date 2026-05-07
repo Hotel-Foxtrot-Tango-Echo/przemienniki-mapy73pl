@@ -47,10 +47,10 @@ x:
       u:
         - https://www.facebook.com/sp9kgr
       d: DMR - TG 260999 CC9 TS2
-      e2:
-        - 260999
       a: nieznana
       i: 9
+      e2:
+        - 260999
     - rx:
         f: 430.9375
       tx:

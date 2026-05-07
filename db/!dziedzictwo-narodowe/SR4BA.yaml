@@ -21,14 +21,14 @@ x:
         f: 430.9375
         t:
           - f: "4"
+      a: nieznana
+      i: 9
       e1:
         - 2604
         - 260
         - 26041
       e2:
         - 260066
-      a: nieznana
-      i: 9
 o:
   - HF4OS
 page: https://mapy73.pl/repeater/SR4BA

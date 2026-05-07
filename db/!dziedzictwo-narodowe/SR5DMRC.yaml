@@ -14,15 +14,15 @@ x:
       d: Przemiennik MMDVM DMR 2xMotorlach GM 360, Raspberry PI B Plus, płytka
         projektu Pawła SQ6POG, dwie anteny RX MA-200 Lafayette, TX Lafayette
         MV-2000
-      e1:
-        - 260
-        - 2605101
-        - 2605016
-      e2:
-        - 26053
-        - 26054
       a: nieznana
       i: 6.5
+      e1:
+        - 260
+        - 26053
+        - 26054
+      e2:
+        - 2605101
+        - 2605016
 h:
   "53001067762":
     x:

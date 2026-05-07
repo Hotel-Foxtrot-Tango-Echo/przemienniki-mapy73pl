@@ -16,14 +16,14 @@ x:
         (10,15 dBi).
 
         Tor odbiorczo – nadawczy: 2 x Motorola GM350.
+      a: Radmor 3284/3
+      i: 10.15
       e1:
         - 2608
         - 260
       e2:
         - 26081
         - 260015
-      a: Radmor 3284/3
-      i: 10.15
 h:
   "51257048293":
     x:

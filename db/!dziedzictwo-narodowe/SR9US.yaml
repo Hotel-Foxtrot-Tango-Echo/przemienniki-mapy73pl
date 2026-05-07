@@ -29,12 +29,12 @@ x:
         Slot 1 : 2609
         Slot 2 : 260998 lokalnie, 260999 Gorlice, 26077 SierraEcho
         Reszta dynamicznie wedle przeznaczenia na nr slotu.
+      a: nieznana
+      i: 9
       e1:
         - 2609
       e2:
         - 260998
-      a: nieznana
-      i: 9
 h:
   "49706029167":
     x:

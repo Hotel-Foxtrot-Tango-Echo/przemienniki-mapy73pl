@@ -44,6 +44,8 @@ x:
         Antena Diamond V-2000 7/8 λ
         Motorola GM-360
       j1:
+        - 112
+        - 2600
         - 26081
         - 260812
       a: Diamond V-2000

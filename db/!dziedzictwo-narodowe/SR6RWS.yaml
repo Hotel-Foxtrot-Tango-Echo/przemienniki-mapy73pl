@@ -16,12 +16,12 @@ x:
         subskrypcja grup statycznych:
         slot 1: 260, 2606
         slot 2: brak subskrypcji
+      a: nieznana
+      i: 9
       e1:
         - 2606
       e2:
         - 26066
-      a: nieznana
-      i: 9
 h:
   "50696080667":
     x:

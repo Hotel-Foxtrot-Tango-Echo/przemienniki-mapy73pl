@@ -12,10 +12,10 @@ x:
       p: 15
       u: []
       d: Przemiennik Inowrocławskiego Klubu Krótkofalowców SP2KCW
-      e2:
-        - 260207
       a: nieznana
       i: 9
+      e2:
+        - 260207
     - rx:
         f: 430.6375
       tx:

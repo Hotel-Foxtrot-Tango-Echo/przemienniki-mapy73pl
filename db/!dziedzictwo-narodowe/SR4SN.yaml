@@ -73,13 +73,13 @@ x:
         Color Code 4
         TG statyczna TS1: 260 (uruchamiana grupą 2260)
         Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
+      a: nieznana
+      i: 9
       e1:
         - 2604
       e2:
         - 26041
         - 26059
-      a: nieznana
-      i: 9
 h:
   "53585068416":
     x:

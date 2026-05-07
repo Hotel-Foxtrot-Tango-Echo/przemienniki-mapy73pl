@@ -18,13 +18,13 @@ x:
 
 
         AKTYWACJA CC1
+      a: Comet GP-9N
+      i: 11.9
       e1:
         - 260
         - 2604
       e2:
         - 26041
-      a: Comet GP-9N
-      i: 11.9
 h:
   "53569031545":
     x:

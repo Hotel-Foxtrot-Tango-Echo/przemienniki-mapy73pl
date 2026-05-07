@@ -24,13 +24,13 @@ x:
       p: 10
       u: []
       d: ""
+      a: nieznana
+      i: 9
       e1:
         - 2608
       e2:
         - 26081
         - 26093
-      a: nieznana
-      i: 9
     - rx:
         f: 430.9125
       tx:

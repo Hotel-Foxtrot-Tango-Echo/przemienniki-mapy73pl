@@ -17,13 +17,13 @@ x:
         Moc: 1W
         Sterowanie : MMDVM (Pi-Star)
         DMR Id: 260724
+      a: Diamond X-510
+      i: 11.7
       e1:
         - 260
       e2:
         - 26072
         - 26095
-      a: Diamond X-510
-      i: 11.7
 h:
   "51995012756":
     x:

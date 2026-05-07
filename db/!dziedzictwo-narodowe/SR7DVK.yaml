@@ -14,14 +14,13 @@ x:
       d: |-
         CC: 1
         Brandmeister DMR-ID: 260778
+      a: nieznana
+      i: 9
       e1:
         - 260
       e2:
         - 2600
         - 26078
-        - 260042
-      a: nieznana
-      i: 9
 h:
   "52260037664":
     x:

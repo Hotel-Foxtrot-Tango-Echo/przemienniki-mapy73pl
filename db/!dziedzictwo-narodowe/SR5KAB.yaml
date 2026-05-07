@@ -17,12 +17,12 @@ x:
         CC 5
         TS 1 2605
         TS 2 statyczne 26055TG KAB
+      a: Diamond X-300
+      i: 9
       e1:
         - 260
       e2:
         - 26055
-      a: Diamond X-300
-      i: 9
 h:
   "52240060419":
     x:

@@ -18,13 +18,13 @@ x:
 
 
         Anteny: X-300 @180m RX, GP-98 @ 210m TX, 230m LDF-5 7/8
+      a: Diamond X-300
+      i: 9
       e1:
         - 260
         - 2604
       e2:
         - 26041
-      a: Diamond X-300
-      i: 9
 h:
   "53959057176":
     x:

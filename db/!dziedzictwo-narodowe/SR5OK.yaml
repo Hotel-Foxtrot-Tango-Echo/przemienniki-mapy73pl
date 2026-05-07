@@ -61,13 +61,13 @@ x:
         Color Code 5
         TG statyczna TS1: 260 (uruchamiana grupą 2260)
         Do łączności lokalnych TG7 TS2 (uruchamiana grupą 3)
+      a: 3x5/8 collinear
+      i: 8
       e1:
         - 2605
         - 260525
       e2:
         - 26059
-      a: 3x5/8 collinear
-      i: 8
 h:
   "53256014663":
     x:

@@ -13,12 +13,12 @@ x:
       u:
         - http://www.sp-dmr.pl/?p=528
       d: Hytera RD985 UHF, aktywacja CC1
+      a: nieznana
+      i: 9
       e1:
         - 260
       e2:
         - 26013
-      a: nieznana
-      i: 9
 h:
   "50248020833":
     x:

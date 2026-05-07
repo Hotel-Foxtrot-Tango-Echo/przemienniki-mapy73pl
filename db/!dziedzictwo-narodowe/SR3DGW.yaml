@@ -13,6 +13,8 @@ x:
       u:
         - http://sq9jdo.com.pl/DMR/Przemienniki/SR3DGW.html
       d: ""
+      a: nieznana
+      i: 9
       e1:
         - 260
         - 2603
@@ -20,8 +22,6 @@ x:
       e2:
         - 26036
         - 260303
-      a: nieznana
-      i: 9
 h:
   "52759052942":
     x:

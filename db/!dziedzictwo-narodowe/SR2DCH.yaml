@@ -13,13 +13,13 @@ x:
       u:
         - https://sr2dch.pzk.pl
       d: Color Code 2
+      a: nieznana
+      i: 9
       e1:
         - 260
         - 2602
       e2:
         - 260230
-      a: nieznana
-      i: 9
 h:
   "53677081540":
     x:

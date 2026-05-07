@@ -30,6 +30,8 @@ x:
 
         Miejsce zainstalowania: Kazimierz Dolny - SLR Emitel
         http://emi.emitel.pl/EMITEL/ObjectImages/DODR_E2E.jpg
+      a: dipol 1/2 wave
+      i: 2.15
       e1:
         - 260
         - 2605
@@ -39,8 +41,6 @@ x:
         - 26057
         - 260501
         - 260804
-      a: dipol 1/2 wave
-      i: 2.15
 h:
   "51347046457":
     x:

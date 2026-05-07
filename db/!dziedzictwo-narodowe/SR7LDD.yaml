@@ -14,13 +14,13 @@ x:
       d: |-
         -Antena F-718
         -warstwa radiowa 2x MOTOROLA GM 340
+      a: nieznana
+      i: 9
       e1:
         - 2607
         - 260
       e2:
         - 26071
-      a: nieznana
-      i: 9
 h:
   "51765056522":
     x:
