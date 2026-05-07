@@ -21,13 +21,13 @@ x:
         f: 430.775
         t:
           - f: "4"
+      a: nieznana
+      i: 9
       e1:
         - 204
       e2:
-        - 20492
         - 91665
         - 20431
-      a: nieznana
-      i: 9
+        - 363
 o: []
 page: https://mapy73.pl/repeater/PI1KRD

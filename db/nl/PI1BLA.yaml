@@ -21,6 +21,8 @@ x:
         f: 430.7
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 204911
         - 204002
@@ -28,7 +30,5 @@ x:
       e2:
         - 204002
         - 204911
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/PI1BLA

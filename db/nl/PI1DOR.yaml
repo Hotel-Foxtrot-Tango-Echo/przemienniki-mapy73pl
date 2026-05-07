@@ -21,13 +21,13 @@ x:
         f: 430.4875
         t:
           - f: "2"
+      a: nieznana
+      i: 9
       e1:
         - 204
       e2:
         - 20426
         - 2042
         - 204911
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/PI1DOR
