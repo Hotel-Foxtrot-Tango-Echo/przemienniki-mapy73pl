@@ -21,6 +21,8 @@ x:
         f: 434.875
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 505
       e2:
@@ -29,7 +31,5 @@ x:
         - 505205
         - 5052110
         - 5052
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK2RHK

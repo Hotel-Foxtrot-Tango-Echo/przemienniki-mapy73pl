@@ -21,6 +21,8 @@ x:
         f: 432.875
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 530
       e2:
@@ -28,7 +30,5 @@ x:
         - 5054
         - 505
         - 3804
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK4RSA

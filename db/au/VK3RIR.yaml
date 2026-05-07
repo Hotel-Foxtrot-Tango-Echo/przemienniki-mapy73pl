@@ -21,11 +21,11 @@ x:
         f: 433.15
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 505355
       e2:
         - 50535
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK3RIR

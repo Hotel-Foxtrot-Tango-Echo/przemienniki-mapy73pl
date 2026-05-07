@@ -21,6 +21,8 @@ x:
         f: 432.975
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 95
         - 505
@@ -36,7 +38,5 @@ x:
         - 5056
         - 5057
         - 5058
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/VK7HSE
