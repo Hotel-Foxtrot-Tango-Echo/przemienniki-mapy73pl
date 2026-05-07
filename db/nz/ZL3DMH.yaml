@@ -21,13 +21,13 @@ x:
         f: 430.0125
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 5303
         - 5309
         - 5305
       e2:
         - 23888
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ZL3DMH

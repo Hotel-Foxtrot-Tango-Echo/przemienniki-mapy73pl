@@ -21,11 +21,11 @@ x:
         f: 433.8
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 91
       e2:
         - 53099
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ZL1OZ

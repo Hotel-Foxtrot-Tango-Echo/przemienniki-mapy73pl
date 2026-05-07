@@ -21,6 +21,8 @@ x:
         f: 145.175
         t:
           - f: "1"
+      a: nieznana
+      i: 6.5
       e1:
         - 530
       e2:
@@ -30,7 +32,5 @@ x:
         - 5304
         - 5303
         - 5309
-      a: nieznana
-      i: 6.5
 o: []
 page: https://mapy73.pl/repeater/ZL4GQ
