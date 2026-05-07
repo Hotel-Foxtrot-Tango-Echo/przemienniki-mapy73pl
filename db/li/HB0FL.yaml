@@ -21,13 +21,13 @@ x:
         f: 430.85
         t:
           - f: "2"
+      a: nieznana
+      i: 9
       e1:
         - 228
         - 295
       e2:
         - 2280
         - 2950
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/HB0FL
