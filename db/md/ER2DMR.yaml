@@ -21,13 +21,13 @@ x:
         f: 431.4
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 2501
         - 250777
       e2:
         - 2599
         - 25999
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ER2DMR

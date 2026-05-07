@@ -21,6 +21,8 @@ x:
         f: 431.75
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 226
         - 2260223
@@ -28,7 +30,5 @@ x:
         - 9800
         - 2263
         - 22626
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ER1VOX

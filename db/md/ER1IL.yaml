@@ -21,6 +21,8 @@ x:
         f: 431.4875
         t:
           - f: "7"
+      a: nieznana
+      i: 9
       e1:
         - 259
       e2:
@@ -28,7 +30,5 @@ x:
         - 9800
         - 2599
         - 2597
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ER1IL

@@ -21,11 +21,11 @@ x:
         f: 431.5
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 2599
       e2:
         - 259
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ER1PWR
