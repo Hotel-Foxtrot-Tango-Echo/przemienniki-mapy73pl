@@ -21,12 +21,12 @@ x:
         f: 431.25
         t:
           - f: "8"
+      a: nieznana
+      i: 9
       e1:
         - 216
       e2:
         - 226555
         - 226
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO5X

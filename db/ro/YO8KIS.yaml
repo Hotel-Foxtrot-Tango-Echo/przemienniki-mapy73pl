@@ -21,13 +21,13 @@ x:
         f: 431.9
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 226
       e2:
         - 9800
         - 226847
         - 2268
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/YO8KIS
