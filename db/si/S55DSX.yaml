@@ -21,6 +21,8 @@ x:
         f: 431.45
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
@@ -44,7 +46,5 @@ x:
         - 218112
         - 219112
         - 2180325
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DSX

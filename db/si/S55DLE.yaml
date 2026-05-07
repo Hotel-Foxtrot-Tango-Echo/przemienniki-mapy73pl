@@ -21,12 +21,12 @@ x:
         f: 430.8375
         t:
           - f: "2"
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
       e2:
         - 2938
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DLE

@@ -13,6 +13,8 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
@@ -20,8 +22,6 @@ x:
         - 2931
         - 2934
         - 29320
-      a: nieznana
-      i: 9
 h:
   "46315016791":
     x:

@@ -41,13 +41,13 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
       e2:
         - 2938
-      a: nieznana
-      i: 9
     - rx:
         f: 431.125
       tx:

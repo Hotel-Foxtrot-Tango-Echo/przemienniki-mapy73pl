@@ -21,6 +21,8 @@ x:
         f: 430.625
         t:
           - f: "3"
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
@@ -41,7 +43,5 @@ x:
         - 29313
         - 29314
         - 29315
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DSV

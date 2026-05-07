@@ -21,12 +21,12 @@ x:
         f: 430.925
         t:
           - f: "2"
+      a: nieznana
+      i: 9
       e1:
         - 293112
         - 293
       e2:
         - 2933
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DMO

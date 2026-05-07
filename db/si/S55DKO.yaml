@@ -21,13 +21,13 @@ x:
         f: 430.725
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
       e2:
         - 29312
         - 29320
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DKO

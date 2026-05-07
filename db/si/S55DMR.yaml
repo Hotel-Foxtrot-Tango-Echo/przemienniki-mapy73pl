@@ -28,14 +28,14 @@ x:
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
       e1:
         - 293112
         - 293
       e2:
         - 29311
         - 29313
-      a: nieznana
-      i: 9
 h:
   "46071045263":
     x:

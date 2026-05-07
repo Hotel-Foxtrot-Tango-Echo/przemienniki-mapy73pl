@@ -21,13 +21,13 @@ x:
         f: 430.6
         t:
           - f: "2"
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
       e2:
         - 2939
         - 2932
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/S55DPT
