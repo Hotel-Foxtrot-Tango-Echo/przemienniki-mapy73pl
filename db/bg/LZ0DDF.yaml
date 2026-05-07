@@ -21,15 +21,14 @@ x:
         f: 431.875
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 284
-        - 316272
       e2:
         - 284359
         - 2842
         - 28430
         - 28499
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0DDF

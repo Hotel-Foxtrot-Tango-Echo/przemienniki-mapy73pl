@@ -21,13 +21,13 @@ x:
         f: 439.225
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 284
         - 2841
         - 2842
       e2:
         - 284359
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0ELH

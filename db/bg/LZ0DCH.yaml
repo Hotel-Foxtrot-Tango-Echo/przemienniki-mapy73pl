@@ -21,12 +21,12 @@ x:
         f: 431.6
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 284027
         - 284359
       e2:
         - 284
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0DCH

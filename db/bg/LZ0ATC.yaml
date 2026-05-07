@@ -21,6 +21,8 @@ x:
         f: 432.25
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 284
         - 2841
@@ -31,7 +33,5 @@ x:
         - 2847
       e2:
         - 284359
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/LZ0ATC
