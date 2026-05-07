@@ -8,15 +8,15 @@ x:
         f: 439.85
       h: "56991048228"
       t: e
-      s: "4"
+      s: "5"
       p: 5
       u:
         - https://brandmeister.network/?page=repeater&id=2470053
       d: ""
-      e1:
-        - 24706
       a: nieznana
       i: 9
+      e1:
+        - 24706
 h:
   "56991048228":
     x:

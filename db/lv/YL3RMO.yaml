@@ -21,12 +21,12 @@ x:
         f: 430.7
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 24701
         - 2470
         - 24706
-      a: nieznana
-      i: 9
 o:
   - YL3MO
   - YL3KT
