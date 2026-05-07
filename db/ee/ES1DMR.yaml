@@ -21,14 +21,14 @@ x:
         f: 431.375
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 24804
         - 2481
         - 2485
       e2:
         - 248
-      a: nieznana
-      i: 9
 o:
   - ES2AST
   - ES4HTI

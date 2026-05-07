@@ -21,12 +21,12 @@ x:
         f: 431.15
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 2483
         - 2481
       e2:
         - 248
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ES3DMRA

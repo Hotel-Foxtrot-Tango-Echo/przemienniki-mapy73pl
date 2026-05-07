@@ -21,12 +21,12 @@ x:
         f: 433.1
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 248112
       e2:
         - 24814
-      a: nieznana
-      i: 9
 o:
   - ES4RM
   - ES4TIX

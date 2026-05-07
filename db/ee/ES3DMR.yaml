@@ -21,15 +21,14 @@ x:
         f: 431.2
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 24804
         - 9112
-        - 244
       e2:
         - 248
         - 248446
         - 248112
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ES3DMR

@@ -21,12 +21,12 @@ x:
         f: 431.375
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 2485
       e2:
         - 248
-      a: nieznana
-      i: 9
 o:
   - ES5TO
   - ES5PC
