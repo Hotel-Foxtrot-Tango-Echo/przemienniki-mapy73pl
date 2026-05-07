@@ -21,6 +21,8 @@ x:
         f: 430.65
         t:
           - f: "8"
+      a: nieznana
+      i: 9
       e1:
         - 216
         - 2169112
@@ -28,7 +30,5 @@ x:
         - 2162
         - 216102
         - 2169888
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG1RUE

@@ -21,6 +21,8 @@ x:
         f: 430.65
         t:
           - f: "9"
+      a: nieznana
+      i: 9
       e1:
         - 216
         - 2169112
@@ -29,7 +31,5 @@ x:
         - 216760
         - 216810
         - 216888
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG8RUH

@@ -21,13 +21,13 @@ x:
         f: 431.0625
         t:
           - f: "8"
+      a: nieznana
+      i: 9
       e1:
         - 216
         - 2169112
       e2:
         - 216110
         - 216109
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/HG2RUG
