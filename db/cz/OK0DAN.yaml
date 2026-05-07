@@ -21,6 +21,8 @@ x:
         f: 431.3125
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 2301
@@ -28,8 +30,6 @@ x:
       e2:
         - 23030
         - 230002
-      a: nieznana
-      i: 9
 o:
   - OK1ZJV
   - OK1MGJ

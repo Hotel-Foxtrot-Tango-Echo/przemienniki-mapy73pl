@@ -21,6 +21,8 @@ x:
         f: 431.6
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 2301
@@ -30,8 +32,6 @@ x:
         - 230501
         - 230505
         - 230506
-      a: nieznana
-      i: 9
 o:
   - OK1UAX
 page: https://mapy73.pl/repeater/OK0BRT

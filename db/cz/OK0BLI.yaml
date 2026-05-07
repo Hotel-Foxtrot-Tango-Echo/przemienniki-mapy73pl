@@ -21,14 +21,14 @@ x:
         f: 431.5
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230803
         - 230
       e2:
         - 230205
         - 230803
-      a: nieznana
-      i: 9
 o:
   - OK1ZJV
 page: https://mapy73.pl/repeater/OK0BLI

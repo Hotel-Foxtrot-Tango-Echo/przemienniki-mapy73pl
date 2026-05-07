@@ -21,13 +21,13 @@ x:
         f: 431.55
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230808
       e2:
         - 230402
         - 230808
-      a: nieznana
-      i: 9
 o:
   - OK1ALX
 page: https://mapy73.pl/repeater/OK0DJ

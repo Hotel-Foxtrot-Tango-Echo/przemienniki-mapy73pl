@@ -21,6 +21,8 @@ x:
         f: 431
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 231
@@ -31,8 +33,6 @@ x:
         - 230666
         - 2311
         - 2301
-      a: nieznana
-      i: 9
 o:
   - OK2ULQ
 page: https://mapy73.pl/repeater/OK0DSK

@@ -21,6 +21,8 @@ x:
         f: 431.9
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 231
@@ -32,8 +34,6 @@ x:
         - 230814
       e2:
         - 230704
-      a: nieznana
-      i: 9
 o:
   - OK2IT
   - OK2VWH

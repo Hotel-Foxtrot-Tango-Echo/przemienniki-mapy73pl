@@ -21,11 +21,11 @@ x:
         f: 431.2
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 231
-      a: nieznana
-      i: 9
 o:
   - OK1ZJV
 page: https://mapy73.pl/repeater/OK0BTA

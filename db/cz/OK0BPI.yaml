@@ -14,18 +14,18 @@ x:
       d: ""
       p: 1
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.2125
       rx:
         f: 430.6125
         t:
           - f: "1"
-      e1:
-        - 230
-      e2:
-        - 230204
       a: nieznana
       i: 9
+      e2:
+        - 230204
+        - 23010
+        - 230203
 o: []
 page: https://mapy73.pl/repeater/OK0BPI

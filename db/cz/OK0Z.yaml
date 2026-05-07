@@ -21,6 +21,8 @@ x:
         f: 431.8
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 231
@@ -33,8 +35,6 @@ x:
         - 230666
         - 230812
         - 230814
-      a: nieznana
-      i: 9
 o:
   - OK4PS
 page: https://mapy73.pl/repeater/OK0Z

@@ -21,14 +21,14 @@ x:
         f: 431.8875
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 231
         - 23010
       e2:
         - 230206
-      a: nieznana
-      i: 9
 o:
   - OK1PZ
 page: https://mapy73.pl/repeater/OK0BSJ
