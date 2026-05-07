@@ -21,6 +21,8 @@ x:
         f: 431.4
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 232
         - 232112
@@ -28,7 +30,5 @@ x:
       e2:
         - 2322
         - 2327
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE2XSE

@@ -21,6 +21,8 @@ x:
         f: 430.75
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 92
         - 232
@@ -79,7 +81,5 @@ x:
         - 26223
         - 23298
         - 262
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE6XIG

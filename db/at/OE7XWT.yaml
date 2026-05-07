@@ -21,15 +21,13 @@ x:
         f: 430.875
         t:
           - f: "1"
-      e1:
-        - 232112
+      a: nieznana
+      i: 9
       e2:
         - 23277
         - 2328
         - 232805
         - 2322
         - 2327
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE7XWT
