@@ -21,6 +21,8 @@ x:
         f: 430.675
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 230
         - 231
@@ -28,8 +30,6 @@ x:
         - 231404
         - 23112
         - 2319112
-      a: nieznana
-      i: 9
 o:
   - OM3WIM
 page: https://mapy73.pl/repeater/OM0ODP

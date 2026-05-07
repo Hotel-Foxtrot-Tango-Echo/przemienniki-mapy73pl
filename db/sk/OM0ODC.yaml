@@ -21,15 +21,13 @@ x:
         f: 430.625
         t:
           - f: "3"
+      a: nieznana
+      i: 9
       e1:
-        - 230
         - 231
-        - 2311
       e2:
         - 23112
         - 231303
         - 2319112
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/OM0ODC

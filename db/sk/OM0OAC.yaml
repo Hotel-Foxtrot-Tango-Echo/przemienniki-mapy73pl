@@ -21,6 +21,8 @@ x:
         f: 430.625
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e1:
         - 231
         - 230
@@ -28,8 +30,6 @@ x:
         - 23112
         - 2319112
         - 231304
-      a: nieznana
-      i: 9
 o:
   - OM3WIM
 page: https://mapy73.pl/repeater/OM0OAC
