@@ -32,7 +32,7 @@ h:
     x:
       - 2m: 0
     p: Sandviken / Kungsberget
-    e: 0
+    e: 301
     g: 20
     a: 60.75048
     o: 16.49063
@@ -40,7 +40,7 @@ h:
     x:
       - 70cm: 0
     p: Sandviken / Kungsberget
-    e: 0
+    e: 295
     g: 20
     a: 60.75048
     o: 16.49363

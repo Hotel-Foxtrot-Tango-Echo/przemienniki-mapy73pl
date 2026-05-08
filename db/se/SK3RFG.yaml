@@ -43,7 +43,7 @@ h:
     x:
       - 2m: 0
     p: Sundsvall
-    e: 0
+    e: 105
     g: 20
     a: 62.3958
     o: 17.4583
@@ -51,7 +51,7 @@ h:
     x:
       - 2m: 1
     p: Sundsvall / Klissberget
-    e: 0
+    e: 246
     g: 60
     a: 62.37857
     o: 17.20144
@@ -59,7 +59,7 @@ h:
     x:
       - 70cm: 0
     p: Sundsvall / Klissberget
-    e: 0
+    e: 254
     g: 60
     a: 62.37857
     o: 17.20344

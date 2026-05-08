@@ -30,7 +30,7 @@ h:
     x:
       - 2m: 0
     p: Örnsköldsvik / Rutberget
-    e: 0
+    e: 325
     g: 20
     a: 63.383
     o: 18.5564
@@ -38,7 +38,7 @@ h:
     x:
       - 70cm: 0
     p: Örnsköldsvik
-    e: 0
+    e: 153
     g: 20
     a: 63.3025
     o: 18.69118
