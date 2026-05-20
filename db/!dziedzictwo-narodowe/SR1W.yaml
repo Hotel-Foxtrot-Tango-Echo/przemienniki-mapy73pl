@@ -28,11 +28,26 @@ x:
       d: "Antena: Comet GP-3 RX/TX: Yaesu DR-1X"
       a: Comet GP-3
       i: 3.5
+    - h: "53923076561"
+      u: []
+      d: ""
+      p: 5
+      t: e
+      s: "4"
+      tx:
+        f: 145.6125
+      rx:
+        f: 145.0125
+        t:
+          - f: "1"
+      e2:
+        - 26011
 h:
   "53923076561":
     x:
       - 2m: 0
       - 2m: 1
+      - 2m: 2
     p: Świnoujście
     e: 2
     g: 40
@@ -40,4 +55,5 @@ h:
     o: 14.254612
 o:
   - SP1WSX
+  - SP1AZ
 page: https://mapy73.pl/repeater/SR1W

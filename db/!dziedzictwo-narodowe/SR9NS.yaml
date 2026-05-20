@@ -28,11 +28,24 @@ x:
       d: www.radioklub.pl
       a: nieznana
       i: 9
+    - h: "49654008887"
+      u: []
+      d: ""
+      p: 1
+      t: e
+      s: "4"
+      tx:
+        f: 434.8125
+      rx:
+        f: 434.8125
+        t:
+          - f: "1"
 h:
   "49654008887":
     x:
       - 70cm: 0
       - 70cm: 1
+      - 70cm: 2
     p: Nowy Sącz
     e: 450
     g: 15
