@@ -1,0 +1,31 @@
+h:
+  "49438029550":
+    a: 49.4174
+    o: 20.8955
+    p: Jaworzyna krynicka
+    e: 1106
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "49438029550"
+      u: []
+      d: ""
+      p: 15
+      t: j
+      s: "4"
+      tx:
+        f: 438.4
+      rx:
+        f: 430.8
+        t:
+          - a: "67.0"
+      j1:
+        - 112
+        - 260
+        - 2600
+        - 260995
+o:
+  - SP9WTC
+page: https://mapy73.pl/repeater/SR9FMJ
