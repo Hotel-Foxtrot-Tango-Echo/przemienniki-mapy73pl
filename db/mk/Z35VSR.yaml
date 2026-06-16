@@ -14,16 +14,18 @@ x:
       d: ""
       p: 5
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.65
       rx:
         f: 431.05
         t:
-          - f: "1"
-      e2:
-        - 2949
+          - f: "2"
       a: nieznana
       i: 9
+      e1:
+        - 294
+      e2:
+        - 2949
 o: []
 page: https://mapy73.pl/repeater/Z35VSR
