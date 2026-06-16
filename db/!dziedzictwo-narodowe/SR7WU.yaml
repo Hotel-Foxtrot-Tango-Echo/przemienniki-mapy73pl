@@ -1,0 +1,36 @@
+x:
+  70cm:
+    - rx:
+        f: 431.95
+        t:
+          - c: "123.0"
+      tx:
+        f: 439.55
+      h: "51310059995"
+      t: j
+      s: "4"
+      p: 15
+      u:
+        - https://www.radioteam.pl/sr7wu
+      d: "CPU – SVXLink: Orange Pi PC – H3 Quad-core Cortex-A7"
+      a: 8 x 5/8λ (Diamond X-510)
+      i: 11.7
+      j0:
+        - 260794
+      j1:
+        - 2600
+        - 260794
+        - 260900
+h:
+  "51310059995":
+    x:
+      - 70cm: 0
+    p: Wieruszów
+    e: 162
+    g: 20
+    a: 51.292395
+    o: 18.204953
+o:
+  - SP9FUN
+  - SQ5NXX
+page: https://mapy73.pl/repeater/SR7WU
