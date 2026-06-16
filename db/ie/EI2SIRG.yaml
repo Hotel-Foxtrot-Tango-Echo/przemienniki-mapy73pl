@@ -1,0 +1,31 @@
+h:
+  "52240037448":
+    a: 52.247509
+    o: -7.134516
+    p: Waterford
+    e: 21
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52240037448"
+      u: []
+      d: ""
+      p: 5
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 430.2875
+      rx:
+        f: 439.2875
+        t:
+          - f: "1"
+      e1:
+        - 2724
+      e2:
+        - 2722
+o: []
+page: https://mapy73.pl/repeater/EI2SIRG

@@ -1,0 +1,29 @@
+h:
+  "52253053508":
+    a: 52.260689
+    o: -7.153918
+    p: Co. Waterford
+    e: 77
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52253053508"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 430.275
+      rx:
+        f: 439.275
+        t:
+          - f: "1"
+      e2:
+        - 2722
+o: []
+page: https://mapy73.pl/repeater/EI7WCD

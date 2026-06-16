@@ -1,0 +1,32 @@
+h:
+  "53144033573":
+    a: 53.152882
+    o: -8.54627
+    p: Knockroe Loughrea
+    e: 196
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "53144033573"
+      u: []
+      d: ""
+      p: 40
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 439.5
+      rx:
+        f: 430.5
+        t:
+          - f: "1"
+      e1:
+        - 2723
+      e2:
+        - 2358
+        - 2722
+o: []
+page: https://mapy73.pl/repeater/EI7LRD

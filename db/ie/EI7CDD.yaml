@@ -1,0 +1,29 @@
+h:
+  "52027096203":
+    a: 52.035709
+    o: -7.746965
+    p: Co Waterford
+    e: 299
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52027096203"
+      u: []
+      d: ""
+      p: 25
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 439.65
+      rx:
+        f: 430.65
+        t:
+          - f: "1"
+      e2:
+        - 27240
+o: []
+page: https://mapy73.pl/repeater/EI7CDD
