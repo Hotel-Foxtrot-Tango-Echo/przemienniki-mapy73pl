@@ -67,8 +67,6 @@ x:
         Repeat Request Priority: First Come First Send
       a: Radmor 8x5/8
       i: 11
-      e1:
-        - 2605
       e2:
         - 26055
 h:

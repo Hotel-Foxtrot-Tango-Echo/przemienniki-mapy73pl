@@ -27,10 +27,28 @@ x:
         - 260511
       a: Diamond X-510N
       i: 11.7
+    - h: "53101071818"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 439.05
+      rx:
+        f: 431.45
+        t:
+          - f: "5"
+      e2:
+        - 26059
+        - 260514
 h:
   "53101071818":
     x:
       - 70cm: 0
+      - 70cm: 1
     p: Ostrołęka
     e: 96
     g: 42
@@ -38,4 +56,5 @@ h:
     o: 21.56918
 o:
   - SP5NZH
+  - SP5NAF
 page: https://mapy73.pl/repeater/SR5OS
