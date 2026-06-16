@@ -1,0 +1,31 @@
+h:
+  "51466078637":
+    a: 51.46323
+    o: 3.556372
+    p: Vlissingen
+    e: 1
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "51466078637"
+      u: []
+      d: ""
+      p: 5
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 438.0375
+      rx:
+        f: 430.4375
+        t:
+          - f: "1"
+      e1:
+        - 204
+      e2:
+        - 20434
+o: []
+page: https://mapy73.pl/repeater/PI2VLI
