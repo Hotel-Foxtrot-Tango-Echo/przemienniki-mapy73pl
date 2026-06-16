@@ -21,13 +21,11 @@ x:
         f: 430.7
         t:
           - f: "1"
-      e1:
-        - 284
-        - 2840
-      e2:
-        - 2840067
-        - 2843
       a: nieznana
       i: 9
+      e1:
+        - 284
+      e2:
+        - 2843
 o: []
 page: https://mapy73.pl/repeater/LZ0PLC
