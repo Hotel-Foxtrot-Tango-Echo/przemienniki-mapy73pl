@@ -1,0 +1,29 @@
+h:
+  "52380077921":
+    a: 52.375557
+    o: 5.222209
+    p: Almere
+    e: 1
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52380077921"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 438.025
+      rx:
+        f: 430.425
+        t:
+          - f: "2"
+      e1:
+        - 204
+o: []
+page: https://mapy73.pl/repeater/PI1FLD
