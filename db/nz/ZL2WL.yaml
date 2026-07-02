@@ -14,17 +14,17 @@ x:
       d: ""
       p: 50
       t: e
-      s: "5"
+      s: "4"
       tx:
         f: 438.625
       rx:
         f: 433.625
         t:
           - f: "1"
+      a: nieznana
+      i: 9
       e2:
         - 3129973
         - 31770
-      a: nieznana
-      i: 9
 o: []
 page: https://mapy73.pl/repeater/ZL2WL
