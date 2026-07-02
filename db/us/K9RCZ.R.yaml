@@ -15,12 +15,13 @@ x:
         - https://fm-poland.pl/aktualne-grupy/
       d: ""
       j1:
-        - 260019
         - 3109311
         - 3109312
         - 31093123
       a: nieznana
       i: 6.5
+      j0:
+        - 3109312
 h:
   "41830071564":
     x:
