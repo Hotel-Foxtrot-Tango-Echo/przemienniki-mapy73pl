@@ -1,0 +1,27 @@
+h:
+  "50217064316":
+    a: 50.196367
+    o: 21.27616
+    p: Radomyśl Wielki
+    e: 199
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50217064316"
+      u: []
+      d: ""
+      p: 15
+      t: a
+      s: "4"
+      tx:
+        f: 433.5375
+      rx:
+        f: 433.5375
+        t:
+          - c: "77.0"
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR8RW

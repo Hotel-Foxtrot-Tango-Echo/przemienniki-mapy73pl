@@ -1,0 +1,25 @@
+h:
+  "53444040387":
+    a: 53.429811
+    o: 14.592868
+    p: Szczecin
+    e: 5
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "53444040387"
+      u: []
+      d: ""
+      p: 10
+      t: h
+      s: "4"
+      tx:
+        f: 430.125
+      rx:
+        f: 430.125
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR1TTR
