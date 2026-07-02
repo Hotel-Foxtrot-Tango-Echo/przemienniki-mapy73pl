@@ -8,16 +8,16 @@ x:
         f: 439.225
       h: "50338013766"
       t: e
-      s: "6"
+      s: "4"
       p: 10
       u: []
       d: Color Code 9
+      a: nieznana
+      i: 9
       e1:
         - 260
       e2:
         - 260908
-      a: nieznana
-      i: 9
 h:
   "50338013766":
     x:

@@ -28,7 +28,7 @@ x:
         f: 438.15
       h: "53887061891"
       t: b
-      s: "4"
+      s: "5"
       p: 5
       u:
         - http://fcs260.xreflector.net/ycs/#
@@ -64,8 +64,6 @@ x:
         TG9 TS2 do łączności lokalnych 
       a: nieznana
       i: 9
-      e1:
-        - 2604
       e2:
         - 260042
     - rx:

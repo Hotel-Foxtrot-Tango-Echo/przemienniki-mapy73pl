@@ -23,20 +23,20 @@ x:
         Duplekser: PROKOM
       p: 10
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.65
       rx:
         f: 431.05
         t:
           - f: "1"
+      a: Radmor 5/8
+      i: 3
       e1:
         - 260
         - 2607
       e2:
         - 26071
-      a: Radmor 5/8
-      i: 3
 h:
   "51800048454":
     x:
