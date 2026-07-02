@@ -8,19 +8,19 @@ x:
         f: 438.475
       h: "46311096659"
       t: e
-      s: "6"
+      s: "4"
       p: 0
       u:
         - http://rpt.hamradio.si
       d: ""
+      a: nieznana
+      i: 9
       e1:
         - 293
         - 293112
       e2:
         - 2931
         - 2934
-      a: nieznana
-      i: 9
 h:
   "46311096659":
     x:
