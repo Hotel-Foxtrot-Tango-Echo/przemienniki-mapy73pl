@@ -1,27 +1,28 @@
 h:
-  "49526014100":
-    a: 49.505763
-    o: 20.378
-    p: Makowica
-    e: 856
-    g: 20
+  "49798098725":
+    a: 49.778591
+    o: 20.396248
+    p: Wieża widokowa na Kamionnej
+    e: 801
+    g: 29
     x:
       - 2m: 0
 x:
   2m:
-    - h: "49526014100"
+    - h: "49798098725"
       u: []
-      d: ""
-      p: 15
+      d: "Radio: Motorola SLR5500 VHF. Zasilanie: panele fotowoltaiczne 2 x 420W,
+        regulator ładowania MPPT oraz akumulator 12 V / 230 Ah."
+      p: 1
       t: a
-      s: "4"
+      s: "3"
       tx:
         f: 145.6
       rx:
         f: 145
         t:
           - c: "103.5"
-      a: nieznana
-      i: 6.5
+      a: Diamond NR770
+      i: 5.5
 o: []
 page: https://mapy73.pl/repeater/SR9W
