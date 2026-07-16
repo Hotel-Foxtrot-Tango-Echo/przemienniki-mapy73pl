@@ -14,13 +14,12 @@ x:
         - https://radioteam.pl/sr8rze/
         - https://fm-poland.pl/aktualne-grupy/
       d: Diamond X-200 (UHF 4 x 5/8 λ)
-      j0:
-        - 26081
       j1:
         - 112
         - 2600
         - 26081
         - 260813
+        - 260891
       a: Diamond X-200
       i: 8
 h:

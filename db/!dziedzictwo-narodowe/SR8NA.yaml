@@ -14,19 +14,17 @@ x:
       d: ""
       p: 1
       t: e
-      s: "5"
+      s: "4"
       tx:
         f: 431.225
       rx:
         f: 438.825
         t:
           - f: "2"
-      e1:
-        - 260
-      e2:
-        - 2608
       a: nieznana
       i: 9
+      e1:
+        - 260
 o:
   - SP8BAR
 page: https://mapy73.pl/repeater/SR8NA
