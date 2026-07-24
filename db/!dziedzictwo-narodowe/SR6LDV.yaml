@@ -6,12 +6,12 @@ x:
           - f: "1"
       tx:
         f: 438.25
-      h: "51216077908"
+      h: "51272040259"
       t: e
       s: "4"
       p: 5
       u: []
-      d: ""
+      d: pokój Legnica ID 26067
       a: nieznana
       i: 9
       e1:
@@ -20,14 +20,14 @@ x:
         - 26067
         - 26068
 h:
-  "51216077908":
+  "51272040259":
     x:
       - 70cm: 0
-    p: Legnica
-    e: 119
-    g: 35
-    a: 51.20057
-    o: 16.209077
+    p: Miłkowice
+    e: 126
+    g: 20
+    a: 51.256347
+    o: 16.055585
 o:
   - SP6AW
 page: https://mapy73.pl/repeater/SR6LDV
