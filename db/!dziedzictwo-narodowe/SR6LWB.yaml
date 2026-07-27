@@ -1,0 +1,25 @@
+h:
+  "50795043434":
+    a: 50.779224
+    o: 16.210341
+    p: Góra Chełmiec
+    e: 850
+    g: 22
+    x:
+      - 23cm: 0
+x:
+  23cm:
+    - h: "50795043434"
+      u: []
+      d: ""
+      p: 10
+      t: a
+      s: "4"
+      tx:
+        f: 1298.6
+      rx:
+        f: 1270.6
+      a: Diamond X-5000
+      i: 11.7
+o: []
+page: https://mapy73.pl/repeater/SR6LWB

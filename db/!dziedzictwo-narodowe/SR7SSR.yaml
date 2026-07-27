@@ -1,0 +1,25 @@
+h:
+  "51386010146":
+    a: 51.366732
+    o: 19.369464
+    p: Bełchatów
+    e: 205
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "51386010146"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 439.025
+      rx:
+        f: 431.425
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR7SSR

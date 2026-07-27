@@ -1,0 +1,25 @@
+h:
+  "50319079335":
+    a: 50.301131
+    o: 18.662347
+    p: Gliwice
+    e: 214
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50319079335"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 438.525
+      rx:
+        f: 430.925
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR9SEP

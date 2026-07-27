@@ -1,0 +1,26 @@
+h:
+  "52055044144":
+    a: 52.032222
+    o: 23.219444
+    p: Hola
+    e: 147
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52055044144"
+      u: []
+      d: https://www.youtube.com/watch?v=6JuZuCxpY-o
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 439.4
+      rx:
+        f: 431.8
+      a: nieznana
+      i: 9
+o:
+  - SP8GB
+page: https://mapy73.pl/repeater/SR8GB

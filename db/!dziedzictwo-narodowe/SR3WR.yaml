@@ -1,0 +1,25 @@
+h:
+  "52726040626":
+    a: 52.710032
+    o: 16.374257
+    p: Wronki
+    e: 50
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52726040626"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 438.825
+      rx:
+        f: 431.225
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR3WR

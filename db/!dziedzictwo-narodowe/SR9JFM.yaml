@@ -1,0 +1,25 @@
+h:
+  "49377006475":
+    a: 49.356168
+    o: 20.896748
+    p: Muszyna
+    e: 451
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "49377006475"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 438.4
+      rx:
+        f: 430.8
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR9JFM
