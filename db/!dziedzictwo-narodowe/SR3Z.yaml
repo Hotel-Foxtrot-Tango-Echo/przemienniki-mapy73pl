@@ -11,13 +11,12 @@ x:
       h: "51951003811"
       t: a
       s: "4"
-      p: 10
+      p: 5
       u: []
       d: |-
-        GP 3x5/8,
         GM-360 x2 
-        Ster.Procom
-      a: 3x5/8 collinear
+        Duplekser własnej roboty
+      a: Radmor 3x5/8
       i: 6
 h:
   "51951003811":
