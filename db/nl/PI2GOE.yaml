@@ -1,0 +1,31 @@
+h:
+  "51537083569":
+    a: 51.53396
+    o: 3.87569
+    p: Wilhelminadorp
+    e: 1
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "51537083569"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 438.4
+      rx:
+        f: 430.8
+        t:
+          - f: "7"
+      e1:
+        - 20434
+      e2:
+        - 2041387
+o: []
+page: https://mapy73.pl/repeater/PI2GOE
