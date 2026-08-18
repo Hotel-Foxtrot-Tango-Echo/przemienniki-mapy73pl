@@ -14,7 +14,7 @@ x:
       d: ""
       p: 25
       t: e
-      s: "5"
+      s: "4"
       tx:
         f: 438.275
       rx:
@@ -24,11 +24,11 @@ x:
       a: nieznana
       i: 9
       e1:
+        - 95
+        - 505
         - 530
       e2:
-        - 95
         - 5054
-        - 505
-        - 3804
+        - 98
 o: []
 page: https://mapy73.pl/repeater/VK4RSA
