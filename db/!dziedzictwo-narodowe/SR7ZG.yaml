@@ -9,7 +9,7 @@ x:
           - c: "74.4"
       h: "51866066518"
       t: a
-      s: "6"
+      s: "4"
       p: 0
       u: []
       d: CTCSS crossband 74,4Hz Częstotliwość crossband również przeznaczona do
@@ -26,7 +26,7 @@ x:
           - c: "77.0"
       h: "51866066518"
       t: a
-      s: "6"
+      s: "4"
       p: 15
       u: []
       d: Na przemienniku uruchomiony komunikator Zello

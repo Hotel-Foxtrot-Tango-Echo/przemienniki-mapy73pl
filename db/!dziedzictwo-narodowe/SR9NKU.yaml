@@ -3,7 +3,7 @@ x:
     - rx:
         f: 430.7625
         t:
-          - a: "71.9"
+          - c: "71.9"
       tx:
         f: 438.3625
       h: "50360092833"
@@ -13,14 +13,13 @@ x:
       u:
         - http://www.fm-poland.pl
         - https://www.qrz.com/db/SR9NKU
-      d: Wybierając natomiast funkcję 9#, przemiennik rozłącza się z siecią FM Poland
-        i pracuje wyłącznie lokalnie. Po zakończeniu rozmowy, po około jednej
-        minucie, następuje automatyczne ponowne zalinkowanie do sieci FM Poland.
-        Echolink 200292
+      d: Wybierając funkcję 9#, przemiennik rozłącza się z siecią FM Poland i pracuje
+        wyłącznie lokalnie. Po zakończeniu rozmowy, po około jednej minucie,
+        następuje automatyczne ponowne zalinkowanie do sieci FM Poland. Echolink
+        200292
       j0:
         - 3109312
       j1:
-        - 260
         - 260500
         - 260993
         - 3109312

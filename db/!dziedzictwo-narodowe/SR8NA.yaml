@@ -7,6 +7,7 @@ h:
     g: 20
     x:
       - 70cm: 0
+      - 70cm: 1
 x:
   70cm:
     - h: "49866016339"
@@ -25,6 +26,20 @@ x:
       i: 9
       e1:
         - 260
+    - h: "49866016339"
+      u: []
+      d: ""
+      p: 15
+      t: a
+      s: "4"
+      tx:
+        f: 431.225
+      rx:
+        f: 438.825
+        t:
+          - c: "71.9"
+      a: nieznana
+      i: 9
 o:
   - SP8BAR
 page: https://mapy73.pl/repeater/SR8NA
