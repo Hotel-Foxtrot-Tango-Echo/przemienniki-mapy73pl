@@ -1,0 +1,29 @@
+h:
+  "47569015347":
+    a: 47.550152
+    o: 19.001466
+    p: Budapest
+    e: 437
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "47569015347"
+      u: []
+      d: ""
+      p: 10
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 438.475
+      rx:
+        f: 430.875
+        t:
+          - f: "8"
+      e1:
+        - 216
+o: []
+page: https://mapy73.pl/repeater/HG5RUD
