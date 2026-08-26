@@ -8,27 +8,14 @@ x:
         f: 438.325
       h: "50135098121"
       t: a
-      s: "6"
+      s: "4"
       p: 10
-      u:
-        - http://sq9jdo.com.pl/SR9DV/SR9DV.html
+      u: []
       d: |-
         Antena Diamond X510 
         Duplexer Kathrein
       a: Diamond X-510
       i: 11.7
-    - rx:
-        f: 430.725
-      tx:
-        f: 438.325
-      h: "50135098121"
-      t: b
-      s: "6"
-      p: 10
-      u: []
-      d: ""
-      a: nieznana
-      i: 9
     - rx:
         f: 430.725
         t:
@@ -39,19 +26,8 @@ x:
       t: e
       s: "6"
       p: 10
-      u: []
-      d: ""
-      a: nieznana
-      i: 9
-    - rx:
-        f: 430.725
-      tx:
-        f: 438.325
-      h: "50135098121"
-      t: g
-      s: "6"
-      p: 10
-      u: []
+      u:
+        - http://sq9jdo.com.pl/SR9DV/SR9DV.html
       d: ""
       a: nieznana
       i: 9
@@ -60,8 +36,6 @@ h:
     x:
       - 70cm: 0
       - 70cm: 1
-      - 70cm: 2
-      - 70cm: 3
     p: Węgrzce
     e: 278
     g: 10
