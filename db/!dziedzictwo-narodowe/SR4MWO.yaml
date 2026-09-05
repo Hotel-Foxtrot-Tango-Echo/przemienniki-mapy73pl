@@ -16,10 +16,6 @@ x:
       d: |-
         Przemiennik w systemie FM analog ctcss 67Hz. 
         Analog FM- ctcss 67Hz
-      e1:
-        - 2604
-      e2:
-        - 26042
       a: nieznana
       i: 9
     - rx:

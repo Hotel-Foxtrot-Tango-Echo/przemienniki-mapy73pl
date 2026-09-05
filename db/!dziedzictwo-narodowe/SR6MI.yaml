@@ -18,11 +18,8 @@ x:
         Pozwolenie DC.WML.5101.4070.2023.2
         Przemiennik podłączony do sieci FM-Poland z domyślą grupą 26061 Legnica
       j0:
-        - 26061
+        - 260691
       j1:
-        - 2606
-        - 26061
-        - 260612
         - 260691
       a: nieznana
       i: 9

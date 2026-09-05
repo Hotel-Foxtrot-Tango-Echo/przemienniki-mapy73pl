@@ -14,11 +14,9 @@ x:
         - http://fm-poland.pl
       d: Przemiennik pracujący w sieci FM-Poland
       j0:
-        - 26061
+        - 260073
       j1:
-        - 2606
-        - 26061
-        - 260611
+        - 260073
       a: nieznana
       i: 9
 h:
