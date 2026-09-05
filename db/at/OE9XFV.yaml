@@ -1,0 +1,27 @@
+h:
+  "47500014154":
+    a: 47.490395
+    o: 9.746538
+    p: Bregenz
+    e: 554
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "47500014154"
+      u: []
+      d: ""
+      p: 20
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 438.525
+      rx:
+        f: 430.925
+        t:
+          - f: "1"
+o: []
+page: https://mapy73.pl/repeater/OE9XFV
