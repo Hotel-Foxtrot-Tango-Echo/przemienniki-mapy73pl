@@ -14,16 +14,16 @@ x:
       d: ""
       p: 25
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 439.425
       rx:
         f: 434.425
         t:
           - f: "1"
-      e1:
-        - 5303
       a: nieznana
       i: 9
+      e1:
+        - 5303
 o: []
 page: https://mapy73.pl/repeater/ZL1CCT
