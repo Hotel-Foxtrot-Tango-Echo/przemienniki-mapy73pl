@@ -1,34 +1,31 @@
 x:
   70cm:
     - rx:
-        f: 431.05
+        f: 431
         t:
-          - a: ""
-          - c: "107.2"
+          - c: "103.5"
       tx:
-        f: 438.65
+        f: 438.6
         t:
-          - c: "107.2"
-      h: "49745022919"
-      t: da
-      s: "3"
+          - c: "103.5"
+      h: "49486094285"
+      t: a
+      s: "4"
       p: 15
       u:
         - https://radioteam.pl/sr9gp/
-      d: SR9GP (438,650 MHz) – Pozwolenie radiowe do 23 IX 2024 r. Analogowy, foniczny
-        radioprzemiennik FM. Projekt wygaszany ze względu na budowę analogowego,
-        fonicznego, wielozakresowego radioprzemiennika SR9RT (438,6375 MHz).
-      a: nieznana
-      i: 9
+      d: "Klasa emisji: 11K6F8E (N-FM)"
+      a: Diamond F-718 (18 x 1/2 λ)
+      i: 11.5
 h:
-  "49745022919":
+  "49486094285":
     x:
       - 70cm: 0
-    p: Mordarka - Łysa góra
-    e: 626
-    g: 12
-    a: 49.724771
-    o: 20.45819
+    p: Góra Przehyba 1175 m n.p.m. – teren schroniska PTTK Przehyba
+    e: 1138
+    g: 25
+    a: 49.466387
+    o: 20.555848
 o:
   - SP9FUN
 page: https://mapy73.pl/repeater/SR9GP
