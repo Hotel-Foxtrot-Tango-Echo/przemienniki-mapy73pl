@@ -1,0 +1,31 @@
+h:
+  "49739079885":
+    x:
+      - 2m: 0
+    p: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)
+    e: 770
+    g: 15
+    a: 49.719344
+    o: 20.454852
+x:
+  2m:
+    - h: "49739079885"
+      u:
+        - https://radioteam.pl/sr9lg/
+      d: "Motorola MTR2000 VHF, Duplekser: IK-Telecom"
+      p: 15
+      t: a
+      s: "3"
+      tx:
+        f: 145.6
+        t:
+          - c: "103.5"
+      rx:
+        f: 145
+        t:
+          - c: "103.5"
+      a: nieznana
+      i: 9
+o:
+  - SP9FUN
+page: https://mapy73.pl/repeater/SR9LG

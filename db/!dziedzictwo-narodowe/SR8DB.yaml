@@ -1,0 +1,27 @@
+h:
+  "51589008824":
+    a: 51.567232
+    o: 21.856244
+    p: Dęblin
+    e: 118
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "51589008824"
+      u: []
+      d: ""
+      p: 15
+      t: a
+      s: "4"
+      tx:
+        f: 439.2
+      rx:
+        f: 431.6
+        t:
+          - c: "71.9"
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR8DB

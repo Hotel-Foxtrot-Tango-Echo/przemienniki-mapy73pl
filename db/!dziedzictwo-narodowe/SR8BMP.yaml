@@ -1,0 +1,25 @@
+h:
+  "50045056041":
+    a: 50.023633
+    o: 21.927409
+    p: Kielanówka
+    e: 273
+    g: 20
+    x:
+      - 2m: 0
+x:
+  2m:
+    - h: "50045056041"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 145.7125
+      rx:
+        f: 145.1125
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR8BMP
