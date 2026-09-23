@@ -14,16 +14,19 @@ x:
       d: ""
       p: 0
       t: e
-      s: "6"
+      s: "4"
       tx:
         f: 438.7
       rx:
         f: 431.1
         t:
           - f: "1"
-      e1:
-        - 226
       a: nieznana
       i: 9
+      e1:
+        - 259
+      e2:
+        - 226
+        - 2599
 o: []
 page: https://mapy73.pl/repeater/ER1EVO
