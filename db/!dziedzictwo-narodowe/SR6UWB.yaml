@@ -1,0 +1,25 @@
+h:
+  "50817005757":
+    a: 50.800806
+    o: 16.251569
+    p: Szczawno Zdrój
+    e: 420
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50817005757"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 439.3125
+      rx:
+        f: 431.7125
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR6UWB

@@ -19,12 +19,9 @@ x:
         DC.WML.5101.4494.2023.2
         Przemiennik podłączony do sieci FM-Poland
       j0:
-        - 26061
+        - 260073
       j1:
-        - 2606
-        - 26061
-        - 260613
-        - 260691
+        - 260073
       a: nieznana
       i: 9
 h:
