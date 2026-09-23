@@ -1,0 +1,43 @@
+h:
+  "50113007306":
+    a: 50.093108
+    o: 19.965064
+    p: Kraków
+    e: 216
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "50113007306"
+      u:
+        - https://vhf.com.pl/bramka-echolink-krakow
+      d: |-
+        Numer Węzła: 465431
+
+        [D][1][#] - 819905 # SP2PMK Toruń
+        [D][2][#] - 466022 # SR1G Kołobrzeg
+        [D][3][#] - 871657 # SR2C Gdynia
+        [D][4][#] - 62611 # LU3DRP-R Pinamar Argentina
+        [D][5][#] - 547991 # ED5YAJ-R Valencia
+        [D][6][#] - 649186 # ED1YBK-R Spain
+        [D][7][#] - 146672 # SR2GD Gdańsk
+        [D][8][#] - 915304 # SP7PGK Łódź
+        [D][9][#] - 735269 # SR5PL
+        [D][10][#] - 289049 # SR4ON Olsztyn
+        [D][11][#] - 725031 # SR5OS-R Ostrołęka
+        [D][12][#] - 296866 # SR6L-L Legnica
+        [D][13][#] - 606689 # IW8FER-R In Conference *AELD-ESP*
+
+        [D][99][#] - 9999 # ECHOTEST - papuga/test sygnału     
+      p: 15
+      t: d
+      s: "4"
+      tx:
+        f: 433.5
+      rx:
+        f: 433.5
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR9ELK
