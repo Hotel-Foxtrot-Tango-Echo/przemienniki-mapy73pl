@@ -87,8 +87,9 @@ export class LocationHashHelper {
 }
 ```
 
+## Licencja
 
-<p align="right">
-  A wszystko to opisano z okazji <b>Zjazdu Technicznego Krótkofalowców SP w Burzeninie 2026</b><br>
-  <i>Łukasz HF6TE</i>
-</p>
+Pliki tekstowe bazy danych tego projektu są udostępniane na licencji [GNU AGPLv3](LICENSE).
+
+Dane mogą być wykorzystywane również w celach komercyjnych, jednak pamiętaj, że jeśli z nich korzystasz, modyfikujesz je lub łączysz z własnym oprogramowaniem, masz bezwzględny obowiązek udostępnić swój kod źródłowy innym na tych samych zasadach.
+
