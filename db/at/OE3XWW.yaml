@@ -2,11 +2,12 @@ h:
   "47531074601":
     a: 47.515745
     o: 16.001011
-    p: Moenichkirchen MMDVM
+    p: Moenichkirchen
     e: 1312
     g: 20
     x:
       - 2m: 0
+      - 70cm: 0
 x:
   2m:
     - h: "47531074601"
@@ -33,5 +34,21 @@ x:
       e2:
         - 2323
         - 2326
+  70cm:
+    - h: "47531074601"
+      u:
+        - https://wiki.m17foundation.org/index.php?title=LinHT
+      d: ""
+      p: 15
+      t: m
+      s: "4"
+      a: nieznana
+      i: 9
+      tx:
+        f: 438.575
+      rx:
+        f: 430.975
+        t:
+          - g: "0"
 o: []
 page: https://mapy73.pl/repeater/OE3XWW

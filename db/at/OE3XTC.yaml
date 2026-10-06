@@ -7,6 +7,7 @@ h:
     g: 20
     x:
       - 70cm: 0
+      - 70cm: 1
 x:
   70cm:
     - h: "48577008126"
@@ -26,5 +27,20 @@ x:
       e2:
         - 2323
         - 232081
+    - h: "48577008126"
+      u:
+        - https://wiki.m17foundation.org/index.php?title=LinHT
+      d: ""
+      p: 25
+      t: m
+      s: "4"
+      tx:
+        f: 438.075
+      rx:
+        f: 430.475
+        t:
+          - g: "0"
+      a: nieznana
+      i: 9
 o: []
 page: https://mapy73.pl/repeater/OE3XTC
