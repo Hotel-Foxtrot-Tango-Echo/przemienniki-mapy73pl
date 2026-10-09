@@ -20,8 +20,11 @@ x:
       rx:
         f: 439.45
         t:
-          - f: "1"
+          - f: "2"
       a: nieznana
       i: 9
+      e1:
+        - 284
+        - 284035
 o: []
 page: https://mapy73.pl/repeater/LZ0ADG
