@@ -1,24 +1,19 @@
 x:
   70cm:
-    - rx:
-        f: 431.75
-        t:
-          - c: "127.3"
+    - h: "52289038269"
+      u: []
+      d: ""
+      p: 15
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
       tx:
         f: 439.35
+      rx:
+        f: 431.75
         t:
-          - c: "127.3"
-      h: "52289038269"
-      t: a
-      s: "6"
-      p: 15
-      u: []
-      d: |-
-        UWAGA: Przemiennik pracuje na zastępczej antenie
-
-        Antena 2x5/8 kathrein , urządznie MTR 2000 , 34m 1/2 andrew
-      a: 2x5/8 collinear
-      i: 6.5
+          - f: "1"
 h:
   "52289038269":
     x:
@@ -29,5 +24,5 @@ h:
     a: 52.268254
     o: 21.128688
 o:
-  - SP5KAB
+  - SO5WZ
 page: https://mapy73.pl/repeater/SR5WA

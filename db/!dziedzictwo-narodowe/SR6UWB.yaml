@@ -13,13 +13,18 @@ x:
       u: []
       d: ""
       p: 15
-      t: "0"
-      s: "2"
+      t: e
+      s: "4"
+      a: nieznana
+      i: 9
       tx:
         f: 439.3125
       rx:
         f: 431.7125
-      a: nieznana
-      i: 9
-o: []
+        t:
+          - f: "1"
+      e2:
+        - 260692
+o:
+  - SQ6RR
 page: https://mapy73.pl/repeater/SR6UWB
