@@ -4,22 +4,23 @@ x:
         f: 431.95
       tx:
         f: 439.55
-      h: "52071095165"
+      h: "52025010553"
       t: b
       s: "4"
       p: 15
-      u: []
+      u:
+        - https://pi-star.tail67a5a9.ts.net/
       d: ""
-      a: nieznana
-      i: 9
-    - h: "52071095165"
+      a: F-718
+      i: 11.5
+    - h: "52025010553"
       u: []
       d: ""
       p: 15
       t: e
       s: "4"
-      a: nieznana
-      i: 9
+      a: F-718
+      i: 11.5
       tx:
         f: 439.55
       rx:
@@ -31,15 +32,15 @@ x:
       e2:
         - 26081
 h:
-  "52071095165":
+  "52025010553":
     x:
       - 70cm: 0
       - 70cm: 1
-    p: Biała Podlaska
-    e: 152
-    g: 25
-    a: 52.048835
-    o: 23.116651
+    p: Chotyłów
+    e: 139
+    g: 15
+    a: 52.001746
+    o: 23.35953
 o:
   - SP8QEO
 page: https://mapy73.pl/repeater/SR8UVC
