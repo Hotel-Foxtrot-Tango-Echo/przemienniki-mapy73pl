@@ -21,13 +21,13 @@ x:                          # Częstotliwości - pogrupowane wg pasm
     - rx:                   # [Początek struktury RepeaterData]
         f: 145.0625         # Częstotliwość odbioru
         t:                  # Tony dostępu (opcjonalne)
-          - c: "94.8"       # a=nośna b=ton 1750Hz c=CTCSS d=DCS e=DTMF f=CC(DMR)
+          - c: "94.8"       # a=nośna b=ton 1750Hz c=CTCSS d=DCS e=DTMF f=CC(DMR) g=CAN(M17)
       tx:
         f: 145.6625         # Częstotliwość nadawania
         t: [...]            # Tony TX (opcjonalne)
       h: "56896088623"      # Referencja do lokalizacji w sekcji h
       t: a                  # Typ: a=FM b=D-Star c=ATV d=Echolink e=DMR
-                            #       f=APCO-25 g=C4FM h=TETRA i=FM-Link j=FM-Poland
+                            #       f=APCO-25 g=C4FM h=TETRA i=FM-Link j=FM-Poland m=M17
       s: "4"                # Status: 1=planowany 2=budowany 3=testowy
                             #         4=pracujący 5=nieznany 6=wyłączony
       p: 15                 # Moc [W]
