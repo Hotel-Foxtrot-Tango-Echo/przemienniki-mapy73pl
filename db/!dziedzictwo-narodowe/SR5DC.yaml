@@ -1,0 +1,25 @@
+h:
+  "52254044515":
+    a: 52.233374
+    o: 21.071149
+    p: Warszawa
+    e: 81
+    g: 20
+    x:
+      - 70cm: 0
+x:
+  70cm:
+    - h: "52254044515"
+      u: []
+      d: ""
+      p: 15
+      t: "0"
+      s: "2"
+      tx:
+        f: 439.2875
+      rx:
+        f: 431.6875
+      a: nieznana
+      i: 9
+o: []
+page: https://mapy73.pl/repeater/SR5DC
